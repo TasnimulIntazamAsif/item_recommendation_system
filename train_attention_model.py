@@ -6,9 +6,10 @@ from sklearn.metrics import classification_report, accuracy_score
 from tensorflow.keras.layers import (
     Input, Embedding, Flatten, Concatenate, Dense,
     StringLookup, IntegerLookup, CategoryEncoding,
-    HashedCrossing, Normalization, Multiply
+    HashedCrossing, Normalization, Multiply, Dropout # <-- Dropout add kora holo
 )
 from tensorflow.keras.models import Model
+from tensorflow.keras.optimizers import Adam
 
 # ==========================================
 # 1. Load Real Data & Generate Negative Samples
@@ -66,21 +67,25 @@ context = Concatenate()([season_enc, ts_enc, holiday_in, festival_in])
 
 # Embeddings
 cust_lookup = IntegerLookup(vocabulary=list(train_df['customerId'].unique()))
-cust_emb = Flatten()(Embedding(cust_lookup.vocabulary_size(), 32)(cust_lookup(cust_id_in)))
+cust_emb = Flatten()(Embedding(cust_lookup.vocabulary_size(), 16)(cust_lookup(cust_id_in)))
+
 
 item_lookup = IntegerLookup(vocabulary=list(train_df['itemId'].unique()))
-item_emb = Flatten()(Embedding(item_lookup.vocabulary_size(), 32)(item_lookup(item_id_in)))
+item_emb = Flatten()(Embedding(item_lookup.vocabulary_size(), 16)(item_lookup(item_id_in)))
 
 # Attention Magic
 combined_emb = Concatenate()([cust_emb, item_emb])
-att_gate = Dense(64, activation="sigmoid", name="attention_gate")(context)
+att_gate = Dense(32, activation="sigmoid", name="attention_gate")(context)
 weighted_emb = Multiply()([combined_emb, att_gate])
 
-# Deep Path
-deep = Dense(64, activation="relu")(Concatenate()([weighted_emb, context, qty_norm(qty_in)]))
-deep = Dense(32, activation="relu")(deep)
 
-# Wide Path (Crossing your specific columns)
+# Deep Path with Dropout
+deep = Dense(64, activation="relu")(Concatenate()([weighted_emb, context, qty_norm(qty_in)]))
+deep = Dropout(0.3)(deep) # 30% connection randomly off kore dibe (Overfitting thekabe)
+deep = Dense(32, activation="relu")(deep)
+deep = Dropout(0.2)(deep) # Abar 20% off korbe
+
+# Wide Path (Eta ager motoy i thakbe)
 wide = Dense(1)(Concatenate()([
     CategoryEncoding(num_tokens=10000, output_mode="one_hot")(HashedCrossing(10000)([cust_id_in, item_id_in])),
     CategoryEncoding(num_tokens=5000, output_mode="one_hot")(HashedCrossing(5000)([timeslot_in, item_id_in]))
@@ -90,7 +95,7 @@ wide = Dense(1)(Concatenate()([
 out = Dense(1, activation="sigmoid")(Concatenate()([deep, wide]))
 model = Model(inputs=[cust_id_in, item_id_in, season_in, timeslot_in, holiday_in, festival_in, qty_in], outputs=out)
 
-model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
+model.compile(optimizer=Adam(learning_rate=0.0005), loss='binary_crossentropy', metrics=['accuracy'])
 
 # ==========================================
 # 4. Training Model
