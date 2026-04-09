@@ -1,0 +1,2169 @@
+customerId,itemId,itemName,quantity,orderDate,isHoliday,isFestival,season,timeSlot
+23554,7521,Belleame Peanut Bite Biscuit -240gm,1.0,2023-01-01 09:00:00,0,1,Winter,Morning
+23556,26534,Knorr Thai Soup- 28g,1.0,2023-01-01 13:00:00,0,1,Winter,Afternoon
+23562,3823,Aarong Pasturized Liquid Milk-1Ltr Reg.,1.0,2023-01-01 18:00:00,0,1,Winter,Evening
+23562,332,ACI Pure Salt-1Kg,1.0,2023-01-01 18:00:00,0,1,Winter,Evening
+23565,14997,Sweet Pumpkin(kg),3.06,2023-01-01 21:00:00,0,1,Winter,Night
+23567,31898,Asha Ladies bag-0072,1.0,2023-01-02 02:00:00,0,0,Winter,Night
+23570,4969,Detos CW Chips-30gm,1.0,2023-01-02 07:00:00,0,0,Winter,Morning
+23573,2915,P.Drinko Float Lichi Drink-250ml,2.0,2023-01-02 09:00:00,0,0,Winter,Morning
+23411,26627,Sajeeb Noodles-180g (TS),1.0,2023-01-02 12:00:00,0,0,Winter,Afternoon
+23427,14975,Capsicum Yellow(kg),0.72,2023-01-02 15:00:00,0,0,Winter,Afternoon
+23395,31849,RF Fotua-064,1.0,2023-01-02 18:00:00,0,0,Winter,Evening
+23404,13988,Beef Bone Full,0.59,2023-01-02 23:00:00,0,0,Winter,Night
+23409,12826,Chia Seed (Dana) New-100g,1.0,2023-01-03 03:00:00,0,0,Winter,Night
+23424,13988,Beef Bone Full,1.06,2023-01-03 06:00:00,0,0,Winter,Morning
+23428,13988,Beef Bone Full,0.55,2023-01-03 11:00:00,0,0,Winter,Morning
+23429,4122,Clear Complete Active Care Shampoo-330ml,1.0,2023-01-03 13:00:00,0,0,Winter,Afternoon
+23380,2306,Harpic Total Powder-400gm,1.0,2023-01-03 17:00:00,0,0,Winter,Evening
+23380,6812,Horlicks Classic Malt-250gm Jar,1.0,2023-01-03 17:00:00,0,0,Winter,Evening
+23411,13985,Cow Lever-K,0.52,2023-01-03 19:00:00,0,0,Winter,Evening
+23386,4891,Sensitive Ex Pepsodent Toothpaste-80g,1.0,2023-01-03 23:00:00,0,0,Winter,Night
+23380,13985,Cow Lever-K,3.4,2023-01-04 04:00:00,0,0,Winter,Night
+23407,27353,Nivea Body Spray Fresh Natural - 150ml,1.0,2023-01-04 05:00:00,0,0,Winter,Night
+23423,787,Cardmom-50gm(Alachi),1.0,2023-01-04 09:00:00,0,0,Winter,Morning
+23380,16245,Polar Choco Crombo Ice Cream-1ltr,1.0,2023-01-04 11:00:00,0,0,Winter,Morning
+23442,1341,Nestle Kitkat Chunky-40g,1.0,2023-01-04 16:00:00,0,0,Winter,Afternoon
+23381,13988,Beef Bone Full,3.51,2023-01-04 20:00:00,0,0,Winter,Evening
+23390,3179,Starship Mango Juice 250ml pack,2.0,2023-01-04 21:00:00,0,0,Winter,Night
+23410,13988,Beef Bone Full,1.01,2023-01-04 22:00:00,0,0,Winter,Night
+23424,7444,Pringles Cheesy Cheese-142g IDC,1.0,2023-01-05 01:00:00,0,0,Winter,Night
+23553,13891,GH Chicken Sausage-340gm,1.0,2023-01-05 04:00:00,0,0,Winter,Night
+23557,13988,Beef Bone Full,3.55,2023-01-05 06:00:00,0,0,Winter,Morning
+23557,27732,fun Chocolate Cake,4.0,2023-01-05 06:00:00,0,0,Winter,Morning
+23557,4878,Meril Baby Gel T Paste 45gm Organge,1.0,2023-01-05 06:00:00,0,0,Winter,Morning
+23562,5834,Fortune KG Mustard Oil- 500ml,1.0,2023-01-05 10:00:00,0,0,Winter,Morning
+23565,14957,Lati Thik(Kg),0.5,2023-01-05 14:00:00,0,0,Winter,Afternoon
+23568,26885,Nescafe 3in1-6Pcs-15g,1.0,2023-01-05 17:00:00,0,0,Winter,Evening
+23575,15106,Wood Apple Small (Bell),1.0,2023-01-05 21:00:00,0,0,Winter,Night
+23579,15131,Atta Fruits,0.52,2023-01-06 01:00:00,0,0,Winter,Night
+23580,3823,Aarong Pasturized Liquid Milk-1Ltr Reg.,4.0,2023-01-06 02:00:00,0,0,Winter,Night
+23384,16232,Polar Ice Cream Chocolate-1Ltr(Tub),1.0,2023-01-06 05:00:00,0,0,Winter,Night
+23398,1355,Toblerone Chocolate- 100g,1.0,2023-01-06 10:00:00,0,0,Winter,Morning
+23435,26432,G. BR Vitamin-C Face Wash-50g,1.0,2023-01-06 13:00:00,0,0,Winter,Afternoon
+23442,12515,Gluco Max D- 400g,1.0,2023-01-06 18:00:00,0,0,Winter,Evening
+23380,27,Pran Toast-250g,1.0,2023-01-06 19:00:00,0,0,Winter,Evening
+23387,3,Improved Jet- 200gm Poly Pack,1.0,2023-01-06 21:00:00,0,0,Winter,Night
+23405,864,Pran Haleem Mix(200g),1.0,2023-01-07 01:00:00,0,0,Winter,Night
+23412,4878,Meril Baby Gel T Paste 45gm Organge,1.0,2023-01-07 02:00:00,0,0,Winter,Night
+23429,7190,Baqarah Pasteurized Milk- 1L,1.0,2023-01-07 06:00:00,0,0,Winter,Morning
+23380,976,Lata Rice-KG,5.02,2023-01-07 08:00:00,0,0,Winter,Morning
+23411,32441,Ela vista pomace olive oil 250 ml,1.0,2023-01-07 10:00:00,0,0,Winter,Morning
+23398,1677,Cadbury Silk Oreo - 130gm,3.0,2023-01-07 11:00:00,0,0,Winter,Morning
+23407,42915,Rok Handwash Fruity-200ml(Buy2 Get1 Free),1.0,2023-01-07 13:00:00,0,0,Winter,Afternoon
+23420,12823,Jafran,1.0,2023-01-07 18:00:00,0,0,Winter,Evening
+23427,24717,B Toilet Tissue Extra Saving Pack 4Rolls,1.0,2023-01-07 20:00:00,0,0,Winter,Evening
+23380,15279,Thai Papaya Ripe Red Lady,3.02,2023-01-08 00:00:00,0,0,Winter,Night
+23440,14843,Cucumber Deshi (kg),2.3,2023-01-08 04:00:00,0,0,Winter,Night
+23441,292,Super White Powder-1000g,2.0,2023-01-08 08:00:00,0,0,Winter,Morning
+23442,4969,Detos CW Chips-30gm,2.0,2023-01-08 12:00:00,0,0,Winter,Afternoon
+23400,13780,C.N Chicken Garlic Meatball-250gm,1.0,2023-01-08 17:00:00,0,0,Winter,Evening
+23414,1648,Dairy Milk Fruit & Nut Chocolate-36g,1.0,2023-01-08 20:00:00,0,0,Winter,Evening
+23447,9877,Skin Cafe Aloe Vera Gel -240ml,1.0,2023-01-08 21:00:00,0,0,Winter,Night
+23380,4968,Yokozona Twisty Goodness Crackers-60g,1.0,2023-01-09 01:00:00,0,0,Winter,Night
+23380,898,Radhuni Biriyani Masala-40g,1.0,2023-01-09 01:00:00,0,0,Winter,Night
+23380,31249,Milk Merry Biscuits-240gm,1.0,2023-01-09 01:00:00,0,0,Winter,Night
+23380,13348,Pandan Kaya Bread- 225g,1.0,2023-01-09 01:00:00,0,0,Winter,Night
+23483,31535,GD Tex Ind Ladies 3pcs-353347(4/23),1.0,2023-01-09 03:00:00,0,0,Winter,Night
+23380,788,Cardmom-100gm(Alachi),1.0,2023-01-09 07:00:00,0,0,Winter,Morning
+23494,13722,CP Chicken Nugget-320g,1.0,2023-01-09 09:00:00,0,0,Winter,Morning
+23500,12743,Buter Halua-300g,1.0,2023-01-09 11:00:00,0,0,Winter,Morning
+23503,13691,Roja Deshi Classic Paratha-1300gm,2.0,2023-01-09 15:00:00,0,0,Winter,Afternoon
+23509,24709,Bashundhara Paper Napkin-100p,1.0,2023-01-09 20:00:00,0,0,Winter,Evening
+23517,7190,Baqarah Pasteurized Milk- 1L,1.0,2023-01-09 22:00:00,0,0,Winter,Night
+23455,7017,Good Life Mozzarella Cheese-200gm,1.0,2023-01-10 00:00:00,0,0,Winter,Night
+23460,42617,Jhok Mok Dishwash Bar 300gmB2 get 100gm Free,1.0,2023-01-10 04:00:00,0,0,Winter,Night
+23464,32190,Aradhya Punjabi-2610,1.0,2023-01-10 06:00:00,0,0,Winter,Morning
+23467,22235,Coca Cola-2.25Lt(Pet),1.0,2023-01-10 08:00:00,0,0,Winter,Morning
+23472,2915,P.Drinko Float Lichi Drink-250ml,2.0,2023-01-10 12:00:00,0,0,Winter,Afternoon
+23380,26766,Mr.Noodles Easy Masala-8pcs,1.0,2023-01-10 16:00:00,0,0,Winter,Afternoon
+23380,32441,Ela vista pomace olive oil 250 ml,1.0,2023-01-10 16:00:00,0,0,Winter,Afternoon
+23380,13352,Queens Egg Bread- 125g,1.0,2023-01-10 16:00:00,0,0,Winter,Afternoon
+23492,11200,Lux Fragrant Skin Body Wash-245ml,1.0,2023-01-10 17:00:00,0,0,Winter,Evening
+23493,23252,Dewan Baby Punjabi -055,1.0,2023-01-10 22:00:00,0,0,Winter,Night
+23498,16238,Polar Ice-Cream Mango Mellow-1Ltr,1.0,2023-01-11 03:00:00,0,0,Winter,Night
+23500,2343,Vixol B Cleaner- 450ml  All,1.0,2023-01-11 05:00:00,0,0,Winter,Night
+23465,10059,PC Eyeliner Midnight Black- 503,1.0,2023-01-11 10:00:00,0,0,Winter,Morning
+23431,31379,Olympic Energy Plus Malai Bis-45gm,1.0,2023-01-11 12:00:00,0,0,Winter,Afternoon
+23440,30590,Multi Purpose Container 15L-91015,1.0,2023-01-11 13:00:00,0,0,Winter,Afternoon
+23453,13531,Kazi Chicken keema Paratha-250g,1.0,2023-01-11 17:00:00,0,0,Winter,Evening
+23460,389,Sajeeb Soft Drink Powder Mango -250gm,1.0,2023-01-11 21:00:00,0,0,Winter,Night
+23380,7173,Tang Orange - 200gm {Pkt},1.0,2023-01-12 01:00:00,0,0,Winter,Night
+23492,29127,Fair & Lovely BB Cream-18g,1.0,2023-01-12 06:00:00,0,0,Winter,Morning
+23519,30801,Pesta Nut-50g,1.0,2023-01-12 07:00:00,0,0,Winter,Morning
+23519,545,Golden Raisin (Kismis)-200gm,2.0,2023-01-12 07:00:00,0,0,Winter,Morning
+4959,3182,Starship Chocolate Milk-200ml,1.0,2023-01-12 12:00:00,0,0,Winter,Afternoon
+23530,898,Radhuni Biriyani Masala-40g,1.0,2023-01-12 17:00:00,0,0,Winter,Evening
+18557,3123,G. Naturals Deep Black-20ml,1.0,2023-01-12 18:00:00,0,0,Winter,Evening
+23380,25476,Prince Super Vermichelli Semai-150gm,4.0,2023-01-12 19:00:00,0,0,Winter,Evening
+23471,31973,Ch Baby Frock -2122 (4/23),1.0,2023-01-12 20:00:00,0,0,Winter,Evening
+23380,14998,Capsicum Green,0.27,2023-01-12 21:00:00,0,0,Winter,Night
+23492,30354,Monia Lock Rtg Container 1450ml-917828,1.0,2023-01-13 01:00:00,0,0,Winter,Night
+23506,30801,Pesta Nut-50g,1.0,2023-01-13 04:00:00,0,0,Winter,Night
+23522,31795,Sk Purbani Lungi-055,1.0,2023-01-13 07:00:00,0,0,Winter,Morning
+23523,30611,Sagu-500g,2.0,2023-01-13 08:00:00,0,0,Winter,Morning
+23523,3720,Suree Oyster Sauce-295ml,1.0,2023-01-13 08:00:00,0,0,Winter,Morning
+23523,3792,Italiano Hot Chilli Sauce-340g,1.0,2023-01-13 08:00:00,0,0,Winter,Morning
+23456,15180,Akher Sugar -1kg,2.0,2023-01-13 11:00:00,0,0,Winter,Morning
+23380,30743,Senora S.Nap Eco(Belt)-15s Pad,1.0,2023-01-13 14:00:00,0,0,Winter,Afternoon
+23380,2149,Sensodyne Deep Clean Toothbrush,1.0,2023-01-13 14:00:00,0,0,Winter,Afternoon
+23537,13637,Pastry Sheet - 500g,1.0,2023-01-13 15:00:00,0,0,Winter,Afternoon
+23552,32206,Aradhya Punjabi-2605,1.0,2023-01-13 18:00:00,0,0,Winter,Evening
+23380,6857,Potato  Deshi New-1kg,14.85,2023-01-13 23:00:00,0,0,Winter,Night
+23468,30952,H&S Black Bourbon Biscut(All) -100g,1.0,2023-01-14 01:00:00,0,0,Winter,Night
+23380,708,Radhuni Chatpati Masala 50Gm,2.0,2023-01-14 03:00:00,0,0,Winter,Night
+23380,3739,Hot Pran Tomato Sauce-500gm,1.0,2023-01-14 03:00:00,0,0,Winter,Night
+23498,1677,Cadbury Silk Oreo - 130gm,1.0,2023-01-14 04:00:00,0,0,Winter,Night
+23472,774,Cumin-200gm,1.0,2023-01-14 08:00:00,0,0,Winter,Morning
+23478,32107,Ch Baby Frock -8007 (4/23),1.0,2023-01-14 09:00:00,0,0,Winter,Morning
+23380,3612,Italiano Sweet Chilli Sauce-340g,1.0,2023-01-14 13:00:00,0,0,Winter,Afternoon
+18557,4534,Lux Jasmine & Vitamin E Soap-150g,1.0,2023-01-14 15:00:00,0,0,Winter,Afternoon
+23549,14844,Banana Green Small-kg,0.39,2023-01-14 16:00:00,0,0,Winter,Afternoon
+23553,768,Cinnamon-100g (Daruchine),1.0,2023-01-14 21:00:00,0,0,Winter,Night
+23554,12834,Prince Betel Spice 100gm,1.0,2023-01-15 00:00:00,0,0,Winter,Night
+23551,6857,Potato  Deshi New-1kg,4.98,2023-01-15 04:00:00,0,0,Winter,Night
+23550,23256,Dewan Punjabi - 056,1.0,2023-01-15 07:00:00,0,0,Winter,Morning
+23557,27729,Yum Muffin Cake,2.0,2023-01-15 10:00:00,0,0,Winter,Morning
+23560,4841,Sun Chips Tomato Tango-75gm,1.0,2023-01-15 11:00:00,0,0,Winter,Morning
+23562,2043,Rupchanda Soyabean-5Ltr,1.0,2023-01-15 14:00:00,0,0,Winter,Afternoon
+23562,886,Radhuni Chilli Powder -200gm,1.0,2023-01-15 14:00:00,0,0,Winter,Afternoon
+23565,14959,Ladies Finger (Vendi)-kg,0.83,2023-01-15 19:00:00,0,0,Winter,Evening
+23573,3565,Studio X Face Wash Brightening-100ml,1.0,2023-01-15 22:00:00,0,0,Winter,Night
+23582,13988,Beef Bone Full,1.1,2023-01-15 23:00:00,0,0,Winter,Night
+23579,15106,Wood Apple Small (Bell),1.0,2023-01-16 04:00:00,0,0,Winter,Night
+23400,6857,Potato  Deshi New-1kg,2.01,2023-01-16 06:00:00,0,0,Winter,Morning
+23416,1467,Toren Classic Chocolate- 52g,2.0,2023-01-16 09:00:00,0,0,Winter,Morning
+23425,23117,One Man Punjabi -0521,2.0,2023-01-16 10:00:00,0,0,Winter,Morning
+23431,7514,Belleame Cremo Biscuit- 90g,1.0,2023-01-16 12:00:00,0,0,Winter,Afternoon
+23430,13989,Beef Without Bone Special,2.03,2023-01-16 14:00:00,0,0,Winter,Afternoon
+23441,15263,Malta (Yellow)-kg,1.48,2023-01-16 18:00:00,0,0,Winter,Evening
+23388,30641,Pure It GKK-1500L(Filter),1.0,2023-01-16 23:00:00,0,0,Winter,Night
+23400,14969,Carrot (Deshi) kg,0.73,2023-01-17 02:00:00,0,0,Winter,Night
+23401,15180,Akher Sugar -1kg,2.0,2023-01-17 03:00:00,0,0,Winter,Night
+23380,3182,Starship Chocolate Milk-200ml,5.0,2023-01-17 07:00:00,0,0,Winter,Morning
+23494,29148,Lakme Kajal Eye Co Nic-0.35g,1.0,2023-01-17 12:00:00,0,0,Winter,Afternoon
+23497,12770,Muslim Masala Badam-200g,1.0,2023-01-17 16:00:00,0,0,Winter,Afternoon
+23509,29083,Seylon Family Blend Tea-200g,1.0,2023-01-17 21:00:00,0,0,Winter,Night
+23531,12583,Pigeon-1PC,1.0,2023-01-18 02:00:00,0,0,Winter,Night
+23545,28630,Organikare  Amla Hairpack-80g,1.0,2023-01-18 05:00:00,0,0,Winter,Night
+23553,7196,Austogram Mozzarella Cheese-250gm,1.0,2023-01-18 10:00:00,0,0,Winter,Morning
+23553,898,Radhuni Biriyani Masala-40g,2.0,2023-01-18 10:00:00,0,0,Winter,Morning
+23560,14972,Bath Sponge (Dhundul)-kg,0.56,2023-01-18 14:00:00,0,0,Winter,Afternoon
+23560,25574,Lifeboy Liquid Hand Wash(Lemon F)-170ml,1.0,2023-01-18 14:00:00,0,0,Winter,Afternoon
+23562,852,Pran Turmeric Powder-200g,1.0,2023-01-18 19:00:00,0,0,Winter,Evening
+23566,13565,F Clarks Ess 28ml(Vanilla),1.0,2023-01-18 22:00:00,0,0,Winter,Night
+23569,32218,Anita Ind Rupa Frontline Vest-(4/23),1.0,2023-01-19 01:00:00,0,0,Winter,Night
+23571,13810,Cock Roast (Deshi)-PC,8.0,2023-01-19 05:00:00,0,0,Winter,Night
+23573,3179,Starship Mango Juice 250ml pack,2.0,2023-01-19 07:00:00,0,0,Winter,Morning
+23580,13802,Chicken (Deshi),1.5,2023-01-19 09:00:00,0,0,Winter,Morning
+23580,30627,Bashundhara Atta-2kg,1.0,2023-01-19 09:00:00,0,0,Winter,Morning
+23388,26430,G.Men Turbo B Face Wash-100ml,1.0,2023-01-19 14:00:00,0,0,Winter,Afternoon
+23380,13917,Rui Fish (XL)-(HB),4.42,2023-01-19 15:00:00,0,0,Winter,Afternoon
+23419,12637,Ramisa-Nakshi Pitha Box-4 Pcs,1.0,2023-01-19 20:00:00,0,0,Winter,Evening
+23419,12823,Jafran,1.0,2023-01-19 20:00:00,0,0,Winter,Evening
+23419,13563,F Clarks Ess 28ml(Mango),1.0,2023-01-19 20:00:00,0,0,Winter,Evening
+23440,2915,P.Drinko Float Lichi Drink-250ml,2.0,2023-01-20 00:00:00,0,0,Winter,Night
+23440,13988,Beef Bone Full,1.63,2023-01-20 00:00:00,0,0,Winter,Night
+23450,15269,Grapes (Red),0.48,2023-01-20 04:00:00,0,0,Winter,Night
+23380,13988,Beef Bone Full,30.69,2023-01-20 08:00:00,0,0,Winter,Morning
+23405,878,Radhuni Spices (Corinder)-100gm,1.0,2023-01-20 12:00:00,0,0,Winter,Afternoon
+23424,13354,Queens Custard Bread- 90g,1.0,2023-01-20 16:00:00,0,0,Winter,Afternoon
+23415,13988,Beef Bone Full,2.1,2023-01-20 19:00:00,0,0,Winter,Evening
+23419,14046,Gulsha Fish(Small)-(HB),1.39,2023-01-20 21:00:00,0,0,Winter,Night
+23380,3780,Prince Soya Sauce-250gm,1.0,2023-01-21 01:00:00,0,0,Winter,Night
+23380,3858,Pran Sweetened Yogurt-100gm,2.0,2023-01-21 01:00:00,0,0,Winter,Night
+23440,13354,Queens Custard Bread- 90g,1.0,2023-01-21 02:00:00,0,0,Winter,Night
+23442,16228,Polar Ice Cream Vanilla-1/2Ltr(Tub),1.0,2023-01-21 03:00:00,0,0,Winter,Night
+23388,2039,Teer Soyabean Oil-1Ltr,1.0,2023-01-21 04:00:00,0,0,Winter,Night
+23400,13809,Chicken Deshi Cock (Live),1.0,2023-01-21 05:00:00,0,0,Winter,Night
+23380,28573,Lattafa  Air Freshener-300ml (Pure Oudi),1.0,2023-01-21 08:00:00,0,0,Winter,Morning
+23434,15296,Apple(Gala),0.62,2023-01-21 09:00:00,0,0,Winter,Morning
+23380,12674,Ramisa Sweet Munakka-200gm,1.0,2023-01-21 13:00:00,0,0,Winter,Afternoon
+23380,12587,Calender Pineapple,3.0,2023-01-21 13:00:00,0,0,Winter,Afternoon
+23454,32228,China Ladies Shoe F-30(4/23),1.0,2023-01-21 18:00:00,0,0,Winter,Evening
+23380,28920,Brooke Bond Taaza Tea- 400gm,1.0,2023-01-21 19:00:00,0,0,Winter,Evening
+23380,31235,Olympic Biscotti Elachi Cookies-80gm,1.0,2023-01-21 19:00:00,0,0,Winter,Evening
+23380,4355,H&S Shampoo+Con. Smooth&Silky 2in1-650ml,1.0,2023-01-21 19:00:00,0,0,Winter,Evening
+23481,23119,One Man Punjabi5684-0931,1.0,2023-01-21 22:00:00,0,0,Winter,Night
+23477,32025,Muad Panjabi-2205,2.0,2023-01-22 01:00:00,0,0,Winter,Night
+23380,12627,Ramisa-Fried Chira Masala Pkt-200gm,1.0,2023-01-22 02:00:00,0,0,Winter,Night
+23380,13895,GH Spicy Chicken Sausage-340gm,1.0,2023-01-22 02:00:00,0,0,Winter,Night
+23497,287,Unik Complete C. Powder-400g,1.0,2023-01-22 07:00:00,0,0,Winter,Morning
+23499,31992,Ch Baby Pant -A731 (4/23),1.0,2023-01-22 08:00:00,0,0,Winter,Morning
+23503,42676,Dettol HW.170ml buy 2 Get Tiffin Box Free,1.0,2023-01-22 11:00:00,0,0,Winter,Morning
+18557,13604,Eon Chicken Spring Roll- 300gm,1.0,2023-01-22 13:00:00,0,0,Winter,Afternoon
+23546,765,Black Pepper(Chili)-50g,1.0,2023-01-22 17:00:00,0,0,Winter,Evening
+23460,6823,Horlicks Mothers Plus- 350gm,1.0,2023-01-22 20:00:00,0,0,Winter,Evening
+23467,15180,Akher Sugar -1kg,6.0,2023-01-22 21:00:00,0,0,Winter,Night
+23473,14045,Pabda Fish (Big),1.13,2023-01-23 01:00:00,0,0,Winter,Night
+23440,30113,"Italiano 9"" Crazy Bowl",1.0,2023-01-23 02:00:00,0,0,Winter,Night
+23380,1192,Prince Olive Pickle(400gm),1.0,2023-01-23 03:00:00,0,0,Winter,Night
+23380,2915,P.Drinko Float Lichi Drink-250ml,11.0,2023-01-23 03:00:00,0,0,Winter,Night
+23411,3509,Clean&Clear Foaming F/W-50ml,,2023-01-23 05:00:00,0,0,Winter,Night
+23415,489,Chola Pulse-1kg,2.0,2023-01-23 09:00:00,0,0,Winter,Morning
+23380,14801,Net Pumpkin (Jali Kumra)-Pc,1.0,2023-01-23 13:00:00,0,0,Winter,Afternoon
+23380,12823,Jafran,1.0,2023-01-23 13:00:00,0,0,Winter,Afternoon
+23380,2364,Rok Tiles & Bathroom- 1000ml,1.0,2023-01-23 13:00:00,0,0,Winter,Afternoon
+23380,891,R.Spices(Turmaric)-100g,1.0,2023-01-23 13:00:00,0,0,Winter,Afternoon
+23380,14995,Bottle Guard Big(Lau)-Pc,1.0,2023-01-23 13:00:00,0,0,Winter,Afternoon
+23488,30770,Whisper Ultra Night XL+ 15 Pads,1.0,2023-01-23 15:00:00,0,0,Winter,Afternoon
+23489,32106,Ch Baby Frock -9217(4/23),1.0,2023-01-23 18:00:00,0,0,Winter,Evening
+23519,3612,Italiano Sweet Chilli Sauce-340g,1.0,2023-01-23 19:00:00,0,0,Winter,Evening
+23520,705,Easy Mix Roast Masala-35g,1.0,2023-01-24 00:00:00,0,0,Winter,Night
+23523,13988,Beef Bone Full,2.0,2023-01-24 01:00:00,0,0,Winter,Night
+23523,2915,P.Drinko Float Lichi Drink-250ml,1.0,2023-01-24 01:00:00,0,0,Winter,Night
+23542,961,Rupchada Chinigura Rice-2kg,1.0,2023-01-24 02:00:00,0,0,Winter,Night
+18557,24715,Bashun Paper Towel 1Ply- 250Pcs,2.0,2023-01-24 05:00:00,0,0,Winter,Night
+23553,769,Clove Lobongo-50g,1.0,2023-01-24 06:00:00,0,0,Winter,Morning
+23380,445,Savory Haleem Mix-200gm,1.0,2023-01-24 08:00:00,0,0,Winter,Morning
+23460,13988,Beef Bone Full,1.59,2023-01-24 10:00:00,0,0,Winter,Morning
+23461,3612,Italiano Sweet Chilli Sauce-340g,1.0,2023-01-24 14:00:00,0,0,Winter,Afternoon
+23380,32486,Sunsilk Hair Fall Solution Shampoo-170ml,5.0,2023-01-24 19:00:00,0,0,Winter,Evening
+23530,15180,Akher Sugar -1kg,1.0,2023-01-24 20:00:00,0,0,Winter,Evening
+23544,3856,Pran Chocolate Milk -200ml,1.0,2023-01-24 21:00:00,0,0,Winter,Night
+18557,7017,Good Life Mozzarella Cheese-200gm,1.0,2023-01-25 00:00:00,0,0,Winter,Night
+18557,4533,Lifeboy Total 10-150gm,1.0,2023-01-25 00:00:00,0,0,Winter,Night
+23461,4969,Detos CW Chips-30gm,3.0,2023-01-25 02:00:00,0,0,Winter,Night
+23475,19674,A.K  Trouser -082,1.0,2023-01-25 07:00:00,0,0,Winter,Morning
+23512,2915,P.Drinko Float Lichi Drink-250ml,1.0,2023-01-25 11:00:00,0,0,Winter,Morning
+23511,29477,Silk Bottle 500ml -Assorted,1.0,2023-01-25 13:00:00,0,0,Winter,Afternoon
+23517,13922,Rui Fish (S1)-(MNK),1.26,2023-01-25 17:00:00,0,0,Winter,Evening
+23525,14986,Meant Leaf (Pudina Leaf)- Pc,1.0,2023-01-25 20:00:00,0,0,Winter,Evening
+23527,31328,Prince Lacha Samai-200g(Pkt),1.0,2023-01-25 23:00:00,0,0,Winter,Night
+23543,27072,Borges Black Sliced  Olives-230ml,1.0,2023-01-26 00:00:00,0,0,Winter,Night
+23468,14043,Q Omega 3 Enriched  Egg  (1 Dozen),1.0,2023-01-26 05:00:00,0,0,Winter,Night
+23476,3055,Foster Clarks Orange-250g,1.0,2023-01-26 09:00:00,0,0,Winter,Morning
+23475,23292,PG Punjabi- 059,1.0,2023-01-26 11:00:00,0,0,Winter,Morning
+23499,31555,Sultan Ind. Punjabi -(4/23),1.0,2023-01-26 14:00:00,0,0,Winter,Afternoon
+23523,15180,Akher Sugar -1kg,1.0,2023-01-26 15:00:00,0,0,Winter,Afternoon
+23553,26609,D Korean Ramen 3X Spicy Noodles-496gm,1.0,2023-01-26 16:00:00,0,0,Winter,Afternoon
+23556,14801,Net Pumpkin (Jali Kumra)-Pc,1.0,2023-01-26 20:00:00,0,0,Winter,Evening
+23557,25474,Lassa Special Semai-500g(Pkt),1.0,2023-01-26 23:00:00,0,0,Winter,Night
+23560,2915,P.Drinko Float Lichi Drink-250ml,2.0,2023-01-27 04:00:00,0,0,Winter,Night
+23560,14035,Omega 3 Vitamin-E  Egg-12pcs,1.0,2023-01-27 04:00:00,0,0,Winter,Night
+23562,15180,Akher Sugar -1kg,1.0,2023-01-27 07:00:00,0,0,Winter,Morning
+23580,768,Cinnamon-100g (Daruchine),1.0,2023-01-27 11:00:00,0,0,Winter,Morning
+23580,14088,Shrimp Fish Golda(Big)-(STR),1.17,2023-01-27 11:00:00,0,0,Winter,Morning
+23380,25529,Rok Handwash Apple-350ml,1.0,2023-01-27 15:00:00,0,0,Winter,Afternoon
+23391,42961,Dolphin Nata de Coco Drink (All)-270gm,1.0,2023-01-27 18:00:00,0,0,Winter,Evening
+23407,2246,Pepsodent Charcoal W. Toothpaste-140gm,1.0,2023-01-27 22:00:00,0,0,Winter,Night
+23380,30789,Teer Suji 500gm,2.0,2023-01-28 01:00:00,0,0,Winter,Night
+23380,1869,Snickers Chocolate-50gm,1.0,2023-01-28 01:00:00,0,0,Winter,Night
+23407,3831,Milk Vita Liquid Milk-1Ltr,1.0,2023-01-28 03:00:00,0,0,Winter,Night
+23414,1869,Snickers Chocolate-50gm,1.0,2023-01-28 06:00:00,0,0,Winter,Morning
+23420,12664,Ramisa Dal Vaja-200g,1.0,2023-01-28 09:00:00,0,0,Winter,Morning
+23468,14990,Usta(kg),0.36,2023-01-28 13:00:00,0,0,Winter,Afternoon
+23474,32006,B Plus VIP Pcs-0511,1.0,2023-01-28 17:00:00,0,0,Winter,Evening
+23380,2255,Pepsodent Gremichek+ Toothpaste-100gm,5.0,2023-01-28 18:00:00,0,0,Winter,Evening
+23486,43087,China Tshirt 28071(4/23),1.0,2023-01-28 19:00:00,0,0,Winter,Evening
+23380,2038,Teer Soya Oil 2Lt(Bottle),5.0,2023-01-28 21:00:00,0,0,Winter,Night
+23380,15146,Watermelon Banglalink - Kg,2.87,2023-01-28 21:00:00,0,0,Winter,Night
+23380,22241,Kinley Club Soda -600ml,1.0,2023-01-28 21:00:00,0,0,Winter,Night
+23494,2206,Arrow Toothbrush,1.0,2023-01-28 22:00:00,0,0,Winter,Night
+23500,13989,Beef Without Bone Special,1.07,2023-01-29 01:00:00,0,0,Winter,Night
+23503,28645,Organikare  Amla Hairpack-80g,1.0,2023-01-29 05:00:00,0,0,Winter,Night
+23520,32518,Sunsilk Shampoo Volume-375ml,1.0,2023-01-29 06:00:00,0,0,Winter,Morning
+23551,14815,Tomato L.C(kg),1.15,2023-01-29 07:00:00,0,0,Winter,Morning
+23565,14960,Brinjal Long (Thin)-kg,1.1,2023-01-29 09:00:00,0,0,Winter,Morning
+23578,7174,Tang Orange Drink Powder - 500gm {Pkt},1.0,2023-01-29 11:00:00,0,0,Winter,Morning
+23579,13994,Mutton,1.84,2023-01-29 14:00:00,0,0,Winter,Afternoon
+23580,978,Pari Rice-Kg,10.16,2023-01-29 18:00:00,0,0,Winter,Evening
+23390,3185,Marks Milk Shake AS-125,1.0,2023-01-29 20:00:00,0,0,Winter,Evening
+23410,110,Wheel 2in1 Clean & Fresh Powder-500g,1.0,2023-01-29 21:00:00,0,0,Winter,Night
+23420,30745,Senora Confidence-16Pads,1.0,2023-01-30 01:00:00,0,0,Winter,Night
+23429,13802,Chicken (Deshi),0.75,2023-01-30 05:00:00,0,0,Winter,Night
+23380,3952,Pran UHT Milk-200ml,2.0,2023-01-30 06:00:00,0,0,Winter,Morning
+23380,14983,Cauliflower(B)-Pc,2.0,2023-01-30 06:00:00,0,0,Winter,Morning
+23380,30803,Kath Badam-100g,1.0,2023-01-30 06:00:00,0,0,Winter,Morning
+23444,4767,Sensodyne Repair&Protect Toothpaste-100g,1.0,2023-01-30 08:00:00,0,0,Winter,Morning
+23380,15106,Wood Apple Small (Bell),1.0,2023-01-30 09:00:00,0,0,Winter,Morning
+23429,22235,Coca Cola-2.25Lt(Pet),1.0,2023-01-30 13:00:00,0,0,Winter,Afternoon
+23435,12794,Muslim Jhuri Vaza- 200g,1.0,2023-01-30 18:00:00,0,0,Winter,Evening
+23451,31963,China Baby Frock -7808 (4/23),1.0,2023-01-30 23:00:00,0,0,Winter,Night
+23389,3179,Starship Mango Juice 250ml pack,1.0,2023-01-31 02:00:00,0,0,Winter,Night
+23429,15296,Apple(Gala),0.71,2023-01-31 03:00:00,0,0,Winter,Night
+23380,15267,Apple Green,1.82,2023-01-31 04:00:00,0,0,Winter,Night
+23432,42829,China T Shirt  3612(4/23),1.0,2023-01-31 07:00:00,0,0,Winter,Morning
+23380,546,Golden Raising-100gm(Kismis),2.0,2023-01-31 10:00:00,0,0,Winter,Morning
+23409,26437,Dabur Gulabari Rose Water-120ml,1.0,2023-01-31 13:00:00,0,0,Winter,Afternoon
+23413,15120,Tamarind Sora Special Wrapping,0.44,2023-01-31 17:00:00,0,0,Winter,Evening
+23437,13988,Beef Bone Full,2.05,2023-01-31 18:00:00,0,0,Winter,Evening
+23380,3003,Marks Cookies & Cream Flavour - 125ml,3.0,2023-01-31 22:00:00,0,0,Winter,Night
+23380,4842,Sun Chips Wasabi-35g,1.0,2023-01-31 22:00:00,0,0,Winter,Night
+23380,25567,Lifebuoy Liquid Care Hand Wash-170ml,2.0,2023-01-31 22:00:00,0,0,Winter,Night
+23380,32191,KurKure Cream & Onion 75gm,1.0,2023-01-31 22:00:00,0,0,Winter,Night
+23380,14062,Puti Fish (Deshi) (HB),0.66,2023-01-31 22:00:00,0,0,Winter,Night
+23380,15131,Atta Fruits,0.31,2023-01-31 22:00:00,0,0,Winter,Night
+23420,1659,Dairy Milk Chocolate-24g,1.0,2023-02-01 01:00:00,0,0,Winter,Night
+23426,13985,Cow Lever-K,0.99,2023-02-01 02:00:00,0,0,Winter,Night
+23427,951,Chashi Aromatic Chinigura Rice-1Kg,1.0,2023-02-01 06:00:00,0,0,Winter,Morning
+23380,3611,Italiano BBQ Sauce-340g,1.0,2023-02-01 10:00:00,0,0,Winter,Morning
+23380,14964,Green Papaya(kg),1.19,2023-02-01 10:00:00,0,0,Winter,Morning
+23380,4840,Sun Chips Mix Masala-35gm,2.0,2023-02-01 10:00:00,0,0,Winter,Morning
+23467,4890,Close-Up Menthol Fresh-160g,1.0,2023-02-01 13:00:00,0,0,Winter,Afternoon
+23468,14060,Shrimp Fish( Galda)-(TR),1.05,2023-02-01 14:00:00,0,0,Winter,Afternoon
+23380,14997,Sweet Pumpkin(kg),1.0,2023-02-01 17:00:00,0,0,Winter,Evening
+23380,4211,Treseme Batnique Conditionar -190ml,1.0,2023-02-01 17:00:00,0,0,Winter,Evening
+23476,14843,Cucumber Deshi (kg),0.58,2023-02-01 18:00:00,0,0,Winter,Evening
+23483,31542,Sultan Ind. Punjabi 2pcs -(4/23),1.0,2023-02-01 23:00:00,0,0,Winter,Night
+23380,30610,Sagu-250g,2.0,2023-02-02 01:00:00,0,0,Winter,Night
+23507,15180,Akher Sugar -1kg,1.0,2023-02-02 03:00:00,0,0,Winter,Night
+23523,332,ACI Pure Salt-1Kg,1.0,2023-02-02 05:00:00,0,0,Winter,Night
+23543,32483,Sunsilk Hairfall Solution Shampoo-330ml,1.0,2023-02-02 08:00:00,0,0,Winter,Morning
+18557,318,Musur Pulse Kangaroo -1Kg (sp),1.0,2023-02-02 13:00:00,0,0,Winter,Afternoon
+23391,13869,G H Deshi Paratha(Family pack)-1300gm,1.0,2023-02-02 14:00:00,0,0,Winter,Afternoon
+23400,13988,Beef Bone Full,2.02,2023-02-02 18:00:00,0,0,Winter,Evening
+23380,25486,Aquafina Drinking Water- 500ml,2.0,2023-02-02 19:00:00,0,0,Winter,Evening
+23380,332,ACI Pure Salt-1Kg,2.0,2023-02-02 19:00:00,0,0,Winter,Evening
+23451,31927,Mama Vagina Gamsa-701,1.0,2023-02-02 23:00:00,0,0,Winter,Night
+23380,13802,Chicken (Deshi),1.51,2023-02-03 00:00:00,0,0,Winter,Night
+23380,3969,Farmland FCMP 500g,1.0,2023-02-03 00:00:00,0,0,Winter,Night
+23405,4861,Kurkure  Style Spicy Chicken-80gm,1.0,2023-02-03 05:00:00,0,0,Winter,Night
+23409,31379,Olympic Energy Plus Malai Bis-45gm,1.0,2023-02-03 09:00:00,0,0,Winter,Morning
+23423,774,Cumin-200gm,1.0,2023-02-03 12:00:00,0,0,Winter,Afternoon
+23380,14959,Ladies Finger (Vendi)-kg,0.95,2023-02-03 13:00:00,0,0,Winter,Afternoon
+23431,13958,Shrimp Fish Bagda,1.04,2023-02-03 14:00:00,0,0,Winter,Afternoon
+23440,27729,Yum Muffin Cake,6.0,2023-02-03 18:00:00,0,0,Winter,Evening
+23500,15153,Apple Fuji Big,0.98,2023-02-03 21:00:00,0,0,Winter,Night
+23520,3810,Arla Dano Daily Pushti-200gm Pack,1.0,2023-02-04 00:00:00,0,0,Winter,Night
+23523,15128,Dry Boroi-1kg,0.32,2023-02-04 05:00:00,0,0,Winter,Night
+23460,28175,Dabur Honey-250gm,1.0,2023-02-04 08:00:00,0,0,Winter,Morning
+23380,4535,Lux Rose Soap-150gm,1.0,2023-02-04 11:00:00,0,0,Winter,Morning
+23380,1704,Cho Cup Strawberry Cup -40g,1.0,2023-02-04 11:00:00,0,0,Winter,Morning
+23520,42915,Rok Handwash Fruity-200ml(Buy2 Get1 Free),1.0,2023-02-04 14:00:00,0,0,Winter,Afternoon
+23525,3832,Milk Vita Liquid Milk-1/2Ltr,1.0,2023-02-04 16:00:00,0,0,Winter,Afternoon
+23539,30928,Bakemans Choco Boost-250gm,1.0,2023-02-04 21:00:00,0,0,Winter,Night
+18557,2801,Vita Juice -250ml,1.0,2023-02-04 22:00:00,0,0,Winter,Night
+23380,3190,Pran Mango Junior-125ml,2.0,2023-02-05 02:00:00,0,0,Winter,Night
+23461,14969,Carrot (Deshi) kg,1.09,2023-02-05 03:00:00,0,0,Winter,Night
+23466,31971,Ch Baby Party Frock -AM100 (4/23),1.0,2023-02-05 08:00:00,0,0,Winter,Morning
+23477,32130,China Ladies Shoe 622 (4/23),1.0,2023-02-05 12:00:00,0,0,Winter,Afternoon
+23527,13354,Queens Custard Bread- 90g,1.0,2023-02-05 17:00:00,0,0,Winter,Evening
+23537,14969,Carrot (Deshi) kg,0.7,2023-02-05 20:00:00,0,0,Winter,Evening
+18557,7055,Lactima Cbeddar Slice Cheese-200gm,1.0,2023-02-06 00:00:00,0,0,Winter,Night
+23547,29092,Mirzapore Best Leaf-200gm,1.0,2023-02-06 03:00:00,0,0,Winter,Night
+23380,7516,Belleame Digestive Biscuit- 135g,1.0,2023-02-06 04:00:00,0,0,Winter,Night
+23380,22237,Coca Cola-600ml(Pet),1.0,2023-02-06 04:00:00,0,0,Winter,Night
+23492,7175,StarJus Orange -1Ltr,1.0,2023-02-06 05:00:00,0,0,Winter,Night
+23494,42618,Safe Hand wash value pack(Purpel) 350ml,1.0,2023-02-06 09:00:00,0,0,Winter,Morning
+23508,32219,Anita Ind Lux Cozi Vest-(4/23),1.0,2023-02-06 13:00:00,0,0,Winter,Afternoon
+23519,453,Saad Testy Bit Salt-100gm,2.0,2023-02-06 18:00:00,0,0,Winter,Evening
+23546,25475,Vermicelli Samai-200gm,1.0,2023-02-06 23:00:00,0,0,Winter,Night
+23380,14815,Tomato L.C(kg),0.8,2023-02-07 02:00:00,0,0,Winter,Night
+23476,13989,Beef Without Bone Special,0.58,2023-02-07 06:00:00,0,0,Winter,Morning
+23489,32110,Ch Baby Frock -3016 (4/23),1.0,2023-02-07 07:00:00,0,0,Winter,Morning
+23499,32412,China Ladies Shoe A7737(4/23),1.0,2023-02-07 12:00:00,0,0,Winter,Afternoon
+23508,19679,A.K Check Trouser- 052,2.0,2023-02-07 17:00:00,0,0,Winter,Evening
+23519,900,Radhuni Panchforon-50g,2.0,2023-02-07 18:00:00,0,0,Winter,Evening
+23520,313,Mug Pulse (Sona)-1kg,1.0,2023-02-07 23:00:00,0,0,Winter,Night
+23531,12743,Buter Halua-300g,1.0,2023-02-08 02:00:00,0,0,Winter,Night
+23545,12630,Ramisa-Jhori Vaja Pkt-200gm,1.0,2023-02-08 06:00:00,0,0,Winter,Morning
+23553,43008,Plain Sugar Bread-150gm,1.0,2023-02-08 07:00:00,0,0,Winter,Morning
+23560,15267,Apple Green,0.34,2023-02-08 11:00:00,0,0,Winter,Morning
+23566,42926,Cadburry Cocoa Powder-250gm,1.0,2023-02-08 16:00:00,0,0,Winter,Afternoon
+23574,32253,PB Fashion Punjabi-2385,1.0,2023-02-08 21:00:00,0,0,Winter,Night
+23576,14986,Meant Leaf (Pudina Leaf)- Pc,1.0,2023-02-08 22:00:00,0,0,Winter,Night
+23580,14959,Ladies Finger (Vendi)-kg,0.46,2023-02-09 01:00:00,0,0,Winter,Night
+23578,2039,Teer Soyabean Oil-1Ltr,1.0,2023-02-09 03:00:00,0,0,Winter,Night
+23584,13988,Beef Bone Full,2.01,2023-02-09 04:00:00,0,0,Winter,Night
+23576,25474,Lassa Special Semai-500g(Pkt),1.0,2023-02-09 06:00:00,0,0,Winter,Morning
+23586,15106,Wood Apple Small (Bell),2.0,2023-02-09 08:00:00,0,0,Winter,Morning
+18557,25438,Aarong Butter (Salted)-200gm,1.0,2023-02-09 11:00:00,0,0,Winter,Morning
+23461,26889,Coffee Mate-450gm(BIB),1.0,2023-02-09 13:00:00,0,0,Winter,Afternoon
+23380,22248,7Up 2Ltr,1.0,2023-02-09 15:00:00,0,0,Winter,Afternoon
+23380,26617,Maggi Masala Noodles Family Pack-992gm,1.0,2023-02-09 15:00:00,0,0,Winter,Afternoon
+23466,32012,Ch Baby Set N-5215 (4/23),1.0,2023-02-09 18:00:00,0,0,Winter,Evening
+23491,15106,Wood Apple Small (Bell),1.0,2023-02-09 20:00:00,0,0,Winter,Evening
+23543,28919,Brooke Bond Taaza Black Tea-200g,1.0,2023-02-09 22:00:00,0,0,Winter,Night
+23549,32203,KurKure Naughty Tomato 37gm,1.0,2023-02-10 00:00:00,0,0,Winter,Night
+23551,974,Minicate RIce-Kg Bag,10.0,2023-02-10 01:00:00,0,0,Winter,Night
+23551,14807,Bean (White)-kg,1.01,2023-02-10 01:00:00,0,0,Winter,Night
+23557,6953,Cerelac 5 Vegetable & Multi Grains- 350g,2.0,2023-02-10 02:00:00,0,0,Winter,Night
+23560,14843,Cucumber Deshi (kg),0.51,2023-02-10 03:00:00,0,0,Winter,Night
+23561,14843,Cucumber Deshi (kg),0.56,2023-02-10 06:00:00,0,0,Winter,Morning
+23563,32332,Lala Ind Ladies 3pcs -14004 (4/23),1.0,2023-02-10 11:00:00,0,0,Winter,Morning
+23562,28950,Kazi & Kazi Black Tea Family Pack -400g,1.0,2023-02-10 13:00:00,0,0,Winter,Afternoon
+23566,7523,Belleame Choco Little Biscuit -240gm,1.0,2023-02-10 15:00:00,0,0,Winter,Afternoon
+23568,7510,Bisk Club Potata Biscuit- 100g,1.0,2023-02-10 18:00:00,0,0,Winter,Evening
+23580,12630,Ramisa-Jhori Vaja Pkt-200gm,1.0,2023-02-10 20:00:00,0,0,Winter,Evening
+23580,12819,Tokmadana-100gm,1.0,2023-02-10 20:00:00,0,0,Winter,Evening
+23580,2043,Rupchanda Soyabean-5Ltr,1.0,2023-02-10 20:00:00,0,0,Winter,Evening
+23395,32123,Ch Baby T-Shirt-21030 (4/23),1.0,2023-02-10 21:00:00,0,0,Winter,Night
+23405,25571,Lifebuoy Liquid Total Hand Wash-170ml,1.0,2023-02-11 02:00:00,0,0,Winter,Night
+23408,22251,Mountan Dew-250ml Can,1.0,2023-02-11 06:00:00,0,0,Winter,Morning
+23434,15280,Nag Fruits-kg,0.66,2023-02-11 08:00:00,0,0,Winter,Morning
+23436,32048,Defence Tawhid Lungi-055,4.0,2023-02-11 09:00:00,0,0,Winter,Morning
+23440,30610,Sagu-250g,1.0,2023-02-11 13:00:00,0,0,Winter,Afternoon
+23390,4550,Lifebuoy Health Soap Lemon Fresh-100g,1.0,2023-02-11 18:00:00,0,0,Winter,Evening
+23405,4843,Sun Chips Salt & Papper-22g,1.0,2023-02-11 22:00:00,0,0,Winter,Night
+23380,12778,Muslim Jhinuk-200g,1.0,2023-02-11 23:00:00,0,0,Winter,Night
+23380,2040,Teer Advance Fortified Oil-8Ltr,1.0,2023-02-11 23:00:00,0,0,Winter,Night
+23423,12823,Jafran,1.0,2023-02-12 03:00:00,0,0,Winter,Night
+23440,7001,Baqarah Pasteurized Milk- 1/2 L,4.0,2023-02-12 06:00:00,0,0,Winter,Morning
+23411,25571,Lifebuoy Liquid Total Hand Wash-170ml,1.0,2023-02-12 10:00:00,0,0,Winter,Morning
+23410,133,Rin Advanced-500gm,1.0,2023-02-12 12:00:00,0,0,Winter,Afternoon
+23442,123,Vim Dishwash Liquid- 250ml,2.0,2023-02-12 14:00:00,0,0,Winter,Afternoon
+23409,42676,Dettol HW.170ml buy 2 Get Tiffin Box Free,1.0,2023-02-12 17:00:00,0,0,Winter,Evening
+23410,25569,Lifeboy Liquid Total Hand Wash-1L,1.0,2023-02-12 18:00:00,0,0,Winter,Evening
+23412,28308,Parachute Coconut Hair Oil-200ml Jar,1.0,2023-02-12 20:00:00,0,0,Winter,Evening
+23407,13801,Chicken (B-Skin),2.55,2023-02-13 01:00:00,0,0,Winter,Night
+23380,13958,Shrimp Fish Bagda,0.54,2023-02-13 03:00:00,0,0,Winter,Night
+23447,15180,Akher Sugar -1kg,1.0,2023-02-13 05:00:00,0,0,Winter,Night
+23394,3189,P.Frooto Mango Juice-250ml,1.0,2023-02-13 06:00:00,0,0,Winter,Morning
+23400,2050,Rupchanda Soyabean-2Lt-PET,1.0,2023-02-13 10:00:00,0,0,Winter,Morning
+23418,15294,Grape Black,0.68,2023-02-13 12:00:00,0,0,Winter,Afternoon
+23424,12655,Ramisa Nut(Oil)-200gm,1.0,2023-02-13 15:00:00,0,0,Winter,Afternoon
+23440,13353,Queens Kaya Bread- 90g,1.0,2023-02-13 19:00:00,0,0,Winter,Evening
+23447,489,Chola Pulse-1kg,1.0,2023-02-14 00:00:00,0,0,Winter,Night
+23380,1217,Chupa Chups lolipop,4.0,2023-02-14 01:00:00,0,0,Winter,Night
+23451,32204,Aradhya Punjabi-2468,1.0,2023-02-14 06:00:00,0,0,Winter,Morning
+23460,15263,Malta (Yellow)-kg,0.78,2023-02-14 10:00:00,0,0,Winter,Morning
+23380,13901,Katol Fish (Small)-(MNK),2.22,2023-02-14 14:00:00,0,0,Winter,Afternoon
+23465,30640,Pure it Micro Fiber Mesh,1.0,2023-02-14 18:00:00,0,0,Winter,Evening
+23472,43017,Doughtnut Sugar Bread-200gm,1.0,2023-02-14 23:00:00,0,0,Winter,Night
+23380,26701,Nescafe Classic Jar-25gm,1.0,2023-02-15 03:00:00,0,0,Winter,Night
+4959,14986,Meant Leaf (Pudina Leaf)- Pc,1.0,2023-02-15 08:00:00,0,0,Winter,Morning
+23548,13988,Beef Bone Full,1.02,2023-02-15 12:00:00,0,0,Winter,Afternoon
+23380,705,Easy Mix Roast Masala-35g,1.0,2023-02-15 15:00:00,0,0,Winter,Afternoon
+23409,453,Saad Testy Bit Salt-100gm,1.0,2023-02-15 19:00:00,0,0,Winter,Evening
+23430,13958,Shrimp Fish Bagda,1.13,2023-02-16 00:00:00,0,0,Winter,Night
+23434,15290,Grape White Small (IIndian),0.44,2023-02-16 02:00:00,0,0,Winter,Night
+23380,13921,Rui Fish-M-(MNK),1.7,2023-02-16 06:00:00,0,0,Winter,Morning
+23445,3178,Glucon-D Orange-Flavour-400g Jar,1.0,2023-02-16 08:00:00,0,0,Winter,Morning
+23380,13620,AG Vegetable Spring Roll-400g,1.0,2023-02-16 11:00:00,0,0,Winter,Morning
+23385,31764,S.K Ind Baby Dress Set -6002 (4/23),1.0,2023-02-16 12:00:00,0,0,Winter,Afternoon
+23434,14978,Chicken (B-Skin Less),1.34,2023-02-16 15:00:00,0,0,Winter,Afternoon
+23380,26615,Maggi 2min Masala-248g (Jumbo),1.0,2023-02-16 19:00:00,0,0,Winter,Evening
+23440,28645,Organikare  Amla Hairpack-80g,1.0,2023-02-16 21:00:00,0,0,Winter,Night
+23435,25486,Aquafina Drinking Water- 500ml,1.0,2023-02-16 23:00:00,0,0,Winter,Night
+23400,13869,G H Deshi Paratha(Family pack)-1300gm,1.0,2023-02-17 04:00:00,0,0,Winter,Night
+23380,13986,Cow Stomach-K,1.22,2023-02-17 06:00:00,0,0,Winter,Morning
+23429,4123,Clear Men Deep Cleanse Shampoo- 330ml,1.0,2023-02-17 11:00:00,0,0,Winter,Morning
+23435,3537,Ponds Bright Beauty Face Wash -50g,1.0,2023-02-17 12:00:00,0,0,Winter,Afternoon
+23435,4260,Sunsilk G.Tea & W.Lilly F Shampoo-195ml,1.0,2023-02-17 12:00:00,0,0,Winter,Afternoon
+23459,31692,Taslima Towel-021,1.0,2023-02-17 16:00:00,0,0,Winter,Afternoon
+23461,15153,Apple Fuji Big,0.38,2023-02-17 21:00:00,0,0,Winter,Night
+23380,4846,Sun Chips Garlic & Chili 38g,1.0,2023-02-17 22:00:00,0,0,Winter,Night
+23467,14843,Cucumber Deshi (kg),0.54,2023-02-18 00:00:00,0,0,Winter,Night
+23380,14045,Pabda Fish (Big),1.08,2023-02-18 02:00:00,0,0,Winter,Night
+23488,3033,Foster Clark Mango-450g,1.0,2023-02-18 03:00:00,0,0,Winter,Night
+23492,4846,Sun Chips Garlic & Chili 38g,1.0,2023-02-18 05:00:00,0,0,Winter,Night
+23539,13654,Quality Premiun Paratha 10Pcs-650g,1.0,2023-02-18 06:00:00,0,0,Winter,Morning
+23468,1217,Chupa Chups lolipop,1.0,2023-02-18 11:00:00,0,0,Winter,Morning
+23507,43107,Mountain Due -250ml,1.0,2023-02-18 16:00:00,0,0,Winter,Afternoon
+23509,7167,Tang Orange - 200gm {Pkt},1.0,2023-02-18 17:00:00,0,0,Winter,Evening
+23520,718,Radhuni H. Biriyani Masala-45g,1.0,2023-02-18 22:00:00,0,0,Winter,Night
+23380,711,Radhuni Panchforon-50g,2.0,2023-02-19 03:00:00,0,0,Winter,Night
+23520,332,ACI Pure Salt-1Kg,1.0,2023-02-19 08:00:00,0,0,Winter,Morning
+23520,12515,Gluco Max D- 400g,1.0,2023-02-19 08:00:00,0,0,Winter,Morning
+23546,12821,Barley For Eating-200gm,1.0,2023-02-19 11:00:00,0,0,Winter,Morning
+23380,16240,Polar Cake - 1Ltr,1.0,2023-02-19 15:00:00,0,0,Winter,Afternoon
+23380,890,Radhuni Garam Masala-40gm,2.0,2023-02-19 15:00:00,0,0,Winter,Afternoon
+23466,32248,China Baby Sandal A238 (4/23),1.0,2023-02-19 17:00:00,0,0,Winter,Evening
+23380,17809,Foster Clarks Corn Flour-200gm,1.0,2023-02-19 20:00:00,0,0,Winter,Evening
+23380,13863,Chicken Mini Samusa 250gm  (Prem),1.0,2023-02-19 20:00:00,0,0,Winter,Evening
+23380,487,Prince Dubli Pulse-1kg,1.0,2023-02-19 20:00:00,0,0,Winter,Evening
+23496,13988,Beef Bone Full,0.57,2023-02-20 01:00:00,0,0,Winter,Night
+23502,13988,Beef Bone Full,1.03,2023-02-20 02:00:00,0,0,Winter,Night
+23523,10505,Ever Glow Facial Scrub Papaya-175ml,1.0,2023-02-20 07:00:00,0,0,Winter,Morning
+23537,25435,Calypso Mayonnaise-500ml,1.0,2023-02-20 11:00:00,0,0,Winter,Morning
+23468,14956,Parboil (Potol)-kg,0.61,2023-02-20 16:00:00,0,0,Winter,Afternoon
+23472,26888,Nescafe Classic Jar-50g,1.0,2023-02-20 17:00:00,0,0,Winter,Evening
+23505,2631,Fogg Master PINE Body Spray-120ml,1.0,2023-02-20 21:00:00,0,0,Winter,Night
+23554,3831,Milk Vita Liquid Milk-1Ltr,1.0,2023-02-21 02:00:00,1,0,Winter,Night
+23551,2165,Vim Bar 300g (Lemon),1.0,2023-02-21 06:00:00,1,0,Winter,Morning
+23551,14960,Brinjal Long (Thin)-kg,0.66,2023-02-21 06:00:00,1,0,Winter,Morning
+23555,10224,GR. Mineral Terracotta Powder-12g,1.0,2023-02-21 08:00:00,1,0,Winter,Morning
+23560,14984,Lemon Elachi-Pc,4.0,2023-02-21 10:00:00,1,0,Winter,Morning
+23566,3827,Arong Milk Powder IFCMP-500gm,1.0,2023-02-21 15:00:00,1,0,Winter,Afternoon
+23568,12630,Ramisa-Jhori Vaja Pkt-200gm,1.0,2023-02-21 19:00:00,1,0,Winter,Evening
+23570,3824,Aarong Liquid Milk-1/2Ltr,1.0,2023-02-21 20:00:00,1,0,Winter,Evening
+23576,1869,Snickers Chocolate-50gm,1.0,2023-02-22 01:00:00,0,0,Winter,Night
+23580,14841,Pumkin Seeds-100gm,1.0,2023-02-22 03:00:00,0,0,Winter,Night
+23580,762,Maggi Saad -E -Magic S Mix-48g,1.0,2023-02-22 03:00:00,0,0,Winter,Night
+23576,7520,Belleame Cremo Vanilla Biscuit - 320gm,1.0,2023-02-22 05:00:00,0,0,Winter,Night
+23527,14061,Pangas Fish-(THR),2.03,2023-02-22 10:00:00,0,0,Winter,Morning
+23542,27039,Milk Vita (Ghee)-200g,1.0,2023-02-22 14:00:00,0,0,Winter,Afternoon
+23543,13676,Jodi Chicken Frankfurter-300g,1.0,2023-02-22 16:00:00,0,0,Winter,Afternoon
+23380,29095,Mirzapore Best Leaf Tea-500g,1.0,2023-02-22 20:00:00,0,0,Winter,Evening
+23466,23859,New K.S Ladies 3pcs-008,4.0,2023-02-22 22:00:00,0,0,Winter,Night
+23468,14964,Green Papaya(kg),1.06,2023-02-23 00:00:00,0,0,Winter,Night
+23473,14081,Telapia Fish Big (THR),1.15,2023-02-23 03:00:00,0,0,Winter,Night
+23380,13786,C.N Plain Paratha 20pcs-1300gm,1.0,2023-02-23 05:00:00,0,0,Winter,Night
+23380,1096,Prince Vinegar(600ml),1.0,2023-02-23 05:00:00,0,0,Winter,Night
+23517,14815,Tomato L.C(kg),1.16,2023-02-23 06:00:00,0,0,Winter,Morning
+23519,7595,White Kazu Badam(Special)-100gm,1.0,2023-02-23 11:00:00,0,0,Winter,Morning
+23527,25475,Vermicelli Samai-200gm,1.0,2023-02-23 16:00:00,0,0,Winter,Afternoon
+23543,3724,Suree Fish Sauce-150ml,1.0,2023-02-23 20:00:00,0,0,Winter,Evening
+18557,4531,Lifeboy Lemon Fresh-150gm,1.0,2023-02-23 22:00:00,0,0,Winter,Night
+23380,1225,Mentos Fruit Flavour,1.0,2023-02-23 23:00:00,0,0,Winter,Night
+23380,900,Radhuni Panchforon-50g,1.0,2023-02-23 23:00:00,0,0,Winter,Night
+23380,4520,Meril Splash milk & beli  Soap-100gm,4.0,2023-02-23 23:00:00,0,0,Winter,Night
+23488,175,Jet Powder-1kg,1.0,2023-02-24 03:00:00,0,0,Winter,Night
+23380,43024,SugarFree Bread Special-300gm,1.0,2023-02-24 06:00:00,0,0,Winter,Morning
+23494,733,Radhuni Chilli Flakes-40gm,1.0,2023-02-24 10:00:00,0,0,Winter,Morning
+23494,26776,Mr. Noodles Korean S Spicy- 248gm,1.0,2023-02-24 10:00:00,0,0,Winter,Morning
+18557,32468,Lifebuoy  Care Hand Wash-200ml,1.0,2023-02-24 14:00:00,0,0,Winter,Afternoon
+23551,13989,Beef Without Bone Special,0.76,2023-02-24 16:00:00,0,0,Winter,Afternoon
+23551,14978,Chicken (B-Skin Less),1.23,2023-02-24 16:00:00,0,0,Winter,Afternoon
+23551,332,ACI Pure Salt-1Kg,1.0,2023-02-24 16:00:00,0,0,Winter,Afternoon
+23564,22275,Aarong Yogurt Sour Curd-500gm,1.0,2023-02-24 19:00:00,0,0,Winter,Evening
+23565,14802,Jhinga(kg),1.06,2023-02-24 23:00:00,0,0,Winter,Night
+23570,22241,Kinley Club Soda -600ml,1.0,2023-02-25 00:00:00,0,0,Winter,Night
+23570,4843,Sun Chips Salt & Papper-22g,1.0,2023-02-25 00:00:00,0,0,Winter,Night
+23586,22234,Sprite-1.25 Lt(Pet),1.0,2023-02-25 01:00:00,0,0,Winter,Night
+23586,4666,Gillette Blue-II Razor,3.0,2023-02-25 01:00:00,0,0,Winter,Night
+23380,13989,Beef Without Bone Special,1.51,2023-02-25 06:00:00,0,0,Winter,Morning
+23380,6838,Aarong Probiotic Yogurt-500gm,1.0,2023-02-25 06:00:00,0,0,Winter,Morning
+23380,701,Radhuni Spice Coriander-200g,1.0,2023-02-25 06:00:00,0,0,Winter,Morning
+23429,24707,Bashu. Toilet Tissue (White),12.0,2023-02-25 09:00:00,0,0,Winter,Morning
+23380,14843,Cucumber Deshi (kg),8.15,2023-02-25 12:00:00,0,0,Winter,Afternoon
+23380,13930,Poa Fish Small-(MNK),1.45,2023-02-25 12:00:00,0,0,Winter,Afternoon
+23380,31328,Prince Lacha Samai-200g(Pkt),13.0,2023-02-25 12:00:00,0,0,Winter,Afternoon
+23380,14986,Meant Leaf (Pudina Leaf)- Pc,1.0,2023-02-25 12:00:00,0,0,Winter,Afternoon
+23405,296,Chaka Advanced Ball Soap-125gm,2.0,2023-02-25 17:00:00,0,0,Winter,Evening
+23409,864,Pran Haleem Mix(200g),1.0,2023-02-25 21:00:00,0,0,Winter,Night
+23421,6856,Onion Deshi(New)-1kg,1.98,2023-02-26 00:00:00,0,0,Winter,Night
+23419,12834,Prince Betel Spice 100gm,0.59,2023-02-26 01:00:00,0,0,Winter,Night
+23429,15275,Austrogram Cheese,0.2,2023-02-26 02:00:00,0,0,Winter,Night
+23431,7510,Bisk Club Potata Biscuit- 100g,1.0,2023-02-26 04:00:00,0,0,Winter,Night
+23380,6814,Horlicks Classic Malt-1Kg Jar,1.0,2023-02-26 07:00:00,0,0,Winter,Morning
+23440,13989,Beef Without Bone Special,1.4,2023-02-26 11:00:00,0,0,Winter,Morning
+23404,776,Alu Bukhra-100g,1.0,2023-02-26 16:00:00,0,0,Winter,Afternoon
+23420,4847,Sun Prawn Crackers Chips - 20gm,1.0,2023-02-26 21:00:00,0,0,Winter,Night
+23430,109,Wheel 2in1 Clean & Fresh Powder-1Kg,1.0,2023-02-27 01:00:00,0,0,Winter,Night
+23442,32191,KurKure Cream & Onion 75gm,1.0,2023-02-27 03:00:00,0,0,Winter,Night
+23380,30982,Motor Vaja-30g,4.0,2023-02-27 08:00:00,0,0,Winter,Morning
+23380,6815,Horlicks - 500gm Jar,1.0,2023-02-27 08:00:00,0,0,Winter,Morning
+23405,13988,Beef Bone Full,1.05,2023-02-27 11:00:00,0,0,Winter,Morning
+23411,26628,Sajeeb Bar-B-Q Noodles-180gm,2.0,2023-02-27 13:00:00,0,0,Winter,Afternoon
+23380,14981,Lemon(Colombo)-Pc,1.0,2023-02-27 16:00:00,0,0,Winter,Afternoon
+23380,25475,Vermicelli Samai-200gm,8.0,2023-02-27 16:00:00,0,0,Winter,Afternoon
+23380,13922,Rui Fish (S1)-(MNK),1.26,2023-02-27 16:00:00,0,0,Winter,Afternoon
+23572,2037,Teer Soyabean Oil-5Ltr,1.0,2023-02-27 17:00:00,0,0,Winter,Evening
+23573,43012,White bread Small-300gm,1.0,2023-02-27 19:00:00,0,0,Winter,Evening
+23578,22256,Mountain Dew-600ml  Pet,1.0,2023-02-28 00:00:00,0,0,Winter,Night
+23580,14843,Cucumber Deshi (kg),1.33,2023-02-28 02:00:00,0,0,Winter,Night
+23580,12515,Gluco Max D- 400g,1.0,2023-02-28 02:00:00,0,0,Winter,Night
+23584,16229,Polar Ice Cream Vanilla-1Ltr(Tub),1.0,2023-02-28 04:00:00,0,0,Winter,Night
+23576,15106,Wood Apple Small (Bell),1.0,2023-02-28 06:00:00,0,0,Winter,Morning
+23576,26617,Maggi Masala Noodles Family Pack-992gm,1.0,2023-02-28 06:00:00,0,0,Winter,Morning
+23380,13647,Chicken Spring Roll - 250gm,1.0,2023-02-28 08:00:00,0,0,Winter,Morning
+23410,3054,Foster Clarks Mango- 250gm,1.0,2023-02-28 11:00:00,0,0,Winter,Morning
+23423,13988,Beef Bone Full,2.03,2023-02-28 12:00:00,0,0,Winter,Afternoon
+23424,13357,Queens Butter Bun- 100g,1.0,2023-02-28 16:00:00,0,0,Winter,Afternoon
+23380,26570,Quaker Oats-1kg Jar,1.0,2023-02-28 18:00:00,0,0,Winter,Evening
+23380,3185,Marks Milk Shake AS-125,5.0,2023-02-28 18:00:00,0,0,Winter,Evening
+23380,15180,Akher Sugar -1kg,26.0,2023-02-28 18:00:00,0,0,Winter,Evening
+23421,15180,Akher Sugar -1kg,1.0,2023-02-28 23:00:00,0,0,Winter,Night
+23380,12822,Barley For Eating-400gm,1.0,2023-03-01 01:00:00,0,0,Summer,Night
+23442,111,Surf Excel W Aloe Vera-1kg,1.0,2023-03-01 06:00:00,0,0,Summer,Morning
+23442,13531,Kazi Chicken keema Paratha-250g,1.0,2023-03-01 06:00:00,0,0,Summer,Morning
+23383,13988,Beef Bone Full,2.23,2023-03-01 09:00:00,0,0,Summer,Morning
+23400,886,Radhuni Chilli Powder -200gm,1.0,2023-03-01 14:00:00,0,0,Summer,Afternoon
+23400,14978,Chicken (B-Skin Less),3.42,2023-03-01 14:00:00,0,0,Summer,Afternoon
+23424,1349,Ferrero Rocher 3Pcs,2.0,2023-03-01 18:00:00,0,0,Summer,Evening
+23426,13988,Beef Bone Full,1.14,2023-03-01 19:00:00,0,0,Summer,Evening
+23429,2165,Vim Bar 300g (Lemon),1.0,2023-03-02 00:00:00,0,0,Summer,Night
+23380,26619,Maggi Noodles Masala Blast-252g 4Pack,1.0,2023-03-02 05:00:00,0,0,Summer,Night
+23380,2246,Pepsodent Charcoal W. Toothpaste-140gm,2.0,2023-03-02 05:00:00,0,0,Summer,Night
+23449,32273,China Baby  Sandal A-238 (4/23),1.0,2023-03-02 06:00:00,0,0,Summer,Morning
+23404,12823,Jafran,1.0,2023-03-02 10:00:00,0,0,Summer,Morning
+23417,23115,One Man Punjabi -027,1.0,2023-03-02 12:00:00,0,0,Summer,Afternoon
+23419,25524,Dettol Handwash Aloe Vera - 200ml,1.0,2023-03-02 17:00:00,0,0,Summer,Evening
+23380,4381,H & S Anti Hairfall Shampoo-180ml,1.0,2023-03-02 18:00:00,0,0,Summer,Evening
+23455,30982,Motor Vaja-30g,2.0,2023-03-02 21:00:00,0,0,Summer,Night
+23380,22251,Mountan Dew-250ml Can,3.0,2023-03-02 22:00:00,0,0,Summer,Night
+23380,26653,Mama Hot Noodles-248g,1.0,2023-03-02 22:00:00,0,0,Summer,Night
+23380,43102,Meril Milk & Rose Soap 100gm ,5.0,2023-03-02 22:00:00,0,0,Summer,Night
+23479,32448,Rin Advanced-2kg,1.0,2023-03-03 01:00:00,0,1,Summer,Night
+23380,15266,Apple (Fuji),1.46,2023-03-03 05:00:00,0,1,Summer,Night
+23507,12590,Banana(Sabri),0.01,2023-03-03 07:00:00,0,1,Summer,Morning
+23512,31923,Nestle Koko krunch-15gm,1.0,2023-03-03 08:00:00,0,1,Summer,Morning
+23527,2915,P.Drinko Float Lichi Drink-250ml,1.0,2023-03-03 13:00:00,0,1,Summer,Afternoon
+23465,10222,Golden Rose Lipstick-4.2g,1.0,2023-03-03 17:00:00,0,1,Summer,Evening
+23467,25474,Lassa Special Semai-500g(Pkt),3.0,2023-03-03 18:00:00,0,1,Summer,Evening
+23468,13928,Hilsha Fish Big-(MNK)-Pcs,2.0,2023-03-03 23:00:00,0,1,Summer,Night
+23492,27965,Giggles Rose Wet Towls 72pcs L-63,1.0,2023-03-04 00:00:00,0,1,Summer,Night
+23503,27038,Milk Vita Butter-100g,1.0,2023-03-04 03:00:00,0,1,Summer,Night
+23527,13967,Mrigel Fish M,3.41,2023-03-04 04:00:00,0,1,Summer,Night
+23452,31975,Ab Cotton Punjabi-0021,1.0,2023-03-04 05:00:00,0,1,Summer,Night
+23456,13988,Beef Bone Full,1.67,2023-03-04 06:00:00,0,1,Summer,Morning
+23472,12999,Isubgool Pack-100g,1.0,2023-03-04 10:00:00,0,1,Summer,Morning
+23476,13988,Beef Bone Full,1.63,2023-03-04 11:00:00,0,1,Summer,Morning
+23380,782,Panch Foron-100g,1.0,2023-03-04 16:00:00,0,1,Summer,Afternoon
+23503,10,Mr. White Detergent Powder 500g B3 G1,1.0,2023-03-04 19:00:00,0,1,Summer,Evening
+23507,14958,Green Chilli(kg),0.14,2023-03-04 22:00:00,0,1,Summer,Night
+23543,3780,Prince Soya Sauce-250gm,1.0,2023-03-04 23:00:00,0,1,Summer,Night
+23553,29082,Seylon Family Bland Tea- 400g,1.0,2023-03-05 03:00:00,0,1,Summer,Night
+23380,14034,Omega 3 Enriched Egg-12pcs,1.0,2023-03-05 07:00:00,0,1,Summer,Morning
+23465,3003,Marks Cookies & Cream Flavour - 125ml,1.0,2023-03-05 12:00:00,0,1,Summer,Afternoon
+23380,3179,Starship Mango Juice 250ml pack,3.0,2023-03-05 13:00:00,0,1,Summer,Afternoon
+23467,31930,Chowa Gamsa-75,1.0,2023-03-05 16:00:00,0,1,Summer,Afternoon
+23468,318,Musur Pulse Kangaroo -1Kg (sp),1.0,2023-03-05 20:00:00,0,1,Summer,Evening
+23380,109,Wheel 2in1 Clean & Fresh Powder-1Kg,5.0,2023-03-05 21:00:00,0,1,Summer,Night
+23491,14841,Pumkin Seeds-100gm,1.0,2023-03-06 01:00:00,0,1,Summer,Night
+23523,13989,Beef Without Bone Special,0.41,2023-03-06 05:00:00,0,1,Summer,Night
+23532,31793,S.K Ind Baby Dress Set- (4/23),1.0,2023-03-06 08:00:00,0,1,Summer,Morning
+18557,3554,Parachute Skin Pure Aloe Vera Gel- 50ml,1.0,2023-03-06 10:00:00,0,1,Summer,Morning
+23553,788,Cardmom-100gm(Alachi),1.0,2023-03-06 15:00:00,0,1,Summer,Afternoon
+23556,26546,Maggi Hot Cup Instant Soup 4Pcs Combo,1.0,2023-03-06 20:00:00,0,1,Summer,Evening
+23560,15132,Green Mango(kg),0.69,2023-03-06 23:00:00,0,1,Summer,Night
+23561,782,Panch Foron-100g,1.0,2023-03-07 03:00:00,0,1,Summer,Night
+23563,31998,Ch Gaberdine Pant-B119 (4/23),1.0,2023-03-07 04:00:00,0,1,Summer,Night
+23562,22275,Aarong Yogurt Sour Curd-500gm,1.0,2023-03-07 08:00:00,0,1,Summer,Morning
+23562,548,Mixed Masalla-100gm,1.0,2023-03-07 08:00:00,0,1,Summer,Morning
+23570,22255,7Up Lite Pet- 600ml,1.0,2023-03-07 11:00:00,0,1,Summer,Morning
+23573,3610,Italiano BBQ Hot & Spicy Sauce-340g,1.0,2023-03-07 16:00:00,0,1,Summer,Afternoon
+23576,14843,Cucumber Deshi (kg),0.5,2023-03-07 20:00:00,0,1,Summer,Evening
+23578,7130,Madina VIP Morium Dates-500gm,1.0,2023-03-08 01:00:00,0,1,Summer,Night
+23580,27732,fun Chocolate Cake,3.0,2023-03-08 02:00:00,0,1,Summer,Night
+23578,4958,Teer Sugar-1Kg,1.0,2023-03-08 07:00:00,0,1,Summer,Morning
+23576,32212,Chira Moa-250gm,1.0,2023-03-08 12:00:00,0,1,Summer,Afternoon
+23380,30627,Bashundhara Atta-2kg,1.0,2023-03-08 14:00:00,0,1,Summer,Afternoon
+23380,14984,Lemon Elachi-Pc,33.0,2023-03-08 14:00:00,0,1,Summer,Afternoon
+23410,3964,Diploma Milk Powder-500g,1.0,2023-03-08 16:00:00,0,1,Summer,Afternoon
+23427,14969,Carrot (Deshi) kg,0.52,2023-03-08 18:00:00,0,1,Summer,Evening
+23440,3189,P.Frooto Mango Juice-250ml,2.0,2023-03-08 23:00:00,0,1,Summer,Night
+23450,4842,Sun Chips Wasabi-35g,1.0,2023-03-09 02:00:00,0,1,Summer,Night
+23478,32117,Ch Baby Set-113853 (4/23),1.0,2023-03-09 07:00:00,0,1,Summer,Morning
+23483,32106,Ch Baby Frock -9217(4/23),1.0,2023-03-09 10:00:00,0,1,Summer,Morning
+23380,12963,White Kazu Badam-50g,1.0,2023-03-09 13:00:00,0,1,Summer,Afternoon
+23542,313,Mug Pulse (Sona)-1kg,1.0,2023-03-09 15:00:00,0,1,Summer,Afternoon
+23453,13352,Queens Egg Bread- 125g,1.0,2023-03-09 19:00:00,0,1,Summer,Evening
+23469,42852,Ch Baby School Keds-1302 (4/23),1.0,2023-03-09 20:00:00,0,1,Summer,Evening
+23380,283,Lizol Floral Cleaner-500ml,1.0,2023-03-09 22:00:00,0,1,Summer,Night
+23488,28938,Kazi & Kazi Green Tea-60gm,1.0,2023-03-10 00:00:00,0,1,Summer,Night
+23491,453,Saad Testy Bit Salt-100gm,1.0,2023-03-10 04:00:00,0,1,Summer,Night
+23506,14034,Omega 3 Enriched Egg-12pcs,1.0,2023-03-10 05:00:00,0,1,Summer,Night
+23543,14987,Snack Guard (Chichinga)-kg,0.45,2023-03-10 10:00:00,0,1,Summer,Morning
+23549,14956,Parboil (Potol)-kg,0.34,2023-03-10 15:00:00,0,1,Summer,Afternoon
+23453,13536,Kazi French Fries-500g,1.0,2023-03-10 17:00:00,0,1,Summer,Evening
+23465,1645,Cadbury Dairy Milk Silk-13.2g,1.0,2023-03-10 18:00:00,0,1,Summer,Evening
+23468,14081,Telapia Fish Big (THR),1.34,2023-03-10 20:00:00,0,1,Summer,Evening
+23380,4259,Sunsilk G.Tea & W.Lilly F Shampoo-375ml,1.0,2023-03-10 23:00:00,0,1,Summer,Night
+23380,4965,Poppers Corn-Coco Chips-25gm,1.0,2023-03-10 23:00:00,0,1,Summer,Night
+23520,900,Radhuni Panchforon-50g,1.0,2023-03-11 01:00:00,0,1,Summer,Night
+23520,15180,Akher Sugar -1kg,1.0,2023-03-11 01:00:00,0,1,Summer,Night
+23531,7190,Baqarah Pasteurized Milk- 1L,1.0,2023-03-11 03:00:00,0,1,Summer,Night
+23532,23115,One Man Punjabi -027,1.0,2023-03-11 08:00:00,0,1,Summer,Morning
+23380,29140,Ponds Bright Beauty Cream-23ml,1.0,2023-03-11 13:00:00,0,1,Summer,Afternoon
+23456,7196,Austogram Mozzarella Cheese-250gm,1.0,2023-03-11 18:00:00,0,1,Summer,Evening
+23458,31986,"Ch Baby T-Shirt -2313,2316 (4/23",1.0,2023-03-11 21:00:00,0,1,Summer,Night
+23478,31889,BB Ladies Parts Bag-0031,1.0,2023-03-12 02:00:00,0,1,Summer,Night
+23494,29094,Mirzapore Tea - 350gm,1.0,2023-03-12 03:00:00,0,1,Summer,Night
+23520,6827,Horlicks -400gm,1.0,2023-03-12 07:00:00,0,1,Summer,Morning
+23380,489,Chola Pulse-1kg,1.0,2023-03-12 08:00:00,0,1,Summer,Morning
+23444,1374,Nestle Kitkat Chocolate- 41.5g,2.0,2023-03-12 09:00:00,0,1,Summer,Morning
+23444,23174,Pro-Dental Floss Pick(36Pcs),1.0,2023-03-12 09:00:00,0,1,Summer,Morning
+23380,43073,Quality Chicken Gizzard Singara,1.0,2023-03-12 14:00:00,0,1,Summer,Afternoon
+23380,14978,Chicken (B-Skin Less),13.43,2023-03-12 14:00:00,0,1,Summer,Afternoon
+23404,13985,Cow Lever-K,0.59,2023-03-12 18:00:00,0,1,Summer,Evening
+23407,22275,Aarong Yogurt Sour Curd-500gm,1.0,2023-03-12 22:00:00,0,1,Summer,Night
+23420,24717,B Toilet Tissue Extra Saving Pack 4Rolls,1.0,2023-03-13 02:00:00,0,0,Summer,Night
+23419,13958,Shrimp Fish Bagda,1.41,2023-03-13 05:00:00,0,0,Summer,Night
+23428,6856,Onion Deshi(New)-1kg,2.0,2023-03-13 10:00:00,0,0,Summer,Morning
+23430,32480,Sunsilk Black Shine Shampoo-330ml,1.0,2023-03-13 14:00:00,0,0,Summer,Afternoon
+23435,31328,Prince Lacha Samai-200g(Pkt),1.0,2023-03-13 17:00:00,0,0,Summer,Evening
+23386,2143,Sensodyne Toothbrush Soft,1.0,2023-03-13 19:00:00,0,0,Summer,Evening
+23400,22275,Aarong Yogurt Sour Curd-500gm,1.0,2023-03-13 21:00:00,0,0,Summer,Night
+23380,14968,Eye Of Arum(Tall) (Kachurmukhi)-kg,0.96,2023-03-14 00:00:00,0,0,Summer,Night
+23404,42898,Zero Coke -250ml,1.0,2023-03-14 03:00:00,0,0,Summer,Night
+23380,26286,White Tone Face Cream-25g,1.0,2023-03-14 08:00:00,0,0,Summer,Morning
+23432,43087,China Tshirt 28071(4/23),1.0,2023-03-14 13:00:00,0,0,Summer,Afternoon
+23441,5834,Fortune KG Mustard Oil- 500ml,1.0,2023-03-14 15:00:00,0,0,Summer,Afternoon
+23442,30621,Act II Butter Delite-70g,2.0,2023-03-14 19:00:00,0,0,Summer,Evening
+23380,1374,Nestle Kitkat Chocolate- 41.5g,1.0,2023-03-14 21:00:00,0,0,Summer,Night
+23400,12699,ENO Lemon Flavour Com-6Pcs,1.0,2023-03-15 01:00:00,0,0,Summer,Night
+23405,13985,Cow Lever-K,1.26,2023-03-15 05:00:00,0,0,Summer,Night
+23421,6857,Potato  Deshi New-1kg,4.99,2023-03-15 10:00:00,0,0,Summer,Morning
+23424,12643,Ramisa-Murali Pkt-200gm,1.0,2023-03-15 11:00:00,0,0,Summer,Morning
+23380,3631,Barchun Oyster Sauce-350ml,1.0,2023-03-15 12:00:00,0,0,Summer,Afternoon
+23438,13988,Beef Bone Full,4.21,2023-03-15 15:00:00,0,0,Summer,Afternoon
+23435,30983,Prince Special Chanachur-150gm,1.0,2023-03-15 20:00:00,0,0,Summer,Evening
+23380,7514,Belleame Cremo Biscuit- 90g,1.0,2023-03-16 00:00:00,0,0,Summer,Night
+23380,878,Radhuni Spices (Corinder)-100gm,1.0,2023-03-16 00:00:00,0,0,Summer,Night
+23380,12625,Ramisa-Fried Chira Oil Pkt-200gm,1.0,2023-03-16 00:00:00,0,0,Summer,Night
+23471,32025,Muad Panjabi-2205,1.0,2023-03-16 01:00:00,0,0,Summer,Night
+23380,125,Wheel Laundry Soap 125g,4.0,2023-03-16 05:00:00,0,0,Summer,Night
+23380,32500,Fair & Lovely Multivitamin-50gm,5.0,2023-03-16 05:00:00,0,0,Summer,Night
+23380,14821,Green Pumpkin-pc,1.0,2023-03-16 05:00:00,0,0,Summer,Night
+23380,4709,Dabur Meswak Paste-100gm,1.0,2023-03-16 05:00:00,0,0,Summer,Night
+23380,25524,Dettol Handwash Aloe Vera - 200ml,1.0,2023-03-16 05:00:00,0,0,Summer,Night
+23509,4537,Lux Velvet Glow Soap-100g,1.0,2023-03-16 06:00:00,0,0,Summer,Morning
+23526,31598,PB Premium Clifton Punjabi-1850,1.0,2023-03-16 07:00:00,0,0,Summer,Morning
+23547,15106,Wood Apple Small (Bell),1.0,2023-03-16 08:00:00,0,0,Summer,Morning
+23452,23728,One Man Short Full Shirt-059,1.0,2023-03-16 13:00:00,0,0,Summer,Afternoon
+23455,3636,Ragu Pizza Sauce-396g,1.0,2023-03-16 15:00:00,0,0,Summer,Afternoon
+23468,3729,Pran Hot Tomato Sauce-340gm,1.0,2023-03-16 19:00:00,0,0,Summer,Evening
+23380,42620,Safe Hand wash (green) 300ml,1.0,2023-03-17 00:00:00,1,0,Summer,Night
+23523,13349,Custard Bread- 275g,1.0,2023-03-17 05:00:00,1,0,Summer,Night
+18557,32467,Lifebuoy Hand Wash-200ml,1.0,2023-03-17 10:00:00,1,0,Summer,Morning
+23453,26864,IDC Kelloggs Chocos-385g,1.0,2023-03-17 15:00:00,1,0,Summer,Afternoon
+23380,31928,Chowa Gamsa-521,1.0,2023-03-17 20:00:00,1,0,Summer,Evening
+23461,2165,Vim Bar 300g (Lemon),2.0,2023-03-17 23:00:00,1,0,Summer,Night
+23380,3963,Diploma Ins Milk Powder-1kg,1.0,2023-03-18 03:00:00,0,0,Summer,Night
+23380,604,Cassia Leaf-100gm (Tespata),1.0,2023-03-18 03:00:00,0,0,Summer,Night
+23380,4845,Sun Chips Tomato Tango 38g,1.0,2023-03-18 03:00:00,0,0,Summer,Night
+23514,32526,Saad Bit Salt Plastic Jar 100G,1.0,2023-03-18 08:00:00,0,0,Summer,Morning
+23543,3809,Arla Dano Daily Pushti-500gm,1.0,2023-03-18 12:00:00,0,0,Summer,Afternoon
+23543,7016,Good Life Mozarella Cheese-370gm,1.0,2023-03-18 12:00:00,0,0,Summer,Afternoon
+23547,15146,Watermelon Banglalink - Kg,2.83,2023-03-18 15:00:00,0,0,Summer,Afternoon
+23549,3034,Rooh Afza Sharbat-300ml,1.0,2023-03-18 18:00:00,0,0,Summer,Evening
+23543,12630,Ramisa-Jhori Vaja Pkt-200gm,1.0,2023-03-18 22:00:00,0,0,Summer,Night
+23557,27730,Fun Vannilla cake,6.0,2023-03-18 23:00:00,0,0,Summer,Night
+23561,6859,Ginger Barmiz-(Kg),0.49,2023-03-19 01:00:00,0,0,Summer,Night
+23562,13988,Beef Bone Full,2.61,2023-03-19 02:00:00,0,0,Summer,Night
+23564,774,Cumin-200gm,1.0,2023-03-19 03:00:00,0,0,Summer,Night
+23565,25486,Aquafina Drinking Water- 500ml,1.0,2023-03-19 04:00:00,0,0,Summer,Night
+23575,15131,Atta Fruits,0.62,2023-03-19 09:00:00,0,0,Summer,Morning
+23576,24707,Bashu. Toilet Tissue (White),1.0,2023-03-19 12:00:00,0,0,Summer,Afternoon
+23586,3832,Milk Vita Liquid Milk-1/2Ltr,4.0,2023-03-19 13:00:00,0,0,Summer,Afternoon
+23405,873,Pran Chatpati Masala(50g),1.0,2023-03-19 16:00:00,0,0,Summer,Afternoon
+23422,13986,Cow Stomach-K,4.14,2023-03-19 20:00:00,0,0,Summer,Evening
+23419,3055,Foster Clarks Orange-250g,1.0,2023-03-19 22:00:00,0,0,Summer,Night
+23429,125,Wheel Laundry Soap 125g,3.0,2023-03-20 02:00:00,0,0,Summer,Night
+23430,26634,Prince Egg Noodles 300gm,1.0,2023-03-20 06:00:00,0,0,Summer,Morning
+23400,13781,C.N Chicken Sausage 300gm,1.0,2023-03-20 11:00:00,0,0,Summer,Morning
+23407,10547,SCL Sunscreen Lightweight-60g,1.0,2023-03-20 13:00:00,0,0,Summer,Afternoon
+23420,2915,P.Drinko Float Lichi Drink-250ml,1.0,2023-03-20 17:00:00,0,0,Summer,Evening
+23419,30745,Senora Confidence-16Pads,1.0,2023-03-20 21:00:00,0,0,Summer,Night
+23427,7202,EM Pasta Vite-400gm,1.0,2023-03-20 23:00:00,0,0,Summer,Night
+23429,3828,Aarong UHT FCL Milk (Finopack)-500ml,1.0,2023-03-21 01:00:00,0,0,Summer,Night
+23380,25474,Lassa Special Semai-500g(Pkt),3.0,2023-03-21 05:00:00,0,0,Summer,Night
+23380,1659,Dairy Milk Chocolate-24g,2.0,2023-03-21 05:00:00,0,0,Summer,Night
+23380,25520,Dettol Cool HW-170ml(Refil),2.0,2023-03-21 05:00:00,0,0,Summer,Night
+23422,13922,Rui Fish (S1)-(MNK),1.35,2023-03-21 07:00:00,0,0,Summer,Morning
+23424,1869,Snickers Chocolate-50gm,1.0,2023-03-21 11:00:00,0,0,Summer,Morning
+23427,14998,Capsicum Green,0.38,2023-03-21 15:00:00,0,0,Summer,Afternoon
+23429,13985,Cow Lever-K,0.98,2023-03-21 20:00:00,0,0,Summer,Evening
+23392,28941,KK Orthodox Green Tea-100gm,1.0,2023-03-21 21:00:00,0,0,Summer,Night
+23422,25475,Vermicelli Samai-200gm,2.0,2023-03-22 01:00:00,0,0,Summer,Night
+23380,41,Fun Crack- 50g,2.0,2023-03-22 04:00:00,0,0,Summer,Night
+23380,28456,Jui Coconut Oil Plastic-200ml,5.0,2023-03-22 04:00:00,0,0,Summer,Night
+23380,4534,Lux Jasmine & Vitamin E Soap-150g,2.0,2023-03-22 04:00:00,0,0,Summer,Night
+23480,23120,One Man Punjabi15502-0931,1.0,2023-03-22 05:00:00,0,0,Summer,Night
+23380,1201,Fruits Skittles  Cho -45g,1.0,2023-03-22 06:00:00,0,0,Summer,Morning
+23542,318,Musur Pulse Kangaroo -1Kg (sp),1.0,2023-03-22 07:00:00,0,0,Summer,Morning
+23543,2246,Pepsodent Charcoal W. Toothpaste-140gm,1.0,2023-03-22 12:00:00,0,0,Summer,Afternoon
+23532,31789,S.K Ind Baby 3pcs -(4/23),1.0,2023-03-22 16:00:00,0,0,Summer,Afternoon
+23546,24709,Bashundhara Paper Napkin-100p,1.0,2023-03-22 21:00:00,0,0,Summer,Night
+23553,22259,Mirinda Orange- 600ml,1.0,2023-03-23 01:00:00,0,0,Summer,Night
+23554,27731,Funtastic Ore Cream Pineapple,1.0,2023-03-23 06:00:00,0,0,Summer,Morning
+23556,14958,Green Chilli(kg),0.47,2023-03-23 11:00:00,0,0,Summer,Morning
+23556,26536,Knorr Soup-24gm,2.0,2023-03-23 11:00:00,0,0,Summer,Morning
+23560,14969,Carrot (Deshi) kg,0.29,2023-03-23 14:00:00,0,0,Summer,Afternoon
+23560,14801,Net Pumpkin (Jali Kumra)-Pc,1.0,2023-03-23 14:00:00,0,0,Summer,Afternoon
+23563,43080,China Tshirt 8802(4/23),1.0,2023-03-23 19:00:00,0,0,Summer,Evening
+23568,29,Fit Biscuite -130gm,1.0,2023-03-23 21:00:00,0,0,Summer,Night
+23580,14820,Fresh Beet-Pc,2.0,2023-03-24 00:00:00,0,1,Summer,Night
+23405,25567,Lifebuoy Liquid Care Hand Wash-170ml,1.0,2023-03-24 05:00:00,0,1,Summer,Night
+23409,42909,Rok Liquid Dishwash-250ml(Buy2 Get1 Free),1.0,2023-03-24 06:00:00,0,1,Summer,Morning
+23416,4511,Dettol Skincare Soap-125gm,2.0,2023-03-24 08:00:00,0,1,Summer,Morning
+23380,22275,Aarong Yogurt Sour Curd-500gm,2.0,2023-03-24 10:00:00,0,1,Summer,Morning
+23433,32374,N.G Ind Jeans Pant-1899 (4/23),1.0,2023-03-24 12:00:00,0,1,Summer,Afternoon
+23380,15167,Tal Misri (Sugar Candy)-200g,1.0,2023-03-24 15:00:00,0,1,Summer,Afternoon
+23403,3546,Organikare Miracle Face Wash - 100gm,1.0,2023-03-24 20:00:00,0,1,Summer,Evening
+23407,15180,Akher Sugar -1kg,2.0,2023-03-25 01:00:00,0,1,Summer,Night
+23416,29193,Nivea Men Refeshing Facial Foam-100g,1.0,2023-03-25 02:00:00,0,1,Summer,Night
+23380,6856,Onion Deshi(New)-1kg,6.23,2023-03-25 03:00:00,0,1,Summer,Night
+23380,32106,Ch Baby Frock -9217(4/23),1.0,2023-03-25 03:00:00,0,1,Summer,Night
+23441,4958,Teer Sugar-1Kg,1.0,2023-03-25 05:00:00,0,1,Summer,Night
+23442,26781,Chopstick Desi/Yumy Masala Noodles-4pack,2.0,2023-03-25 06:00:00,0,1,Summer,Morning
+23380,762,Maggi Saad -E -Magic S Mix-48g,2.0,2023-03-25 09:00:00,0,1,Summer,Morning
+23380,15265,Naspati(kg),0.5,2023-03-25 09:00:00,0,1,Summer,Morning
+23380,26607,Doodles Stick Noodles-300gm,1.0,2023-03-25 09:00:00,0,1,Summer,Morning
+23494,43025,Milk Bread Small-300gm,1.0,2023-03-25 14:00:00,0,1,Summer,Afternoon
+23499,32003,B Plus Sari-0501,1.0,2023-03-25 16:00:00,0,1,Summer,Afternoon
+23510,30621,Act II Butter Delite-70g,1.0,2023-03-25 17:00:00,0,1,Summer,Evening
+23509,31231,First Choice-100gm,1.0,2023-03-25 20:00:00,0,1,Summer,Evening
+23520,25475,Vermicelli Samai-200gm,1.0,2023-03-25 23:00:00,0,1,Summer,Night
+23520,951,Chashi Aromatic Chinigura Rice-1Kg,1.0,2023-03-25 23:00:00,0,1,Summer,Night
+18557,129,Vim Bar Lemon-125gm,2.0,2023-03-26 00:00:00,1,1,Summer,Night
+23547,3831,Milk Vita Liquid Milk-1Ltr,1.0,2023-03-26 05:00:00,1,1,Summer,Night
+23380,1709,Ginnou Wrapper Chocolate Box -44gm,1.0,2023-03-26 06:00:00,1,1,Summer,Morning
+23380,3831,Milk Vita Liquid Milk-1Ltr,1.0,2023-03-26 06:00:00,1,1,Summer,Morning
+23380,4857,Kurkure Chilli Chatka-80g,1.0,2023-03-26 06:00:00,1,1,Summer,Morning
+23380,13997,Chicken Kima,3.22,2023-03-26 06:00:00,1,1,Summer,Morning
+23481,31886,Aflah Leadis Bag-0031,1.0,2023-03-26 08:00:00,1,1,Summer,Morning
+23380,16230,Polar Ice-Cream Kheer-1Ltr,1.0,2023-03-26 09:00:00,1,1,Summer,Morning
+23491,14062,Puti Fish (Deshi) (HB),0.52,2023-03-26 12:00:00,1,1,Summer,Afternoon
+23494,7195,Aarong Cheezarella Cheese-200gm,1.0,2023-03-26 13:00:00,1,1,Summer,Afternoon
+23512,42898,Zero Coke -250ml,1.0,2023-03-26 18:00:00,1,1,Summer,Evening
+23520,125,Wheel Laundry Soap 125g,1.0,2023-03-26 22:00:00,1,1,Summer,Night
+23538,32275,China Kades 3180 (4/23),1.0,2023-03-26 23:00:00,1,1,Summer,Night
+23465,12583,Pigeon-1PC,2.0,2023-03-27 04:00:00,0,1,Summer,Night
+23468,15180,Akher Sugar -1kg,1.0,2023-03-27 09:00:00,0,1,Summer,Morning
+23380,15263,Malta (Yellow)-kg,1.11,2023-03-27 12:00:00,0,1,Summer,Afternoon
+23380,15104,Bomby Chilli-5Pcs,1.0,2023-03-27 12:00:00,0,1,Summer,Afternoon
+23380,3880,Marks Full Cream Milk Powder-1Kg Tin,1.0,2023-03-27 12:00:00,0,1,Summer,Afternoon
+23380,4861,Kurkure  Style Spicy Chicken-80gm,1.0,2023-03-27 12:00:00,0,1,Summer,Afternoon
+23400,30627,Bashundhara Atta-2kg,1.0,2023-03-27 17:00:00,0,1,Summer,Evening
+23380,14958,Green Chilli(kg),1.4,2023-03-27 22:00:00,0,1,Summer,Night
+23409,12823,Jafran,1.0,2023-03-28 03:00:00,0,1,Summer,Night
+23431,31380,Butter Bite-100g,1.0,2023-03-28 08:00:00,0,1,Summer,Morning
+23441,15279,Thai Papaya Ripe Red Lady,1.33,2023-03-28 10:00:00,0,1,Summer,Morning
+23380,3787,Rose Water-180ml,2.0,2023-03-28 12:00:00,0,1,Summer,Afternoon
+23414,10946,Nivea Roll On Protect & Care -50ml,1.0,2023-03-28 15:00:00,0,1,Summer,Afternoon
+23441,25438,Aarong Butter (Salted)-200gm,1.0,2023-03-28 16:00:00,0,1,Summer,Afternoon
+23380,42961,Dolphin Nata de Coco Drink (All)-270gm,2.0,2023-03-28 21:00:00,0,1,Summer,Night
+23380,952,Chashi Aroma.Chinigura Rice-2kg,5.0,2023-03-28 21:00:00,0,1,Summer,Night
+23491,14066,Koral Fish(Big),2.27,2023-03-28 22:00:00,0,1,Summer,Night
+23526,32160,China Kads 2230(4/23),1.0,2023-03-28 23:00:00,0,1,Summer,Night
+23527,13350,Raisin Sesame Bread- 320g,1.0,2023-03-29 02:00:00,0,1,Summer,Night
+23541,43031,Mini Burger Bread-4pcs 160gm,1.0,2023-03-29 07:00:00,0,1,Summer,Morning
+23549,22233,Coca Cola-1.25Lt(Pet),1.0,2023-03-29 12:00:00,0,1,Summer,Afternoon
+23468,15279,Thai Papaya Ripe Red Lady,0.81,2023-03-29 16:00:00,0,1,Summer,Afternoon
+23380,3964,Diploma Milk Powder-500g,8.0,2023-03-29 17:00:00,0,1,Summer,Evening
+23476,15180,Akher Sugar -1kg,3.0,2023-03-29 18:00:00,0,1,Summer,Evening
+23483,23114,One Man Punjabi -087,1.0,2023-03-29 20:00:00,0,1,Summer,Evening
+23517,14967,Borboti(kg),0.65,2023-03-30 00:00:00,0,1,Summer,Night
+23534,28588,Wave Air Freshner Rojonigondha-300ml,1.0,2023-03-30 02:00:00,0,1,Summer,Night
+23476,2915,P.Drinko Float Lichi Drink-250ml,1.0,2023-03-30 04:00:00,0,1,Summer,Night
+23380,26536,Knorr Soup-24gm,2.0,2023-03-30 06:00:00,0,1,Summer,Morning
+23523,3610,Italiano BBQ Hot & Spicy Sauce-340g,1.0,2023-03-30 09:00:00,0,1,Summer,Morning
+18557,3034,Rooh Afza Sharbat-300ml,1.0,2023-03-30 12:00:00,0,1,Summer,Afternoon
+18557,4259,Sunsilk G.Tea & W.Lilly F Shampoo-375ml,1.0,2023-03-30 12:00:00,0,1,Summer,Afternoon
+23435,32189,Aradhya Punjabi-2601,1.0,2023-03-30 14:00:00,0,1,Summer,Afternoon
+23380,14955,Tomato Sour Deshi-B (kg),0.52,2023-03-30 18:00:00,0,1,Summer,Evening
+23490,32177,China Ladies Shoe 1108-8 (4/23),1.0,2023-03-30 19:00:00,0,1,Summer,Evening
+23380,31329,Prince Noli Toast-350g,1.0,2023-03-30 23:00:00,0,1,Summer,Night
+23499,23243,Kabli Punjabi- 0502,1.0,2023-03-31 04:00:00,0,1,Summer,Night
+23520,2028,Pran Aromatic Rice-1kg,1.0,2023-03-31 07:00:00,0,1,Summer,Morning
+23546,25474,Lassa Special Semai-500g(Pkt),1.0,2023-03-31 08:00:00,0,1,Summer,Morning
+2242,32269,Gopal Ind Like Me Bra S-38 (4/23),2.0,2023-03-31 09:00:00,0,1,Summer,Morning
+23556,30641,Pure It GKK-1500L(Filter),1.0,2023-03-31 14:00:00,0,1,Summer,Afternoon
+23561,6857,Potato  Deshi New-1kg,17.97,2023-03-31 19:00:00,0,1,Summer,Evening
+23562,3806,Dano Power Milk Instant-400gm,1.0,2023-03-31 21:00:00,0,1,Summer,Night
+23562,765,Black Pepper(Chili)-50g,1.0,2023-03-31 21:00:00,0,1,Summer,Night
+23562,318,Musur Pulse Kangaroo -1Kg (sp),1.0,2023-03-31 21:00:00,0,1,Summer,Night
+23562,701,Radhuni Spice Coriander-200g,1.0,2023-03-31 21:00:00,0,1,Summer,Night
+23562,704,Radhuni Spices Cumin-200gm,1.0,2023-03-31 21:00:00,0,1,Summer,Night
+23568,7525,Belleame Choco Little Biscuit-45gm,2.0,2023-04-01 00:00:00,0,1,Summer,Night
+23584,489,Chola Pulse-1kg,1.0,2023-04-01 03:00:00,0,1,Summer,Night
+23400,14844,Banana Green Small-kg,0.93,2023-04-01 07:00:00,0,1,Summer,Morning
+23408,4969,Detos CW Chips-30gm,1.0,2023-04-01 09:00:00,0,1,Summer,Morning
+23410,30788,Teer Atta 2kg,1.0,2023-04-01 11:00:00,0,1,Summer,Morning
+23380,129,Vim Bar Lemon-125gm,1.0,2023-04-01 13:00:00,0,1,Summer,Afternoon
+23380,6848,Garlic China Big-(kg),0.51,2023-04-01 13:00:00,0,1,Summer,Afternoon
+23434,13989,Beef Without Bone Special,0.53,2023-04-01 15:00:00,0,1,Summer,Afternoon
+23431,42665,Funtastic Nimok Halal Biscuit-86gm,1.0,2023-04-01 18:00:00,0,1,Summer,Evening
+23441,15180,Akher Sugar -1kg,2.0,2023-04-01 21:00:00,0,1,Summer,Night
+23442,13524,Kazi Chicken Sausages (Spicy)-340gm,1.0,2023-04-01 23:00:00,0,1,Summer,Night
+23445,14088,Shrimp Fish Golda(Big)-(STR),1.03,2023-04-02 03:00:00,0,1,Summer,Night
+23443,13988,Beef Bone Full,4.17,2023-04-02 04:00:00,0,1,Summer,Night
+23380,14046,Gulsha Fish(Small)-(HB),1.06,2023-04-02 05:00:00,0,1,Summer,Night
+23400,4958,Teer Sugar-1Kg,1.0,2023-04-02 09:00:00,0,1,Summer,Morning
+23400,22234,Sprite-1.25 Lt(Pet),1.0,2023-04-02 09:00:00,0,1,Summer,Morning
+23409,13586,Prince Cocoa Powder 100gm,1.0,2023-04-02 11:00:00,0,1,Summer,Morning
+23415,13989,Beef Without Bone Special,1.19,2023-04-02 14:00:00,0,1,Summer,Afternoon
+23429,14984,Lemon Elachi-Pc,1.0,2023-04-02 15:00:00,0,1,Summer,Afternoon
+23447,890,Radhuni Garam Masala-40gm,1.0,2023-04-02 20:00:00,0,1,Summer,Evening
+23427,13988,Beef Bone Full,1.63,2023-04-03 01:00:00,0,1,Summer,Night
+23430,13988,Beef Bone Full,1.01,2023-04-03 05:00:00,0,1,Summer,Night
+23429,13988,Beef Bone Full,3.04,2023-04-03 07:00:00,0,1,Summer,Morning
+23439,13988,Beef Bone Full,2.04,2023-04-03 08:00:00,0,1,Summer,Morning
+23380,3177,Glucon-D Nimbu Pani-Flavour-400g Jar,1.0,2023-04-03 10:00:00,0,1,Summer,Morning
+23442,1348,Kinder Bueno Chocolate- 43g,1.0,2023-04-03 11:00:00,0,1,Summer,Morning
+23411,133,Rin Advanced-500gm,1.0,2023-04-03 15:00:00,0,1,Summer,Afternoon
+23380,133,Rin Advanced-500gm,1.0,2023-04-03 19:00:00,0,1,Summer,Evening
+23424,1217,Chupa Chups lolipop,1.0,2023-04-04 00:00:00,0,1,Summer,Night
+23429,14843,Cucumber Deshi (kg),1.5,2023-04-04 02:00:00,0,1,Summer,Night
+23431,31231,First Choice-100gm,1.0,2023-04-04 07:00:00,0,1,Summer,Morning
+23380,4889,Closeup Green-100gm,2.0,2023-04-04 09:00:00,0,1,Summer,Morning
+23380,42915,Rok Handwash Fruity-200ml(Buy2 Get1 Free),2.0,2023-04-04 09:00:00,0,1,Summer,Morning
+23468,13921,Rui Fish-M-(MNK),1.87,2023-04-04 14:00:00,0,1,Summer,Afternoon
+23491,29405,Premio Diamond Mug-1.5L All,1.0,2023-04-04 17:00:00,0,1,Summer,Evening
+23506,3831,Milk Vita Liquid Milk-1Ltr,1.0,2023-04-04 20:00:00,0,1,Summer,Evening
+23519,13986,Cow Stomach-K,1.42,2023-04-04 23:00:00,0,1,Summer,Night
+23538,32218,Anita Ind Rupa Frontline Vest-(4/23),1.0,2023-04-05 02:00:00,0,1,Summer,Night
+18557,2220,Ambition Tooth brush,1.0,2023-04-05 03:00:00,0,1,Summer,Night
+23460,3,Improved Jet- 200gm Poly Pack,1.0,2023-04-05 06:00:00,0,1,Summer,Morning
+23472,7085,Nocilla Cocoa Spread two flavour-190g,1.0,2023-04-05 10:00:00,0,1,Summer,Morning
+23380,13581,Radhuni Falooda Mix Vanilla-250gm,1.0,2023-04-05 14:00:00,0,1,Summer,Afternoon
+23483,31848,RF Fotua-094,1.0,2023-04-05 15:00:00,0,1,Summer,Afternoon
+23493,32106,Ch Baby Frock -9217(4/23),1.0,2023-04-05 18:00:00,0,1,Summer,Evening
+23500,32448,Rin Advanced-2kg,1.0,2023-04-05 21:00:00,0,1,Summer,Night
+23519,30802,Kath Badam-50gm,1.0,2023-04-06 00:00:00,0,1,Summer,Night
+23525,1645,Cadbury Dairy Milk Silk-13.2g,1.0,2023-04-06 05:00:00,0,1,Summer,Night
+23543,14802,Jhinga(kg),0.32,2023-04-06 07:00:00,0,1,Summer,Morning
+23546,26617,Maggi Masala Noodles Family Pack-992gm,1.0,2023-04-06 12:00:00,0,1,Summer,Afternoon
+23380,29127,Fair & Lovely BB Cream-18g,1.0,2023-04-06 14:00:00,0,1,Summer,Afternoon
+23457,13998,Mutton(1),3.02,2023-04-06 17:00:00,0,1,Summer,Evening
+23380,22260,Pepsi (Diet) 600ml,2.0,2023-04-06 20:00:00,0,1,Summer,Evening
+23380,22259,Mirinda Orange- 600ml,2.0,2023-04-06 20:00:00,0,1,Summer,Evening
+23380,7075,Herman Peanut Butter-340gm All,1.0,2023-04-06 20:00:00,0,1,Summer,Evening
+23493,32156,China Ladies Paup Shoe 055-10(4/23),1.0,2023-04-07 01:00:00,0,1,Summer,Night
+23529,32218,Anita Ind Rupa Frontline Vest-(4/23),1.0,2023-04-07 06:00:00,0,1,Summer,Morning
+18557,14815,Tomato L.C(kg),0.91,2023-04-07 08:00:00,0,1,Summer,Morning
+23457,13988,Beef Bone Full,5.04,2023-04-07 12:00:00,0,1,Summer,Afternoon
+23380,3729,Pran Hot Tomato Sauce-340gm,1.0,2023-04-07 14:00:00,0,1,Summer,Afternoon
+23504,32228,China Ladies Shoe F-30(4/23),1.0,2023-04-07 19:00:00,0,1,Summer,Evening
+23517,4890,Close-Up Menthol Fresh-160g,1.0,2023-04-08 00:00:00,0,1,Summer,Night
+23524,42829,China T Shirt  3612(4/23),1.0,2023-04-08 01:00:00,0,1,Summer,Night
+23531,13985,Cow Lever-K,0.42,2023-04-08 06:00:00,0,1,Summer,Morning
+18557,43017,Doughtnut Sugar Bread-200gm,1.0,2023-04-08 07:00:00,0,1,Summer,Morning
+18557,22258,Pepsi 600ml,1.0,2023-04-08 07:00:00,0,1,Summer,Morning
+18557,10415,Chaad  Dish Washing Liq Lemon -500ml,1.0,2023-04-08 07:00:00,0,1,Summer,Morning
+23551,884,R.Spices(Turmeric)200gm,1.0,2023-04-08 11:00:00,0,1,Summer,Morning
+23555,10213,GR. Fluid Foundation 34ml,1.0,2023-04-08 13:00:00,0,1,Summer,Afternoon
+23556,15180,Akher Sugar -1kg,1.0,2023-04-08 15:00:00,0,1,Summer,Afternoon
+23561,313,Mug Pulse (Sona)-1kg,1.0,2023-04-08 16:00:00,0,1,Summer,Afternoon
+23562,22233,Coca Cola-1.25Lt(Pet),1.0,2023-04-08 18:00:00,0,1,Summer,Evening
+23562,340,Confidence Salt-1Kg,1.0,2023-04-08 18:00:00,0,1,Summer,Evening
+23562,604,Cassia Leaf-100gm (Tespata),1.0,2023-04-08 18:00:00,0,1,Summer,Evening
+23566,28453,Bajaj Almond Drops Hair Oil-100ml (BD),1.0,2023-04-08 23:00:00,0,1,Summer,Night
+23576,13988,Beef Bone Full,0.97,2023-04-09 02:00:00,0,1,Summer,Night
+23581,32371,N.G Garments Ind G Pant-1699 (4/23),1.0,2023-04-09 03:00:00,0,1,Summer,Night
+23578,13988,Beef Bone Full,2.05,2023-04-09 05:00:00,0,1,Summer,Night
+23380,3006,Marks Milk Shake AS-200ml,6.0,2023-04-09 06:00:00,0,1,Summer,Morning
+23383,15153,Apple Fuji Big,2.68,2023-04-09 07:00:00,0,1,Summer,Morning
+23403,13846,Beef Samusa,1.0,2023-04-09 10:00:00,0,1,Summer,Morning
+23422,13801,Chicken (B-Skin),3.66,2023-04-09 15:00:00,0,1,Summer,Afternoon
+23380,12834,Prince Betel Spice 100gm,1.0,2023-04-09 16:00:00,0,1,Summer,Afternoon
+23380,14803,Brinjal (Oval) Big-kg,1.43,2023-04-09 16:00:00,0,1,Summer,Afternoon
+23415,15180,Akher Sugar -1kg,2.0,2023-04-09 18:00:00,0,1,Summer,Evening
+23420,24709,Bashundhara Paper Napkin-100p,1.0,2023-04-09 22:00:00,0,1,Summer,Night
+23429,3831,Milk Vita Liquid Milk-1Ltr,1.0,2023-04-09 23:00:00,0,1,Summer,Night
+23380,13793,C.N Chicken Nuggets-250gm,1.0,2023-04-10 00:00:00,0,1,Summer,Night
+23380,4767,Sensodyne Repair&Protect Toothpaste-100g,1.0,2023-04-10 00:00:00,0,1,Summer,Night
+23380,15262,Cow Brain-K,2.0,2023-04-10 00:00:00,0,1,Summer,Night
+23380,488,Bacha Boot Pulse 1Kg,1.0,2023-04-10 00:00:00,0,1,Summer,Night
+23407,13958,Shrimp Fish Bagda,0.54,2023-04-10 03:00:00,0,1,Summer,Night
+23435,389,Sajeeb Soft Drink Powder Mango -250gm,1.0,2023-04-10 08:00:00,0,1,Summer,Morning
+23447,704,Radhuni Spices Cumin-200gm,1.0,2023-04-10 12:00:00,0,1,Summer,Afternoon
+23453,7524,Belleame Chocolate Fondue-180gm,1.0,2023-04-10 14:00:00,0,1,Summer,Afternoon
+23468,24900,Perfumed Facial Tissue - 200Sheet,2.0,2023-04-10 18:00:00,0,1,Summer,Evening
+23481,32156,China Ladies Paup Shoe 055-10(4/23),1.0,2023-04-10 20:00:00,0,1,Summer,Evening
+23380,14969,Carrot (Deshi) kg,0.28,2023-04-11 01:00:00,0,1,Summer,Night
+23477,32157,China Keds -2233 (4/23),1.0,2023-04-11 03:00:00,0,1,Summer,Night
+23380,7202,EM Pasta Vite-400gm,1.0,2023-04-11 06:00:00,0,1,Summer,Morning
+23494,2915,P.Drinko Float Lichi Drink-250ml,2.0,2023-04-11 09:00:00,0,1,Summer,Morning
+23494,7332,Saad Monosodium G Foil Pack- 454g,1.0,2023-04-11 09:00:00,0,1,Summer,Morning
+23500,15269,Grapes (Red),0.95,2023-04-11 12:00:00,0,1,Summer,Afternoon
+23512,27730,Fun Vannilla cake,4.0,2023-04-11 15:00:00,0,1,Summer,Afternoon
+23519,718,Radhuni H. Biriyani Masala-45g,1.0,2023-04-11 19:00:00,0,1,Summer,Evening
+23519,3773,Sajeeb Hot Tomato Sauce-1kg,1.0,2023-04-11 19:00:00,0,1,Summer,Evening
+23546,27035,Aarong Ghee 200g,1.0,2023-04-12 00:00:00,0,1,Summer,Night
+23380,318,Musur Pulse Kangaroo -1Kg (sp),1.0,2023-04-12 02:00:00,0,1,Summer,Night
+23380,4958,Teer Sugar-1Kg,11.0,2023-04-12 02:00:00,0,1,Summer,Night
+23488,30611,Sagu-500g,1.0,2023-04-12 04:00:00,0,1,Summer,Night
+23503,22268,Pran Yogurt Sour Curd-500gm,1.0,2023-04-12 07:00:00,0,1,Summer,Morning
+23509,15300,Chicken Deshi (Pakistani) Cock,1.0,2023-04-12 10:00:00,0,1,Summer,Morning
+23517,14990,Usta(kg),0.51,2023-04-12 11:00:00,0,1,Summer,Morning
+23527,13958,Shrimp Fish Bagda,0.77,2023-04-12 16:00:00,0,1,Summer,Afternoon
+23537,6837,Aarong Yogurt Sour Curd-1000gm,1.0,2023-04-12 20:00:00,0,1,Summer,Evening
+23543,548,Mixed Masalla-100gm,1.0,2023-04-12 22:00:00,0,1,Summer,Night
+23544,3005,Marks Belgian Chocolate Flavour - 125ml,1.0,2023-04-12 23:00:00,0,1,Summer,Night
+18557,2043,Rupchanda Soyabean-5Ltr,1.0,2023-04-13 00:00:00,0,1,Summer,Night
+23380,4140,Sunsilk Thick &Long Shampoo-170ml,1.0,2023-04-13 02:00:00,0,1,Summer,Night
+23468,489,Chola Pulse-1kg,1.0,2023-04-13 06:00:00,0,1,Summer,Morning
+23517,30728,Veet Hair Removal Cream(Sensitive)-50gm,1.0,2023-04-13 07:00:00,0,1,Summer,Morning
+23520,133,Rin Advanced-500gm,1.0,2023-04-13 08:00:00,0,1,Summer,Morning
+23525,3831,Milk Vita Liquid Milk-1Ltr,2.0,2023-04-13 13:00:00,0,1,Summer,Afternoon
+23534,27396,Ossum Perfumed Body Mist-115ml (Romance),1.0,2023-04-13 17:00:00,0,1,Summer,Evening
+23461,30740,Senora S.Napkin Panty 15Pads,1.0,2023-04-13 18:00:00,0,1,Summer,Evening
+23380,7196,Austogram Mozzarella Cheese-250gm,1.0,2023-04-13 22:00:00,0,1,Summer,Night
+23468,15132,Green Mango(kg),0.72,2023-04-14 00:00:00,1,1,Summer,Night
+23479,22234,Sprite-1.25 Lt(Pet),1.0,2023-04-14 03:00:00,1,1,Summer,Night
+23380,3809,Arla Dano Daily Pushti-500gm,1.0,2023-04-14 04:00:00,1,1,Summer,Night
+23477,25622,Samir Tangail Sari-0061,1.0,2023-04-14 09:00:00,1,1,Summer,Morning
+23380,13,Lemon Bright Dish Wash 250ml B2 G1,2.0,2023-04-14 11:00:00,1,1,Summer,Morning
+23512,30740,Senora S.Napkin Panty 15Pads,1.0,2023-04-14 15:00:00,1,1,Summer,Afternoon
+23539,13794,C.N Plain Paratha Jumbo P.(20Pcs)-1600gm,1.0,2023-04-14 17:00:00,1,1,Summer,Evening
+23461,28906,Mirzapore PD - 500gm,1.0,2023-04-14 18:00:00,1,1,Summer,Evening
+23468,24713,Facial Soft Pack Tissue -400Sheet,1.0,2023-04-14 22:00:00,1,1,Summer,Night
+23491,14045,Pabda Fish (Big),0.66,2023-04-15 01:00:00,0,1,Summer,Night
+23491,1100,Discovery Rigata 400gm - B1G1,1.0,2023-04-15 01:00:00,0,1,Summer,Night
+23498,43040,Marshmallow-100gm,1.0,2023-04-15 03:00:00,0,1,Summer,Night
+23506,13988,Beef Bone Full,5.05,2023-04-15 04:00:00,0,1,Summer,Night
+23530,12823,Jafran,1.0,2023-04-15 09:00:00,0,1,Summer,Morning
+23542,4958,Teer Sugar-1Kg,1.0,2023-04-15 13:00:00,0,1,Summer,Afternoon
+18557,4265,Treseme C. Smooth Shampoo -340ml,1.0,2023-04-15 15:00:00,0,1,Summer,Afternoon
+23553,28508,Spring Air Fershner Flora-300ml,1.0,2023-04-15 17:00:00,0,1,Summer,Evening
+23559,31999,Ch Gaberdine Pant-8053 (4/23),1.0,2023-04-15 20:00:00,0,1,Summer,Evening
+23563,23746,Box Half Shirt 14154-0101,1.0,2023-04-15 23:00:00,0,1,Summer,Night
+23564,43014,Swiss Roll Chocolate Cake-375gm,1.0,2023-04-16 04:00:00,0,1,Summer,Night
+23562,774,Cumin-200gm,1.0,2023-04-16 09:00:00,0,1,Summer,Morning
+23571,13988,Beef Bone Full,1.04,2023-04-16 10:00:00,0,1,Summer,Morning
+23577,23400,Kabli Punjabi Set-0561,1.0,2023-04-16 11:00:00,0,1,Summer,Morning
+23581,32378,N.G Ind Jeans Pant-1499 (4/23),1.0,2023-04-16 16:00:00,0,1,Summer,Afternoon
+23580,26617,Maggi Masala Noodles Family Pack-992gm,1.0,2023-04-16 21:00:00,0,1,Summer,Night
+23580,26619,Maggi Noodles Masala Blast-252g 4Pack,1.0,2023-04-16 21:00:00,0,1,Summer,Night
+23407,15262,Cow Brain-K,1.0,2023-04-17 01:00:00,0,1,Summer,Night
+23415,2030,Pran Aromatic Rice-2kg,1.0,2023-04-17 04:00:00,0,1,Summer,Night
+23427,11028,Lifebuoy Handwash Lemon Fresh- 1L,1.0,2023-04-17 05:00:00,0,1,Summer,Night
+23441,318,Musur Pulse Kangaroo -1Kg (sp),1.0,2023-04-17 08:00:00,0,1,Summer,Morning
+23380,1189,Prince Mango Pickle(400gm),1.0,2023-04-17 11:00:00,0,1,Summer,Morning
+23380,12629,Ramisa-Jhal Nimki Pkt-200gm,1.0,2023-04-17 11:00:00,0,1,Summer,Morning
+23382,13988,Beef Bone Full,2.69,2023-04-17 16:00:00,0,1,Summer,Afternoon
+23402,32124,Ch Baby Sandal-A22 (4/23),1.0,2023-04-17 20:00:00,0,1,Summer,Evening
+23422,13925,Golda Fish Big,1.34,2023-04-17 22:00:00,0,1,Summer,Night
+23419,15106,Wood Apple Small (Bell),1.0,2023-04-18 02:00:00,0,1,Summer,Night
+23429,13909,Silver Curp,3.74,2023-04-18 06:00:00,0,1,Summer,Morning
+23429,14801,Net Pumpkin (Jali Kumra)-Pc,1.0,2023-04-18 06:00:00,0,1,Summer,Morning
+23442,551,Cumin Powder-100gm,1.0,2023-04-18 09:00:00,0,1,Summer,Morning
+23380,25811,Miton Ezafa Sari- 0001,1.0,2023-04-18 13:00:00,0,1,Summer,Afternoon
+23380,13654,Quality Premiun Paratha 10Pcs-650g,2.0,2023-04-18 13:00:00,0,1,Summer,Afternoon
+23380,7510,Bisk Club Potata Biscuit- 100g,1.0,2023-04-18 13:00:00,0,1,Summer,Afternoon
+23400,1180,Ruchi Tomato Ketchup-350g,1.0,2023-04-18 14:00:00,0,1,Summer,Afternoon
+23380,30626,Bashundhara Maida-2kg,2.0,2023-04-18 17:00:00,0,1,Summer,Evening
+23409,30972,R.Chanachur Bar-b-Q-300g,1.0,2023-04-18 18:00:00,0,1,Summer,Evening
+23424,2915,P.Drinko Float Lichi Drink-250ml,2.0,2023-04-18 20:00:00,0,1,Summer,Evening
+23411,24718,Fay Toilet tissue White-180Sheets,1.0,2023-04-18 23:00:00,0,1,Summer,Night
+23462,32223,Anita Ind ONN Vest- NF 221(4/23),1.0,2023-04-19 01:00:00,0,1,Summer,Night
+23380,2801,Vita Juice -250ml,2.0,2023-04-19 04:00:00,0,1,Summer,Night
+23380,13872,GH French Fries-500gm,1.0,2023-04-19 04:00:00,0,1,Summer,Night
+23479,43099,Pepsi Pet Bottle -250ml,3.0,2023-04-19 09:00:00,0,1,Summer,Morning
+23481,32233,China Ladies Sandal 872-2(4/23),1.0,2023-04-19 13:00:00,0,1,Summer,Afternoon
+23519,13988,Beef Bone Full,2.46,2023-04-19 18:00:00,0,1,Summer,Evening
+18557,25519,Dettol Skincare HW-170ml(Refil),1.0,2023-04-19 20:00:00,0,1,Summer,Evening
+23546,15180,Akher Sugar -1kg,1.0,2023-04-20 00:00:00,0,1,Summer,Night
+23380,3191,Frooto Mango Juice-500ml,2.0,2023-04-20 03:00:00,0,1,Summer,Night
+23466,32123,Ch Baby T-Shirt-21030 (4/23),1.0,2023-04-20 07:00:00,0,1,Summer,Morning
+23467,22234,Sprite-1.25 Lt(Pet),1.0,2023-04-20 08:00:00,0,1,Summer,Morning
+23468,14981,Lemon(Colombo)-Pc,6.0,2023-04-20 12:00:00,0,1,Summer,Afternoon
+23483,31537,GD Tex Ind Ladies 3pcs-7775 (4/23),2.0,2023-04-20 13:00:00,0,1,Summer,Afternoon
+23380,545,Golden Raisin (Kismis)-200gm,1.0,2023-04-20 17:00:00,0,1,Summer,Evening
+23537,13997,Chicken Kima,1.11,2023-04-20 18:00:00,0,1,Summer,Evening
+23539,14042,Qyality Egg Red (1 Dozen),1.0,2023-04-20 20:00:00,0,1,Summer,Evening
+23539,31227,Olympic Dry Cake-290gm,1.0,2023-04-20 20:00:00,0,1,Summer,Evening
+23546,1164,Naga Chilli Pickle-300g,1.0,2023-04-21 01:00:00,0,1,Summer,Night
+23549,14843,Cucumber Deshi (kg),0.56,2023-04-21 04:00:00,0,1,Summer,Night
+23380,25437,Aarong Butter Salted-100gm,1.0,2023-04-21 08:00:00,0,1,Summer,Morning
+23462,32092,Ashraf Mujahid Lungi-875,1.0,2023-04-21 13:00:00,0,1,Summer,Afternoon
+23468,14062,Puti Fish (Deshi) (HB),0.53,2023-04-21 16:00:00,0,1,Summer,Afternoon
+23478,32014,Ch Baby Set-82126 (4/23),1.0,2023-04-21 19:00:00,0,1,Summer,Evening
+23509,13985,Cow Lever-K,0.97,2023-04-21 20:00:00,0,1,Summer,Evening
+23520,2165,Vim Bar 300g (Lemon),1.0,2023-04-21 22:00:00,0,1,Summer,Night
+23522,42829,China T Shirt  3612(4/23),1.0,2023-04-22 00:00:00,0,1,Summer,Night
+23543,15104,Bomby Chilli-5Pcs,1.0,2023-04-22 05:00:00,0,1,Summer,Night
+23380,864,Pran Haleem Mix(200g),2.0,2023-04-22 07:00:00,0,1,Summer,Morning
+23468,30610,Sagu-250g,1.0,2023-04-22 11:00:00,0,1,Summer,Morning
+23479,3727,Pran Tomato Ketchup-340gm,1.0,2023-04-22 13:00:00,0,1,Summer,Afternoon
+23380,7182,Aarong Cheese - 100gm,1.0,2023-04-22 18:00:00,0,1,Summer,Evening
+23380,296,Chaka Advanced Ball Soap-125gm,4.0,2023-04-22 18:00:00,0,1,Summer,Evening
+23494,26890,Nescafe Creamy Latte- 6Pcs-18g,1.0,2023-04-22 20:00:00,0,1,Summer,Evening
+23503,42909,Rok Liquid Dishwash-250ml(Buy2 Get1 Free),1.0,2023-04-23 00:00:00,0,1,Summer,Night
+23506,4958,Teer Sugar-1Kg,2.0,2023-04-23 01:00:00,0,1,Summer,Night
+23523,13357,Queens Butter Bun- 100g,2.0,2023-04-23 06:00:00,0,1,Summer,Morning
+23537,562,Golden Raisin (Kismis)-500gm,1.0,2023-04-23 07:00:00,0,1,Summer,Morning
+23537,15265,Naspati(kg),1.28,2023-04-23 07:00:00,0,1,Summer,Morning
+23542,15180,Akher Sugar -1kg,1.0,2023-04-23 08:00:00,0,1,Summer,Morning
+23546,10339,Glo On Pink Glow Cream-25gm,1.0,2023-04-23 09:00:00,0,1,Summer,Morning
+23380,4841,Sun Chips Tomato Tango-75gm,2.0,2023-04-23 12:00:00,0,1,Summer,Afternoon
+23546,962,Fortune BS ELG Basmati Rice 1kg,1.0,2023-04-23 15:00:00,0,1,Summer,Afternoon
+99991,13988,Beef Bone Full,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99991,13988,Beef Bone Full,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99991,13988,Beef Bone Full,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99991,13988,Beef Bone Full,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99991,13988,Beef Bone Full,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99991,13988,Beef Bone Full,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99991,13988,Beef Bone Full,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99991,13988,Beef Bone Full,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99991,13988,Beef Bone Full,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99991,13988,Beef Bone Full,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99991,15180,Akher Sugar -1kg,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99991,15180,Akher Sugar -1kg,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99991,15180,Akher Sugar -1kg,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99991,15180,Akher Sugar -1kg,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99991,15180,Akher Sugar -1kg,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99991,15180,Akher Sugar -1kg,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99991,15180,Akher Sugar -1kg,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99991,15180,Akher Sugar -1kg,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99991,15180,Akher Sugar -1kg,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99991,15180,Akher Sugar -1kg,1.0,2023-01-01 10:00:00,0,1,Winter,Morning
+99992,13988,Beef Bone Full,1.0,2023-12-30 10:00:00,0,0,Winter,Morning
+99992,13988,Beef Bone Full,1.0,2023-12-30 10:00:00,0,0,Winter,Morning
+99992,13988,Beef Bone Full,1.0,2023-12-30 10:00:00,0,0,Winter,Morning
+99992,13988,Beef Bone Full,1.0,2023-12-30 10:00:00,0,0,Winter,Morning
+99992,13988,Beef Bone Full,1.0,2023-12-30 10:00:00,0,0,Winter,Morning
+99992,15180,Akher Sugar -1kg,1.0,2023-12-30 10:00:00,0,0,Winter,Morning
+99992,15180,Akher Sugar -1kg,1.0,2023-12-30 10:00:00,0,0,Winter,Morning
+99992,15180,Akher Sugar -1kg,1.0,2023-12-30 10:00:00,0,0,Winter,Morning
+99992,15180,Akher Sugar -1kg,1.0,2023-12-30 10:00:00,0,0,Winter,Morning
+99992,15180,Akher Sugar -1kg,1.0,2023-12-30 10:00:00,0,0,Winter,Morning
+23554,7521,Belleame Peanut Bite Biscuit -240gm,1.1,2023-03-01 09:00:00,0,0,Summer,Morning
+23556,26534,Knorr Thai Soup- 28g,1.1,2023-03-01 13:00:00,0,0,Summer,Afternoon
+23562,3823,Aarong Pasturized Liquid Milk-1Ltr Reg.,1.1,2023-03-01 18:00:00,0,0,Summer,Evening
+23562,332,ACI Pure Salt-1Kg,1.1,2023-03-01 18:00:00,0,0,Summer,Evening
+23565,14997,Sweet Pumpkin(kg),3.3660000000000005,2023-03-01 21:00:00,0,0,Summer,Night
+23567,31898,Asha Ladies bag-0072,1.1,2023-03-02 02:00:00,0,0,Summer,Night
+23570,4969,Detos CW Chips-30gm,1.1,2023-03-02 07:00:00,0,0,Summer,Morning
+23573,2915,P.Drinko Float Lichi Drink-250ml,2.2,2023-03-02 09:00:00,0,0,Summer,Morning
+23411,26627,Sajeeb Noodles-180g (TS),1.1,2023-03-02 12:00:00,0,0,Summer,Afternoon
+23427,14975,Capsicum Yellow(kg),0.792,2023-03-02 15:00:00,0,0,Summer,Afternoon
+23395,31849,RF Fotua-064,1.1,2023-03-02 18:00:00,0,0,Summer,Evening
+23404,13988,Beef Bone Full,0.649,2023-03-02 23:00:00,0,0,Summer,Night
+23409,12826,Chia Seed (Dana) New-100g,1.1,2023-03-03 03:00:00,0,1,Summer,Night
+23424,13988,Beef Bone Full,1.166,2023-03-03 06:00:00,0,1,Summer,Morning
+23428,13988,Beef Bone Full,0.6050000000000001,2023-03-03 11:00:00,0,1,Summer,Morning
+23429,4122,Clear Complete Active Care Shampoo-330ml,1.1,2023-03-03 13:00:00,0,1,Summer,Afternoon
+23380,2306,Harpic Total Powder-400gm,1.1,2023-03-03 17:00:00,0,1,Summer,Evening
+23380,6812,Horlicks Classic Malt-250gm Jar,1.1,2023-03-03 17:00:00,0,1,Summer,Evening
+23411,13985,Cow Lever-K,0.5720000000000001,2023-03-03 19:00:00,0,1,Summer,Evening
+23386,4891,Sensitive Ex Pepsodent Toothpaste-80g,1.1,2023-03-03 23:00:00,0,1,Summer,Night
+23380,13985,Cow Lever-K,3.74,2023-03-04 04:00:00,0,1,Summer,Night
+23407,27353,Nivea Body Spray Fresh Natural - 150ml,1.1,2023-03-04 05:00:00,0,1,Summer,Night
+23423,787,Cardmom-50gm(Alachi),1.1,2023-03-04 09:00:00,0,1,Summer,Morning
+23380,16245,Polar Choco Crombo Ice Cream-1ltr,1.1,2023-03-04 11:00:00,0,1,Summer,Morning
+23442,1341,Nestle Kitkat Chunky-40g,1.1,2023-03-04 16:00:00,0,1,Summer,Afternoon
+23381,13988,Beef Bone Full,3.861,2023-03-04 20:00:00,0,1,Summer,Evening
+23390,3179,Starship Mango Juice 250ml pack,2.2,2023-03-04 21:00:00,0,1,Summer,Night
+23410,13988,Beef Bone Full,1.1110000000000002,2023-03-04 22:00:00,0,1,Summer,Night
+23424,7444,Pringles Cheesy Cheese-142g IDC,1.1,2023-03-05 01:00:00,0,1,Summer,Night
+23553,13891,GH Chicken Sausage-340gm,1.1,2023-03-05 04:00:00,0,1,Summer,Night
+23557,13988,Beef Bone Full,3.905,2023-03-05 06:00:00,0,1,Summer,Morning
+23557,27732,fun Chocolate Cake,4.4,2023-03-05 06:00:00,0,1,Summer,Morning
+23557,4878,Meril Baby Gel T Paste 45gm Organge,1.1,2023-03-05 06:00:00,0,1,Summer,Morning
+23562,5834,Fortune KG Mustard Oil- 500ml,1.1,2023-03-05 10:00:00,0,1,Summer,Morning
+23565,14957,Lati Thik(Kg),0.55,2023-03-05 14:00:00,0,1,Summer,Afternoon
+23568,26885,Nescafe 3in1-6Pcs-15g,1.1,2023-03-05 17:00:00,0,1,Summer,Evening
+23575,15106,Wood Apple Small (Bell),1.1,2023-03-05 21:00:00,0,1,Summer,Night
+23579,15131,Atta Fruits,0.5720000000000001,2023-03-06 01:00:00,0,1,Summer,Night
+23580,3823,Aarong Pasturized Liquid Milk-1Ltr Reg.,4.4,2023-03-06 02:00:00,0,1,Summer,Night
+23384,16232,Polar Ice Cream Chocolate-1Ltr(Tub),1.1,2023-03-06 05:00:00,0,1,Summer,Night
+23398,1355,Toblerone Chocolate- 100g,1.1,2023-03-06 10:00:00,0,1,Summer,Morning
+23435,26432,G. BR Vitamin-C Face Wash-50g,1.1,2023-03-06 13:00:00,0,1,Summer,Afternoon
+23442,12515,Gluco Max D- 400g,1.1,2023-03-06 18:00:00,0,1,Summer,Evening
+23380,27,Pran Toast-250g,1.1,2023-03-06 19:00:00,0,1,Summer,Evening
+23387,3,Improved Jet- 200gm Poly Pack,1.1,2023-03-06 21:00:00,0,1,Summer,Night
+23405,864,Pran Haleem Mix(200g),1.1,2023-03-07 01:00:00,0,1,Summer,Night
+23412,4878,Meril Baby Gel T Paste 45gm Organge,1.1,2023-03-07 02:00:00,0,1,Summer,Night
+23429,7190,Baqarah Pasteurized Milk- 1L,1.1,2023-03-07 06:00:00,0,1,Summer,Morning
+23380,976,Lata Rice-KG,5.522,2023-03-07 08:00:00,0,1,Summer,Morning
+23411,32441,Ela vista pomace olive oil 250 ml,1.1,2023-03-07 10:00:00,0,1,Summer,Morning
+23398,1677,Cadbury Silk Oreo - 130gm,3.3000000000000003,2023-03-07 11:00:00,0,1,Summer,Morning
+23407,42915,Rok Handwash Fruity-200ml(Buy2 Get1 Free),1.1,2023-03-07 13:00:00,0,1,Summer,Afternoon
+23420,12823,Jafran,1.1,2023-03-07 18:00:00,0,1,Summer,Evening
+23427,24717,B Toilet Tissue Extra Saving Pack 4Rolls,1.1,2023-03-07 20:00:00,0,1,Summer,Evening
+23380,15279,Thai Papaya Ripe Red Lady,3.3220000000000005,2023-03-08 00:00:00,0,1,Summer,Night
+23440,14843,Cucumber Deshi (kg),2.53,2023-03-08 04:00:00,0,1,Summer,Night
+23441,292,Super White Powder-1000g,2.2,2023-03-08 08:00:00,0,1,Summer,Morning
+23442,4969,Detos CW Chips-30gm,2.2,2023-03-08 12:00:00,0,1,Summer,Afternoon
+23400,13780,C.N Chicken Garlic Meatball-250gm,1.1,2023-03-08 17:00:00,0,1,Summer,Evening
+23414,1648,Dairy Milk Fruit & Nut Chocolate-36g,1.1,2023-03-08 20:00:00,0,1,Summer,Evening
+23447,9877,Skin Cafe Aloe Vera Gel -240ml,1.1,2023-03-08 21:00:00,0,1,Summer,Night
+23380,4968,Yokozona Twisty Goodness Crackers-60g,1.1,2023-03-09 01:00:00,0,1,Summer,Night
+23380,898,Radhuni Biriyani Masala-40g,1.1,2023-03-09 01:00:00,0,1,Summer,Night
+23380,31249,Milk Merry Biscuits-240gm,1.1,2023-03-09 01:00:00,0,1,Summer,Night
+23380,13348,Pandan Kaya Bread- 225g,1.1,2023-03-09 01:00:00,0,1,Summer,Night
+23483,31535,GD Tex Ind Ladies 3pcs-353347(4/23),1.1,2023-03-09 03:00:00,0,1,Summer,Night
+23380,788,Cardmom-100gm(Alachi),1.1,2023-03-09 07:00:00,0,1,Summer,Morning
+23494,13722,CP Chicken Nugget-320g,1.1,2023-03-09 09:00:00,0,1,Summer,Morning
+23500,12743,Buter Halua-300g,1.1,2023-03-09 11:00:00,0,1,Summer,Morning
+23503,13691,Roja Deshi Classic Paratha-1300gm,2.2,2023-03-09 15:00:00,0,1,Summer,Afternoon
+23509,24709,Bashundhara Paper Napkin-100p,1.1,2023-03-09 20:00:00,0,1,Summer,Evening
+23517,7190,Baqarah Pasteurized Milk- 1L,1.1,2023-03-09 22:00:00,0,1,Summer,Night
+23455,7017,Good Life Mozzarella Cheese-200gm,1.1,2023-03-10 00:00:00,0,1,Summer,Night
+23460,42617,Jhok Mok Dishwash Bar 300gmB2 get 100gm Free,1.1,2023-03-10 04:00:00,0,1,Summer,Night
+23464,32190,Aradhya Punjabi-2610,1.1,2023-03-10 06:00:00,0,1,Summer,Morning
+23467,22235,Coca Cola-2.25Lt(Pet),1.1,2023-03-10 08:00:00,0,1,Summer,Morning
+23472,2915,P.Drinko Float Lichi Drink-250ml,2.2,2023-03-10 12:00:00,0,1,Summer,Afternoon
+23380,26766,Mr.Noodles Easy Masala-8pcs,1.1,2023-03-10 16:00:00,0,1,Summer,Afternoon
+23380,32441,Ela vista pomace olive oil 250 ml,1.1,2023-03-10 16:00:00,0,1,Summer,Afternoon
+23380,13352,Queens Egg Bread- 125g,1.1,2023-03-10 16:00:00,0,1,Summer,Afternoon
+23492,11200,Lux Fragrant Skin Body Wash-245ml,1.1,2023-03-10 17:00:00,0,1,Summer,Evening
+23493,23252,Dewan Baby Punjabi -055,1.1,2023-03-10 22:00:00,0,1,Summer,Night
+23498,16238,Polar Ice-Cream Mango Mellow-1Ltr,1.1,2023-03-11 03:00:00,0,1,Summer,Night
+23500,2343,Vixol B Cleaner- 450ml  All,1.1,2023-03-11 05:00:00,0,1,Summer,Night
+23465,10059,PC Eyeliner Midnight Black- 503,1.1,2023-03-11 10:00:00,0,1,Summer,Morning
+23431,31379,Olympic Energy Plus Malai Bis-45gm,1.1,2023-03-11 12:00:00,0,1,Summer,Afternoon
+23440,30590,Multi Purpose Container 15L-91015,1.1,2023-03-11 13:00:00,0,1,Summer,Afternoon
+23453,13531,Kazi Chicken keema Paratha-250g,1.1,2023-03-11 17:00:00,0,1,Summer,Evening
+23460,389,Sajeeb Soft Drink Powder Mango -250gm,1.1,2023-03-11 21:00:00,0,1,Summer,Night
+23380,7173,Tang Orange - 200gm {Pkt},1.1,2023-03-12 01:00:00,0,1,Summer,Night
+23492,29127,Fair & Lovely BB Cream-18g,1.1,2023-03-12 06:00:00,0,1,Summer,Morning
+23519,30801,Pesta Nut-50g,1.1,2023-03-12 07:00:00,0,1,Summer,Morning
+23519,545,Golden Raisin (Kismis)-200gm,2.2,2023-03-12 07:00:00,0,1,Summer,Morning
+4959,3182,Starship Chocolate Milk-200ml,1.1,2023-03-12 12:00:00,0,1,Summer,Afternoon
+23530,898,Radhuni Biriyani Masala-40g,1.1,2023-03-12 17:00:00,0,1,Summer,Evening
+18557,3123,G. Naturals Deep Black-20ml,1.1,2023-03-12 18:00:00,0,1,Summer,Evening
+23380,25476,Prince Super Vermichelli Semai-150gm,4.4,2023-03-12 19:00:00,0,1,Summer,Evening
+23471,31973,Ch Baby Frock -2122 (4/23),1.1,2023-03-12 20:00:00,0,1,Summer,Evening
+23380,14998,Capsicum Green,0.297,2023-03-12 21:00:00,0,1,Summer,Night
+23492,30354,Monia Lock Rtg Container 1450ml-917828,1.1,2023-03-13 01:00:00,0,0,Summer,Night
+23506,30801,Pesta Nut-50g,1.1,2023-03-13 04:00:00,0,0,Summer,Night
+23522,31795,Sk Purbani Lungi-055,1.1,2023-03-13 07:00:00,0,0,Summer,Morning
+23523,30611,Sagu-500g,2.2,2023-03-13 08:00:00,0,0,Summer,Morning
+23523,3720,Suree Oyster Sauce-295ml,1.1,2023-03-13 08:00:00,0,0,Summer,Morning
+23523,3792,Italiano Hot Chilli Sauce-340g,1.1,2023-03-13 08:00:00,0,0,Summer,Morning
+23456,15180,Akher Sugar -1kg,2.2,2023-03-13 11:00:00,0,0,Summer,Morning
+23380,30743,Senora S.Nap Eco(Belt)-15s Pad,1.1,2023-03-13 14:00:00,0,0,Summer,Afternoon
+23380,2149,Sensodyne Deep Clean Toothbrush,1.1,2023-03-13 14:00:00,0,0,Summer,Afternoon
+23537,13637,Pastry Sheet - 500g,1.1,2023-03-13 15:00:00,0,0,Summer,Afternoon
+23552,32206,Aradhya Punjabi-2605,1.1,2023-03-13 18:00:00,0,0,Summer,Evening
+23380,6857,Potato  Deshi New-1kg,16.335,2023-03-13 23:00:00,0,0,Summer,Night
+23468,30952,H&S Black Bourbon Biscut(All) -100g,1.1,2023-03-14 01:00:00,0,0,Summer,Night
+23380,708,Radhuni Chatpati Masala 50Gm,2.2,2023-03-14 03:00:00,0,0,Summer,Night
+23380,3739,Hot Pran Tomato Sauce-500gm,1.1,2023-03-14 03:00:00,0,0,Summer,Night
+23498,1677,Cadbury Silk Oreo - 130gm,1.1,2023-03-14 04:00:00,0,0,Summer,Night
+23472,774,Cumin-200gm,1.1,2023-03-14 08:00:00,0,0,Summer,Morning
+23478,32107,Ch Baby Frock -8007 (4/23),1.1,2023-03-14 09:00:00,0,0,Summer,Morning
+23380,3612,Italiano Sweet Chilli Sauce-340g,1.1,2023-03-14 13:00:00,0,0,Summer,Afternoon
+18557,4534,Lux Jasmine & Vitamin E Soap-150g,1.1,2023-03-14 15:00:00,0,0,Summer,Afternoon
+23549,14844,Banana Green Small-kg,0.429,2023-03-14 16:00:00,0,0,Summer,Afternoon
+23553,768,Cinnamon-100g (Daruchine),1.1,2023-03-14 21:00:00,0,0,Summer,Night
+23554,12834,Prince Betel Spice 100gm,1.1,2023-03-15 00:00:00,0,0,Summer,Night
+23551,6857,Potato  Deshi New-1kg,5.478000000000001,2023-03-15 04:00:00,0,0,Summer,Night
+23550,23256,Dewan Punjabi - 056,1.1,2023-03-15 07:00:00,0,0,Summer,Morning
+23557,27729,Yum Muffin Cake,2.2,2023-03-15 10:00:00,0,0,Summer,Morning
+23560,4841,Sun Chips Tomato Tango-75gm,1.1,2023-03-15 11:00:00,0,0,Summer,Morning
+23562,2043,Rupchanda Soyabean-5Ltr,1.1,2023-03-15 14:00:00,0,0,Summer,Afternoon
+23562,886,Radhuni Chilli Powder -200gm,1.1,2023-03-15 14:00:00,0,0,Summer,Afternoon
+23565,14959,Ladies Finger (Vendi)-kg,0.913,2023-03-15 19:00:00,0,0,Summer,Evening
+23573,3565,Studio X Face Wash Brightening-100ml,1.1,2023-03-15 22:00:00,0,0,Summer,Night
+23582,13988,Beef Bone Full,1.2100000000000002,2023-03-15 23:00:00,0,0,Summer,Night
+23579,15106,Wood Apple Small (Bell),1.1,2023-03-16 04:00:00,0,0,Summer,Night
+23400,6857,Potato  Deshi New-1kg,2.211,2023-03-16 06:00:00,0,0,Summer,Morning
+23416,1467,Toren Classic Chocolate- 52g,2.2,2023-03-16 09:00:00,0,0,Summer,Morning
+23425,23117,One Man Punjabi -0521,2.2,2023-03-16 10:00:00,0,0,Summer,Morning
+23431,7514,Belleame Cremo Biscuit- 90g,1.1,2023-03-16 12:00:00,0,0,Summer,Afternoon
+23430,13989,Beef Without Bone Special,2.233,2023-03-16 14:00:00,0,0,Summer,Afternoon
+23441,15263,Malta (Yellow)-kg,1.628,2023-03-16 18:00:00,0,0,Summer,Evening
+23388,30641,Pure It GKK-1500L(Filter),1.1,2023-03-16 23:00:00,0,0,Summer,Night
+23400,14969,Carrot (Deshi) kg,0.803,2023-03-17 02:00:00,1,0,Summer,Night
+23401,15180,Akher Sugar -1kg,2.2,2023-03-17 03:00:00,1,0,Summer,Night
+23380,3182,Starship Chocolate Milk-200ml,5.5,2023-03-17 07:00:00,1,0,Summer,Morning
+23494,29148,Lakme Kajal Eye Co Nic-0.35g,1.1,2023-03-17 12:00:00,1,0,Summer,Afternoon
+23497,12770,Muslim Masala Badam-200g,1.1,2023-03-17 16:00:00,1,0,Summer,Afternoon
+23509,29083,Seylon Family Blend Tea-200g,1.1,2023-03-17 21:00:00,1,0,Summer,Night
+23531,12583,Pigeon-1PC,1.1,2023-03-18 02:00:00,0,0,Summer,Night
+23545,28630,Organikare  Amla Hairpack-80g,1.1,2023-03-18 05:00:00,0,0,Summer,Night
+23553,7196,Austogram Mozzarella Cheese-250gm,1.1,2023-03-18 10:00:00,0,0,Summer,Morning
+23553,898,Radhuni Biriyani Masala-40g,2.2,2023-03-18 10:00:00,0,0,Summer,Morning
+23560,14972,Bath Sponge (Dhundul)-kg,0.6160000000000001,2023-03-18 14:00:00,0,0,Summer,Afternoon
+23560,25574,Lifeboy Liquid Hand Wash(Lemon F)-170ml,1.1,2023-03-18 14:00:00,0,0,Summer,Afternoon
+23562,852,Pran Turmeric Powder-200g,1.1,2023-03-18 19:00:00,0,0,Summer,Evening
+23566,13565,F Clarks Ess 28ml(Vanilla),1.1,2023-03-18 22:00:00,0,0,Summer,Night
+23569,32218,Anita Ind Rupa Frontline Vest-(4/23),1.1,2023-03-19 01:00:00,0,0,Summer,Night
+23571,13810,Cock Roast (Deshi)-PC,8.8,2023-03-19 05:00:00,0,0,Summer,Night
+23573,3179,Starship Mango Juice 250ml pack,2.2,2023-03-19 07:00:00,0,0,Summer,Morning
+23580,13802,Chicken (Deshi),1.65,2023-03-19 09:00:00,0,0,Summer,Morning
+23580,30627,Bashundhara Atta-2kg,1.1,2023-03-19 09:00:00,0,0,Summer,Morning
+23388,26430,G.Men Turbo B Face Wash-100ml,1.1,2023-03-19 14:00:00,0,0,Summer,Afternoon
+23380,13917,Rui Fish (XL)-(HB),4.862,2023-03-19 15:00:00,0,0,Summer,Afternoon
+23419,12637,Ramisa-Nakshi Pitha Box-4 Pcs,1.1,2023-03-19 20:00:00,0,0,Summer,Evening
+23419,12823,Jafran,1.1,2023-03-19 20:00:00,0,0,Summer,Evening
+23419,13563,F Clarks Ess 28ml(Mango),1.1,2023-03-19 20:00:00,0,0,Summer,Evening
+23440,2915,P.Drinko Float Lichi Drink-250ml,2.2,2023-03-20 00:00:00,0,0,Summer,Night
+23440,13988,Beef Bone Full,1.793,2023-03-20 00:00:00,0,0,Summer,Night
+23450,15269,Grapes (Red),0.528,2023-03-20 04:00:00,0,0,Summer,Night
+23380,13988,Beef Bone Full,33.75900000000001,2023-03-20 08:00:00,0,0,Summer,Morning
+23405,878,Radhuni Spices (Corinder)-100gm,1.1,2023-03-20 12:00:00,0,0,Summer,Afternoon
+23424,13354,Queens Custard Bread- 90g,1.1,2023-03-20 16:00:00,0,0,Summer,Afternoon
+23415,13988,Beef Bone Full,2.3100000000000005,2023-03-20 19:00:00,0,0,Summer,Evening
+23419,14046,Gulsha Fish(Small)-(HB),1.529,2023-03-20 21:00:00,0,0,Summer,Night
+23380,3780,Prince Soya Sauce-250gm,1.1,2023-03-21 01:00:00,0,0,Summer,Night
+23380,3858,Pran Sweetened Yogurt-100gm,2.2,2023-03-21 01:00:00,0,0,Summer,Night
+23440,13354,Queens Custard Bread- 90g,1.1,2023-03-21 02:00:00,0,0,Summer,Night
+23442,16228,Polar Ice Cream Vanilla-1/2Ltr(Tub),1.1,2023-03-21 03:00:00,0,0,Summer,Night
+23388,2039,Teer Soyabean Oil-1Ltr,1.1,2023-03-21 04:00:00,0,0,Summer,Night
+23400,13809,Chicken Deshi Cock (Live),1.1,2023-03-21 05:00:00,0,0,Summer,Night
+23380,28573,Lattafa  Air Freshener-300ml (Pure Oudi),1.1,2023-03-21 08:00:00,0,0,Summer,Morning
+23434,15296,Apple(Gala),0.682,2023-03-21 09:00:00,0,0,Summer,Morning
+23380,12674,Ramisa Sweet Munakka-200gm,1.1,2023-03-21 13:00:00,0,0,Summer,Afternoon
+23380,12587,Calender Pineapple,3.3000000000000003,2023-03-21 13:00:00,0,0,Summer,Afternoon
+23454,32228,China Ladies Shoe F-30(4/23),1.1,2023-03-21 18:00:00,0,0,Summer,Evening
+23380,28920,Brooke Bond Taaza Tea- 400gm,1.1,2023-03-21 19:00:00,0,0,Summer,Evening
+23380,31235,Olympic Biscotti Elachi Cookies-80gm,1.1,2023-03-21 19:00:00,0,0,Summer,Evening
+23380,4355,H&S Shampoo+Con. Smooth&Silky 2in1-650ml,1.1,2023-03-21 19:00:00,0,0,Summer,Evening
+23481,23119,One Man Punjabi5684-0931,1.1,2023-03-21 22:00:00,0,0,Summer,Night
+23477,32025,Muad Panjabi-2205,2.2,2023-03-22 01:00:00,0,0,Summer,Night
+23380,12627,Ramisa-Fried Chira Masala Pkt-200gm,1.1,2023-03-22 02:00:00,0,0,Summer,Night
+23380,13895,GH Spicy Chicken Sausage-340gm,1.1,2023-03-22 02:00:00,0,0,Summer,Night
+23497,287,Unik Complete C. Powder-400g,1.1,2023-03-22 07:00:00,0,0,Summer,Morning
+23499,31992,Ch Baby Pant -A731 (4/23),1.1,2023-03-22 08:00:00,0,0,Summer,Morning
+23503,42676,Dettol HW.170ml buy 2 Get Tiffin Box Free,1.1,2023-03-22 11:00:00,0,0,Summer,Morning
+18557,13604,Eon Chicken Spring Roll- 300gm,1.1,2023-03-22 13:00:00,0,0,Summer,Afternoon
+23546,765,Black Pepper(Chili)-50g,1.1,2023-03-22 17:00:00,0,0,Summer,Evening
+23460,6823,Horlicks Mothers Plus- 350gm,1.1,2023-03-22 20:00:00,0,0,Summer,Evening
+23467,15180,Akher Sugar -1kg,6.6000000000000005,2023-03-22 21:00:00,0,0,Summer,Night
+23473,14045,Pabda Fish (Big),1.243,2023-03-23 01:00:00,0,0,Summer,Night
+23440,30113,"Italiano 9"" Crazy Bowl",1.1,2023-03-23 02:00:00,0,0,Summer,Night
+23380,1192,Prince Olive Pickle(400gm),1.1,2023-03-23 03:00:00,0,0,Summer,Night
+23380,2915,P.Drinko Float Lichi Drink-250ml,12.1,2023-03-23 03:00:00,0,0,Summer,Night
+23411,3509,Clean&Clear Foaming F/W-50ml,,2023-03-23 05:00:00,0,0,Summer,Night
+23415,489,Chola Pulse-1kg,2.2,2023-03-23 09:00:00,0,0,Summer,Morning
+23380,14801,Net Pumpkin (Jali Kumra)-Pc,1.1,2023-03-23 13:00:00,0,0,Summer,Afternoon
+23380,12823,Jafran,1.1,2023-03-23 13:00:00,0,0,Summer,Afternoon
+23380,2364,Rok Tiles & Bathroom- 1000ml,1.1,2023-03-23 13:00:00,0,0,Summer,Afternoon
+23380,891,R.Spices(Turmaric)-100g,1.1,2023-03-23 13:00:00,0,0,Summer,Afternoon
+23380,14995,Bottle Guard Big(Lau)-Pc,1.1,2023-03-23 13:00:00,0,0,Summer,Afternoon
+23488,30770,Whisper Ultra Night XL+ 15 Pads,1.1,2023-03-23 15:00:00,0,0,Summer,Afternoon
+23489,32106,Ch Baby Frock -9217(4/23),1.1,2023-03-23 18:00:00,0,0,Summer,Evening
+23519,3612,Italiano Sweet Chilli Sauce-340g,1.1,2023-03-23 19:00:00,0,0,Summer,Evening
+23520,705,Easy Mix Roast Masala-35g,1.1,2023-03-24 00:00:00,0,1,Summer,Night
+23523,13988,Beef Bone Full,2.2,2023-03-24 01:00:00,0,1,Summer,Night
+23523,2915,P.Drinko Float Lichi Drink-250ml,1.1,2023-03-24 01:00:00,0,1,Summer,Night
+23542,961,Rupchada Chinigura Rice-2kg,1.1,2023-03-24 02:00:00,0,1,Summer,Night
+18557,24715,Bashun Paper Towel 1Ply- 250Pcs,2.2,2023-03-24 05:00:00,0,1,Summer,Night
+23553,769,Clove Lobongo-50g,1.1,2023-03-24 06:00:00,0,1,Summer,Morning
+23380,445,Savory Haleem Mix-200gm,1.1,2023-03-24 08:00:00,0,1,Summer,Morning
+23460,13988,Beef Bone Full,1.7490000000000003,2023-03-24 10:00:00,0,1,Summer,Morning
+23461,3612,Italiano Sweet Chilli Sauce-340g,1.1,2023-03-24 14:00:00,0,1,Summer,Afternoon
+23380,32486,Sunsilk Hair Fall Solution Shampoo-170ml,5.5,2023-03-24 19:00:00,0,1,Summer,Evening
+23530,15180,Akher Sugar -1kg,1.1,2023-03-24 20:00:00,0,1,Summer,Evening
+23544,3856,Pran Chocolate Milk -200ml,1.1,2023-03-24 21:00:00,0,1,Summer,Night
+18557,7017,Good Life Mozzarella Cheese-200gm,1.1,2023-03-25 00:00:00,0,1,Summer,Night
+18557,4533,Lifeboy Total 10-150gm,1.1,2023-03-25 00:00:00,0,1,Summer,Night
+23461,4969,Detos CW Chips-30gm,3.3000000000000003,2023-03-25 02:00:00,0,1,Summer,Night
+23475,19674,A.K  Trouser -082,1.1,2023-03-25 07:00:00,0,1,Summer,Morning
+23512,2915,P.Drinko Float Lichi Drink-250ml,1.1,2023-03-25 11:00:00,0,1,Summer,Morning
+23511,29477,Silk Bottle 500ml -Assorted,1.1,2023-03-25 13:00:00,0,1,Summer,Afternoon
+23517,13922,Rui Fish (S1)-(MNK),1.386,2023-03-25 17:00:00,0,1,Summer,Evening
+23525,14986,Meant Leaf (Pudina Leaf)- Pc,1.1,2023-03-25 20:00:00,0,1,Summer,Evening
+23527,31328,Prince Lacha Samai-200g(Pkt),1.1,2023-03-25 23:00:00,0,1,Summer,Night
+23543,27072,Borges Black Sliced  Olives-230ml,1.1,2023-03-26 00:00:00,1,1,Summer,Night
+23468,14043,Q Omega 3 Enriched  Egg  (1 Dozen),1.1,2023-03-26 05:00:00,1,1,Summer,Night
+23476,3055,Foster Clarks Orange-250g,1.1,2023-03-26 09:00:00,1,1,Summer,Morning
+23475,23292,PG Punjabi- 059,1.1,2023-03-26 11:00:00,1,1,Summer,Morning
+23499,31555,Sultan Ind. Punjabi -(4/23),1.1,2023-03-26 14:00:00,1,1,Summer,Afternoon
+23523,15180,Akher Sugar -1kg,1.1,2023-03-26 15:00:00,1,1,Summer,Afternoon
+23553,26609,D Korean Ramen 3X Spicy Noodles-496gm,1.1,2023-03-26 16:00:00,1,1,Summer,Afternoon
+23556,14801,Net Pumpkin (Jali Kumra)-Pc,1.1,2023-03-26 20:00:00,1,1,Summer,Evening
+23557,25474,Lassa Special Semai-500g(Pkt),1.1,2023-03-26 23:00:00,1,1,Summer,Night
+23560,2915,P.Drinko Float Lichi Drink-250ml,2.2,2023-03-27 04:00:00,0,1,Summer,Night
+23560,14035,Omega 3 Vitamin-E  Egg-12pcs,1.1,2023-03-27 04:00:00,0,1,Summer,Night
+23562,15180,Akher Sugar -1kg,1.1,2023-03-27 07:00:00,0,1,Summer,Morning
+23580,768,Cinnamon-100g (Daruchine),1.1,2023-03-27 11:00:00,0,1,Summer,Morning
+23580,14088,Shrimp Fish Golda(Big)-(STR),1.287,2023-03-27 11:00:00,0,1,Summer,Morning
+23380,25529,Rok Handwash Apple-350ml,1.1,2023-03-27 15:00:00,0,1,Summer,Afternoon
+23391,42961,Dolphin Nata de Coco Drink (All)-270gm,1.1,2023-03-27 18:00:00,0,1,Summer,Evening
+23407,2246,Pepsodent Charcoal W. Toothpaste-140gm,1.1,2023-03-27 22:00:00,0,1,Summer,Night
+23380,30789,Teer Suji 500gm,2.2,2023-03-28 01:00:00,0,1,Summer,Night
+23380,1869,Snickers Chocolate-50gm,1.1,2023-03-28 01:00:00,0,1,Summer,Night
+23407,3831,Milk Vita Liquid Milk-1Ltr,1.1,2023-03-28 03:00:00,0,1,Summer,Night
+23414,1869,Snickers Chocolate-50gm,1.1,2023-03-28 06:00:00,0,1,Summer,Morning
+23420,12664,Ramisa Dal Vaja-200g,1.1,2023-03-28 09:00:00,0,1,Summer,Morning
+23468,14990,Usta(kg),0.396,2023-03-28 13:00:00,0,1,Summer,Afternoon
+23474,32006,B Plus VIP Pcs-0511,1.1,2023-03-28 17:00:00,0,1,Summer,Evening
+23380,2255,Pepsodent Gremichek+ Toothpaste-100gm,5.5,2023-03-28 18:00:00,0,1,Summer,Evening
+23486,43087,China Tshirt 28071(4/23),1.1,2023-03-28 19:00:00,0,1,Summer,Evening
+23380,2038,Teer Soya Oil 2Lt(Bottle),5.5,2023-03-28 21:00:00,0,1,Summer,Night
+23380,15146,Watermelon Banglalink - Kg,3.1570000000000005,2023-03-28 21:00:00,0,1,Summer,Night
+23380,22241,Kinley Club Soda -600ml,1.1,2023-03-28 21:00:00,0,1,Summer,Night
+23494,2206,Arrow Toothbrush,1.1,2023-03-28 22:00:00,0,1,Summer,Night
+23500,13989,Beef Without Bone Special,1.1770000000000005,2023-03-29 01:00:00,0,1,Summer,Night
+23503,28645,Organikare  Amla Hairpack-80g,1.1,2023-03-29 05:00:00,0,1,Summer,Night
+23520,32518,Sunsilk Shampoo Volume-375ml,1.1,2023-03-29 06:00:00,0,1,Summer,Morning
+23551,14815,Tomato L.C(kg),1.265,2023-03-29 07:00:00,0,1,Summer,Morning
+23565,14960,Brinjal Long (Thin)-kg,1.2100000000000002,2023-03-29 09:00:00,0,1,Summer,Morning
+23578,7174,Tang Orange Drink Powder - 500gm {Pkt},1.1,2023-03-29 11:00:00,0,1,Summer,Morning
+23579,13994,Mutton,2.0240000000000005,2023-03-29 14:00:00,0,1,Summer,Afternoon
+23580,978,Pari Rice-Kg,11.176000000000002,2023-03-29 18:00:00,0,1,Summer,Evening
+23390,3185,Marks Milk Shake AS-125,1.1,2023-03-29 20:00:00,0,1,Summer,Evening
+23410,110,Wheel 2in1 Clean & Fresh Powder-500g,1.1,2023-03-29 21:00:00,0,1,Summer,Night
+23420,30745,Senora Confidence-16Pads,1.1,2023-03-30 01:00:00,0,1,Summer,Night
+23429,13802,Chicken (Deshi),0.8250000000000001,2023-03-30 05:00:00,0,1,Summer,Night
+23380,3952,Pran UHT Milk-200ml,2.2,2023-03-30 06:00:00,0,1,Summer,Morning
+23380,14983,Cauliflower(B)-Pc,2.2,2023-03-30 06:00:00,0,1,Summer,Morning
+23380,30803,Kath Badam-100g,1.1,2023-03-30 06:00:00,0,1,Summer,Morning
+23444,4767,Sensodyne Repair&Protect Toothpaste-100g,1.1,2023-03-30 08:00:00,0,1,Summer,Morning
+23380,15106,Wood Apple Small (Bell),1.1,2023-03-30 09:00:00,0,1,Summer,Morning
+23429,22235,Coca Cola-2.25Lt(Pet),1.1,2023-03-30 13:00:00,0,1,Summer,Afternoon
+23435,12794,Muslim Jhuri Vaza- 200g,1.1,2023-03-30 18:00:00,0,1,Summer,Evening
+23451,31963,China Baby Frock -7808 (4/23),1.1,2023-03-30 23:00:00,0,1,Summer,Night
+23389,3179,Starship Mango Juice 250ml pack,1.1,2023-03-31 02:00:00,0,1,Summer,Night
+23429,15296,Apple(Gala),0.781,2023-03-31 03:00:00,0,1,Summer,Night
+23380,15267,Apple Green,2.002,2023-03-31 04:00:00,0,1,Summer,Night
+23432,42829,China T Shirt  3612(4/23),1.1,2023-03-31 07:00:00,0,1,Summer,Morning
+23380,546,Golden Raising-100gm(Kismis),2.2,2023-03-31 10:00:00,0,1,Summer,Morning
+23409,26437,Dabur Gulabari Rose Water-120ml,1.1,2023-03-31 13:00:00,0,1,Summer,Afternoon
+23413,15120,Tamarind Sora Special Wrapping,0.484,2023-03-31 17:00:00,0,1,Summer,Evening
+23437,13988,Beef Bone Full,2.255,2023-03-31 18:00:00,0,1,Summer,Evening
+23380,3003,Marks Cookies & Cream Flavour - 125ml,3.3000000000000003,2023-03-31 22:00:00,0,1,Summer,Night
+23380,4842,Sun Chips Wasabi-35g,1.1,2023-03-31 22:00:00,0,1,Summer,Night
+23380,25567,Lifebuoy Liquid Care Hand Wash-170ml,2.2,2023-03-31 22:00:00,0,1,Summer,Night
+23380,32191,KurKure Cream & Onion 75gm,1.1,2023-03-31 22:00:00,0,1,Summer,Night
+23380,14062,Puti Fish (Deshi) (HB),0.7260000000000001,2023-03-31 22:00:00,0,1,Summer,Night
+23380,15131,Atta Fruits,0.341,2023-03-31 22:00:00,0,1,Summer,Night
+23420,1659,Dairy Milk Chocolate-24g,1.1,2023-04-01 01:00:00,0,1,Summer,Night
+23426,13985,Cow Lever-K,1.089,2023-04-01 02:00:00,0,1,Summer,Night
+23427,951,Chashi Aromatic Chinigura Rice-1Kg,1.1,2023-04-01 06:00:00,0,1,Summer,Morning
+23380,3611,Italiano BBQ Sauce-340g,1.1,2023-04-01 10:00:00,0,1,Summer,Morning
+23380,14964,Green Papaya(kg),1.309,2023-04-01 10:00:00,0,1,Summer,Morning
+23380,4840,Sun Chips Mix Masala-35gm,2.2,2023-04-01 10:00:00,0,1,Summer,Morning
+23467,4890,Close-Up Menthol Fresh-160g,1.1,2023-04-01 13:00:00,0,1,Summer,Afternoon
+23468,14060,Shrimp Fish( Galda)-(TR),1.1550000000000002,2023-04-01 14:00:00,0,1,Summer,Afternoon
+23380,14997,Sweet Pumpkin(kg),1.1,2023-04-01 17:00:00,0,1,Summer,Evening
+23380,4211,Treseme Batnique Conditionar -190ml,1.1,2023-04-01 17:00:00,0,1,Summer,Evening
+23476,14843,Cucumber Deshi (kg),0.638,2023-04-01 18:00:00,0,1,Summer,Evening
+23483,31542,Sultan Ind. Punjabi 2pcs -(4/23),1.1,2023-04-01 23:00:00,0,1,Summer,Night
+23380,30610,Sagu-250g,2.2,2023-04-02 01:00:00,0,1,Summer,Night
+23507,15180,Akher Sugar -1kg,1.1,2023-04-02 03:00:00,0,1,Summer,Night
+23523,332,ACI Pure Salt-1Kg,1.1,2023-04-02 05:00:00,0,1,Summer,Night
+23543,32483,Sunsilk Hairfall Solution Shampoo-330ml,1.1,2023-04-02 08:00:00,0,1,Summer,Morning
+18557,318,Musur Pulse Kangaroo -1Kg (sp),1.1,2023-04-02 13:00:00,0,1,Summer,Afternoon
+23391,13869,G H Deshi Paratha(Family pack)-1300gm,1.1,2023-04-02 14:00:00,0,1,Summer,Afternoon
+23400,13988,Beef Bone Full,2.2220000000000004,2023-04-02 18:00:00,0,1,Summer,Evening
+23380,25486,Aquafina Drinking Water- 500ml,2.2,2023-04-02 19:00:00,0,1,Summer,Evening
+23380,332,ACI Pure Salt-1Kg,2.2,2023-04-02 19:00:00,0,1,Summer,Evening
+23451,31927,Mama Vagina Gamsa-701,1.1,2023-04-02 23:00:00,0,1,Summer,Night
+23380,13802,Chicken (Deshi),1.6610000000000005,2023-04-03 00:00:00,0,1,Summer,Night
+23380,3969,Farmland FCMP 500g,1.1,2023-04-03 00:00:00,0,1,Summer,Night
+23405,4861,Kurkure  Style Spicy Chicken-80gm,1.1,2023-04-03 05:00:00,0,1,Summer,Night
+23409,31379,Olympic Energy Plus Malai Bis-45gm,1.1,2023-04-03 09:00:00,0,1,Summer,Morning
+23423,774,Cumin-200gm,1.1,2023-04-03 12:00:00,0,1,Summer,Afternoon
+23380,14959,Ladies Finger (Vendi)-kg,1.045,2023-04-03 13:00:00,0,1,Summer,Afternoon
+23431,13958,Shrimp Fish Bagda,1.144,2023-04-03 14:00:00,0,1,Summer,Afternoon
+23440,27729,Yum Muffin Cake,6.6000000000000005,2023-04-03 18:00:00,0,1,Summer,Evening
+23500,15153,Apple Fuji Big,1.078,2023-04-03 21:00:00,0,1,Summer,Night
+23520,3810,Arla Dano Daily Pushti-200gm Pack,1.1,2023-04-04 00:00:00,0,1,Summer,Night
+23523,15128,Dry Boroi-1kg,0.352,2023-04-04 05:00:00,0,1,Summer,Night
+23460,28175,Dabur Honey-250gm,1.1,2023-04-04 08:00:00,0,1,Summer,Morning
+23380,4535,Lux Rose Soap-150gm,1.1,2023-04-04 11:00:00,0,1,Summer,Morning
+23380,1704,Cho Cup Strawberry Cup -40g,1.1,2023-04-04 11:00:00,0,1,Summer,Morning
+23520,42915,Rok Handwash Fruity-200ml(Buy2 Get1 Free),1.1,2023-04-04 14:00:00,0,1,Summer,Afternoon
+23525,3832,Milk Vita Liquid Milk-1/2Ltr,1.1,2023-04-04 16:00:00,0,1,Summer,Afternoon
+23539,30928,Bakemans Choco Boost-250gm,1.1,2023-04-04 21:00:00,0,1,Summer,Night
+18557,2801,Vita Juice -250ml,1.1,2023-04-04 22:00:00,0,1,Summer,Night
+23380,3190,Pran Mango Junior-125ml,2.2,2023-04-05 02:00:00,0,1,Summer,Night
+23461,14969,Carrot (Deshi) kg,1.1990000000000005,2023-04-05 03:00:00,0,1,Summer,Night
+23466,31971,Ch Baby Party Frock -AM100 (4/23),1.1,2023-04-05 08:00:00,0,1,Summer,Morning
+23477,32130,China Ladies Shoe 622 (4/23),1.1,2023-04-05 12:00:00,0,1,Summer,Afternoon
+23527,13354,Queens Custard Bread- 90g,1.1,2023-04-05 17:00:00,0,1,Summer,Evening
+23537,14969,Carrot (Deshi) kg,0.77,2023-04-05 20:00:00,0,1,Summer,Evening
+18557,7055,Lactima Cbeddar Slice Cheese-200gm,1.1,2023-04-06 00:00:00,0,1,Summer,Night
+23547,29092,Mirzapore Best Leaf-200gm,1.1,2023-04-06 03:00:00,0,1,Summer,Night
+23380,7516,Belleame Digestive Biscuit- 135g,1.1,2023-04-06 04:00:00,0,1,Summer,Night
+23380,22237,Coca Cola-600ml(Pet),1.1,2023-04-06 04:00:00,0,1,Summer,Night
+23492,7175,StarJus Orange -1Ltr,1.1,2023-04-06 05:00:00,0,1,Summer,Night
+23494,42618,Safe Hand wash value pack(Purpel) 350ml,1.1,2023-04-06 09:00:00,0,1,Summer,Morning
+23508,32219,Anita Ind Lux Cozi Vest-(4/23),1.1,2023-04-06 13:00:00,0,1,Summer,Afternoon
+23519,453,Saad Testy Bit Salt-100gm,2.2,2023-04-06 18:00:00,0,1,Summer,Evening
+23546,25475,Vermicelli Samai-200gm,1.1,2023-04-06 23:00:00,0,1,Summer,Night
+23380,14815,Tomato L.C(kg),0.8800000000000001,2023-04-07 02:00:00,0,1,Summer,Night
+23476,13989,Beef Without Bone Special,0.638,2023-04-07 06:00:00,0,1,Summer,Morning
+23489,32110,Ch Baby Frock -3016 (4/23),1.1,2023-04-07 07:00:00,0,1,Summer,Morning
+23499,32412,China Ladies Shoe A7737(4/23),1.1,2023-04-07 12:00:00,0,1,Summer,Afternoon
+23508,19679,A.K Check Trouser- 052,2.2,2023-04-07 17:00:00,0,1,Summer,Evening
+23519,900,Radhuni Panchforon-50g,2.2,2023-04-07 18:00:00,0,1,Summer,Evening
+23520,313,Mug Pulse (Sona)-1kg,1.1,2023-04-07 23:00:00,0,1,Summer,Night
+23531,12743,Buter Halua-300g,1.1,2023-04-08 02:00:00,0,1,Summer,Night
+23545,12630,Ramisa-Jhori Vaja Pkt-200gm,1.1,2023-04-08 06:00:00,0,1,Summer,Morning
+23553,43008,Plain Sugar Bread-150gm,1.1,2023-04-08 07:00:00,0,1,Summer,Morning
+23560,15267,Apple Green,0.374,2023-04-08 11:00:00,0,1,Summer,Morning
+23566,42926,Cadburry Cocoa Powder-250gm,1.1,2023-04-08 16:00:00,0,1,Summer,Afternoon
+23574,32253,PB Fashion Punjabi-2385,1.1,2023-04-08 21:00:00,0,1,Summer,Night
+23576,14986,Meant Leaf (Pudina Leaf)- Pc,1.1,2023-04-08 22:00:00,0,1,Summer,Night
+23580,14959,Ladies Finger (Vendi)-kg,0.5060000000000001,2023-04-09 01:00:00,0,1,Summer,Night
+23578,2039,Teer Soyabean Oil-1Ltr,1.1,2023-04-09 03:00:00,0,1,Summer,Night
+23584,13988,Beef Bone Full,2.211,2023-04-09 04:00:00,0,1,Summer,Night
+23576,25474,Lassa Special Semai-500g(Pkt),1.1,2023-04-09 06:00:00,0,1,Summer,Morning
+23586,15106,Wood Apple Small (Bell),2.2,2023-04-09 08:00:00,0,1,Summer,Morning
+18557,25438,Aarong Butter (Salted)-200gm,1.1,2023-04-09 11:00:00,0,1,Summer,Morning
+23461,26889,Coffee Mate-450gm(BIB),1.1,2023-04-09 13:00:00,0,1,Summer,Afternoon
+23380,22248,7Up 2Ltr,1.1,2023-04-09 15:00:00,0,1,Summer,Afternoon
+23380,26617,Maggi Masala Noodles Family Pack-992gm,1.1,2023-04-09 15:00:00,0,1,Summer,Afternoon
+23466,32012,Ch Baby Set N-5215 (4/23),1.1,2023-04-09 18:00:00,0,1,Summer,Evening
+23491,15106,Wood Apple Small (Bell),1.1,2023-04-09 20:00:00,0,1,Summer,Evening
+23543,28919,Brooke Bond Taaza Black Tea-200g,1.1,2023-04-09 22:00:00,0,1,Summer,Night
+23549,32203,KurKure Naughty Tomato 37gm,1.1,2023-04-10 00:00:00,0,1,Summer,Night
+23551,974,Minicate RIce-Kg Bag,11.0,2023-04-10 01:00:00,0,1,Summer,Night
+23551,14807,Bean (White)-kg,1.1110000000000002,2023-04-10 01:00:00,0,1,Summer,Night
+23557,6953,Cerelac 5 Vegetable & Multi Grains- 350g,2.2,2023-04-10 02:00:00,0,1,Summer,Night
+23560,14843,Cucumber Deshi (kg),0.561,2023-04-10 03:00:00,0,1,Summer,Night
+23561,14843,Cucumber Deshi (kg),0.6160000000000001,2023-04-10 06:00:00,0,1,Summer,Morning
+23563,32332,Lala Ind Ladies 3pcs -14004 (4/23),1.1,2023-04-10 11:00:00,0,1,Summer,Morning
+23562,28950,Kazi & Kazi Black Tea Family Pack -400g,1.1,2023-04-10 13:00:00,0,1,Summer,Afternoon
+23566,7523,Belleame Choco Little Biscuit -240gm,1.1,2023-04-10 15:00:00,0,1,Summer,Afternoon
+23568,7510,Bisk Club Potata Biscuit- 100g,1.1,2023-04-10 18:00:00,0,1,Summer,Evening
+23580,12630,Ramisa-Jhori Vaja Pkt-200gm,1.1,2023-04-10 20:00:00,0,1,Summer,Evening
+23580,12819,Tokmadana-100gm,1.1,2023-04-10 20:00:00,0,1,Summer,Evening
+23580,2043,Rupchanda Soyabean-5Ltr,1.1,2023-04-10 20:00:00,0,1,Summer,Evening
+23395,32123,Ch Baby T-Shirt-21030 (4/23),1.1,2023-04-10 21:00:00,0,1,Summer,Night
+23405,25571,Lifebuoy Liquid Total Hand Wash-170ml,1.1,2023-04-11 02:00:00,0,1,Summer,Night
+23408,22251,Mountan Dew-250ml Can,1.1,2023-04-11 06:00:00,0,1,Summer,Morning
+23434,15280,Nag Fruits-kg,0.7260000000000001,2023-04-11 08:00:00,0,1,Summer,Morning
+23436,32048,Defence Tawhid Lungi-055,4.4,2023-04-11 09:00:00,0,1,Summer,Morning
+23440,30610,Sagu-250g,1.1,2023-04-11 13:00:00,0,1,Summer,Afternoon
+23390,4550,Lifebuoy Health Soap Lemon Fresh-100g,1.1,2023-04-11 18:00:00,0,1,Summer,Evening
+23405,4843,Sun Chips Salt & Papper-22g,1.1,2023-04-11 22:00:00,0,1,Summer,Night
+23380,12778,Muslim Jhinuk-200g,1.1,2023-04-11 23:00:00,0,1,Summer,Night
+23380,2040,Teer Advance Fortified Oil-8Ltr,1.1,2023-04-11 23:00:00,0,1,Summer,Night
+23423,12823,Jafran,1.1,2023-04-12 03:00:00,0,1,Summer,Night
+23440,7001,Baqarah Pasteurized Milk- 1/2 L,4.4,2023-04-12 06:00:00,0,1,Summer,Morning
+23411,25571,Lifebuoy Liquid Total Hand Wash-170ml,1.1,2023-04-12 10:00:00,0,1,Summer,Morning
+23410,133,Rin Advanced-500gm,1.1,2023-04-12 12:00:00,0,1,Summer,Afternoon
+23442,123,Vim Dishwash Liquid- 250ml,2.2,2023-04-12 14:00:00,0,1,Summer,Afternoon
+23409,42676,Dettol HW.170ml buy 2 Get Tiffin Box Free,1.1,2023-04-12 17:00:00,0,1,Summer,Evening
+23410,25569,Lifeboy Liquid Total Hand Wash-1L,1.1,2023-04-12 18:00:00,0,1,Summer,Evening
+23412,28308,Parachute Coconut Hair Oil-200ml Jar,1.1,2023-04-12 20:00:00,0,1,Summer,Evening
+23407,13801,Chicken (B-Skin),2.805,2023-04-13 01:00:00,0,1,Summer,Night
+23380,13958,Shrimp Fish Bagda,0.5940000000000001,2023-04-13 03:00:00,0,1,Summer,Night
+23447,15180,Akher Sugar -1kg,1.1,2023-04-13 05:00:00,0,1,Summer,Night
+23394,3189,P.Frooto Mango Juice-250ml,1.1,2023-04-13 06:00:00,0,1,Summer,Morning
+23400,2050,Rupchanda Soyabean-2Lt-PET,1.1,2023-04-13 10:00:00,0,1,Summer,Morning
+23418,15294,Grape Black,0.7480000000000001,2023-04-13 12:00:00,0,1,Summer,Afternoon
+23424,12655,Ramisa Nut(Oil)-200gm,1.1,2023-04-13 15:00:00,0,1,Summer,Afternoon
+23440,13353,Queens Kaya Bread- 90g,1.1,2023-04-13 19:00:00,0,1,Summer,Evening
+23447,489,Chola Pulse-1kg,1.1,2023-04-14 00:00:00,1,1,Summer,Night
+23380,1217,Chupa Chups lolipop,4.4,2023-04-14 01:00:00,1,1,Summer,Night
+23451,32204,Aradhya Punjabi-2468,1.1,2023-04-14 06:00:00,1,1,Summer,Morning
+23460,15263,Malta (Yellow)-kg,0.8580000000000001,2023-04-14 10:00:00,1,1,Summer,Morning
+23380,13901,Katol Fish (Small)-(MNK),2.4420000000000006,2023-04-14 14:00:00,1,1,Summer,Afternoon
+23465,30640,Pure it Micro Fiber Mesh,1.1,2023-04-14 18:00:00,1,1,Summer,Evening
+23472,43017,Doughtnut Sugar Bread-200gm,1.1,2023-04-14 23:00:00,1,1,Summer,Night
+23380,26701,Nescafe Classic Jar-25gm,1.1,2023-04-15 03:00:00,0,1,Summer,Night
+4959,14986,Meant Leaf (Pudina Leaf)- Pc,1.1,2023-04-15 08:00:00,0,1,Summer,Morning
+23548,13988,Beef Bone Full,1.122,2023-04-15 12:00:00,0,1,Summer,Afternoon
+23380,705,Easy Mix Roast Masala-35g,1.1,2023-04-15 15:00:00,0,1,Summer,Afternoon
+23409,453,Saad Testy Bit Salt-100gm,1.1,2023-04-15 19:00:00,0,1,Summer,Evening
+23430,13958,Shrimp Fish Bagda,1.243,2023-04-16 00:00:00,0,1,Summer,Night
+23434,15290,Grape White Small (IIndian),0.484,2023-04-16 02:00:00,0,1,Summer,Night
+23380,13921,Rui Fish-M-(MNK),1.87,2023-04-16 06:00:00,0,1,Summer,Morning
+23445,3178,Glucon-D Orange-Flavour-400g Jar,1.1,2023-04-16 08:00:00,0,1,Summer,Morning
+23380,13620,AG Vegetable Spring Roll-400g,1.1,2023-04-16 11:00:00,0,1,Summer,Morning
+23385,31764,S.K Ind Baby Dress Set -6002 (4/23),1.1,2023-04-16 12:00:00,0,1,Summer,Afternoon
+23434,14978,Chicken (B-Skin Less),1.4740000000000002,2023-04-16 15:00:00,0,1,Summer,Afternoon
+23380,26615,Maggi 2min Masala-248g (Jumbo),1.1,2023-04-16 19:00:00,0,1,Summer,Evening
+23440,28645,Organikare  Amla Hairpack-80g,1.1,2023-04-16 21:00:00,0,1,Summer,Night
+23435,25486,Aquafina Drinking Water- 500ml,1.1,2023-04-16 23:00:00,0,1,Summer,Night
+23400,13869,G H Deshi Paratha(Family pack)-1300gm,1.1,2023-04-17 04:00:00,0,1,Summer,Night
+23380,13986,Cow Stomach-K,1.342,2023-04-17 06:00:00,0,1,Summer,Morning
+23429,4123,Clear Men Deep Cleanse Shampoo- 330ml,1.1,2023-04-17 11:00:00,0,1,Summer,Morning
+23435,3537,Ponds Bright Beauty Face Wash -50g,1.1,2023-04-17 12:00:00,0,1,Summer,Afternoon
+23435,4260,Sunsilk G.Tea & W.Lilly F Shampoo-195ml,1.1,2023-04-17 12:00:00,0,1,Summer,Afternoon
+23459,31692,Taslima Towel-021,1.1,2023-04-17 16:00:00,0,1,Summer,Afternoon
+23461,15153,Apple Fuji Big,0.418,2023-04-17 21:00:00,0,1,Summer,Night
+23380,4846,Sun Chips Garlic & Chili 38g,1.1,2023-04-17 22:00:00,0,1,Summer,Night
+23467,14843,Cucumber Deshi (kg),0.5940000000000001,2023-04-18 00:00:00,0,1,Summer,Night
+23380,14045,Pabda Fish (Big),1.1880000000000002,2023-04-18 02:00:00,0,1,Summer,Night
+23488,3033,Foster Clark Mango-450g,1.1,2023-04-18 03:00:00,0,1,Summer,Night
+23492,4846,Sun Chips Garlic & Chili 38g,1.1,2023-04-18 05:00:00,0,1,Summer,Night
+23539,13654,Quality Premiun Paratha 10Pcs-650g,1.1,2023-04-18 06:00:00,0,1,Summer,Morning
+23468,1217,Chupa Chups lolipop,1.1,2023-04-18 11:00:00,0,1,Summer,Morning
+23507,43107,Mountain Due -250ml,1.1,2023-04-18 16:00:00,0,1,Summer,Afternoon
+23509,7167,Tang Orange - 200gm {Pkt},1.1,2023-04-18 17:00:00,0,1,Summer,Evening
+23520,718,Radhuni H. Biriyani Masala-45g,1.1,2023-04-18 22:00:00,0,1,Summer,Night
+23380,711,Radhuni Panchforon-50g,2.2,2023-04-19 03:00:00,0,1,Summer,Night
+23520,332,ACI Pure Salt-1Kg,1.1,2023-04-19 08:00:00,0,1,Summer,Morning
+23520,12515,Gluco Max D- 400g,1.1,2023-04-19 08:00:00,0,1,Summer,Morning
+23546,12821,Barley For Eating-200gm,1.1,2023-04-19 11:00:00,0,1,Summer,Morning
+23380,16240,Polar Cake - 1Ltr,1.1,2023-04-19 15:00:00,0,1,Summer,Afternoon
+23380,890,Radhuni Garam Masala-40gm,2.2,2023-04-19 15:00:00,0,1,Summer,Afternoon
+23466,32248,China Baby Sandal A238 (4/23),1.1,2023-04-19 17:00:00,0,1,Summer,Evening
+23380,17809,Foster Clarks Corn Flour-200gm,1.1,2023-04-19 20:00:00,0,1,Summer,Evening
+23380,13863,Chicken Mini Samusa 250gm  (Prem),1.1,2023-04-19 20:00:00,0,1,Summer,Evening
+23380,487,Prince Dubli Pulse-1kg,1.1,2023-04-19 20:00:00,0,1,Summer,Evening
+23496,13988,Beef Bone Full,0.627,2023-04-20 01:00:00,0,1,Summer,Night
+23502,13988,Beef Bone Full,1.1330000000000002,2023-04-20 02:00:00,0,1,Summer,Night
+23523,10505,Ever Glow Facial Scrub Papaya-175ml,1.1,2023-04-20 07:00:00,0,1,Summer,Morning
+23537,25435,Calypso Mayonnaise-500ml,1.1,2023-04-20 11:00:00,0,1,Summer,Morning
+23468,14956,Parboil (Potol)-kg,0.671,2023-04-20 16:00:00,0,1,Summer,Afternoon
+23472,26888,Nescafe Classic Jar-50g,1.1,2023-04-20 17:00:00,0,1,Summer,Evening
+23505,2631,Fogg Master PINE Body Spray-120ml,1.1,2023-04-20 21:00:00,0,1,Summer,Night
+23554,3831,Milk Vita Liquid Milk-1Ltr,1.1,2023-04-21 02:00:00,0,1,Summer,Night
+23551,2165,Vim Bar 300g (Lemon),1.1,2023-04-21 06:00:00,0,1,Summer,Morning
+23551,14960,Brinjal Long (Thin)-kg,0.7260000000000001,2023-04-21 06:00:00,0,1,Summer,Morning
+23555,10224,GR. Mineral Terracotta Powder-12g,1.1,2023-04-21 08:00:00,0,1,Summer,Morning
+23560,14984,Lemon Elachi-Pc,4.4,2023-04-21 10:00:00,0,1,Summer,Morning
+23566,3827,Arong Milk Powder IFCMP-500gm,1.1,2023-04-21 15:00:00,0,1,Summer,Afternoon
+23568,12630,Ramisa-Jhori Vaja Pkt-200gm,1.1,2023-04-21 19:00:00,0,1,Summer,Evening
+23570,3824,Aarong Liquid Milk-1/2Ltr,1.1,2023-04-21 20:00:00,0,1,Summer,Evening
+23576,1869,Snickers Chocolate-50gm,1.1,2023-04-22 01:00:00,0,1,Summer,Night
+23580,14841,Pumkin Seeds-100gm,1.1,2023-04-22 03:00:00,0,1,Summer,Night
+23580,762,Maggi Saad -E -Magic S Mix-48g,1.1,2023-04-22 03:00:00,0,1,Summer,Night
+23576,7520,Belleame Cremo Vanilla Biscuit - 320gm,1.1,2023-04-22 05:00:00,0,1,Summer,Night
+23527,14061,Pangas Fish-(THR),2.233,2023-04-22 10:00:00,0,1,Summer,Morning
+23542,27039,Milk Vita (Ghee)-200g,1.1,2023-04-22 14:00:00,0,1,Summer,Afternoon
+23543,13676,Jodi Chicken Frankfurter-300g,1.1,2023-04-22 16:00:00,0,1,Summer,Afternoon
+23380,29095,Mirzapore Best Leaf Tea-500g,1.1,2023-04-22 20:00:00,0,1,Summer,Evening
+23466,23859,New K.S Ladies 3pcs-008,4.4,2023-04-22 22:00:00,0,1,Summer,Night
+23468,14964,Green Papaya(kg),1.166,2023-04-23 00:00:00,0,1,Summer,Night
+23473,14081,Telapia Fish Big (THR),1.265,2023-04-23 03:00:00,0,1,Summer,Night
+23380,13786,C.N Plain Paratha 20pcs-1300gm,1.1,2023-04-23 05:00:00,0,1,Summer,Night
+23380,1096,Prince Vinegar(600ml),1.1,2023-04-23 05:00:00,0,1,Summer,Night
+23517,14815,Tomato L.C(kg),1.276,2023-04-23 06:00:00,0,1,Summer,Morning
+23519,7595,White Kazu Badam(Special)-100gm,1.1,2023-04-23 11:00:00,0,1,Summer,Morning
+23527,25475,Vermicelli Samai-200gm,1.1,2023-04-23 16:00:00,0,1,Summer,Afternoon
+23543,3724,Suree Fish Sauce-150ml,1.1,2023-04-23 20:00:00,0,1,Summer,Evening
+18557,4531,Lifeboy Lemon Fresh-150gm,1.1,2023-04-23 22:00:00,0,1,Summer,Night
+23380,1225,Mentos Fruit Flavour,1.1,2023-04-23 23:00:00,0,1,Summer,Night
+23380,900,Radhuni Panchforon-50g,1.1,2023-04-23 23:00:00,0,1,Summer,Night
+23380,4520,Meril Splash milk & beli  Soap-100gm,4.4,2023-04-23 23:00:00,0,1,Summer,Night
+23488,175,Jet Powder-1kg,1.1,2023-04-24 03:00:00,0,1,Summer,Night
+23380,43024,SugarFree Bread Special-300gm,1.1,2023-04-24 06:00:00,0,1,Summer,Morning
+23494,733,Radhuni Chilli Flakes-40gm,1.1,2023-04-24 10:00:00,0,1,Summer,Morning
+23494,26776,Mr. Noodles Korean S Spicy- 248gm,1.1,2023-04-24 10:00:00,0,1,Summer,Morning
+18557,32468,Lifebuoy  Care Hand Wash-200ml,1.1,2023-04-24 14:00:00,0,1,Summer,Afternoon
+23551,13989,Beef Without Bone Special,0.8360000000000001,2023-04-24 16:00:00,0,1,Summer,Afternoon
+23551,14978,Chicken (B-Skin Less),1.353,2023-04-24 16:00:00,0,1,Summer,Afternoon
+23551,332,ACI Pure Salt-1Kg,1.1,2023-04-24 16:00:00,0,1,Summer,Afternoon
+23564,22275,Aarong Yogurt Sour Curd-500gm,1.1,2023-04-24 19:00:00,0,1,Summer,Evening
+23565,14802,Jhinga(kg),1.166,2023-04-24 23:00:00,0,1,Summer,Night
+23570,22241,Kinley Club Soda -600ml,1.1,2023-04-25 00:00:00,0,1,Summer,Night
+23570,4843,Sun Chips Salt & Papper-22g,1.1,2023-04-25 00:00:00,0,1,Summer,Night
+23586,22234,Sprite-1.25 Lt(Pet),1.1,2023-04-25 01:00:00,0,1,Summer,Night
+23586,4666,Gillette Blue-II Razor,3.3000000000000003,2023-04-25 01:00:00,0,1,Summer,Night
+23380,13989,Beef Without Bone Special,1.6610000000000005,2023-04-25 06:00:00,0,1,Summer,Morning
+23380,6838,Aarong Probiotic Yogurt-500gm,1.1,2023-04-25 06:00:00,0,1,Summer,Morning
+23380,701,Radhuni Spice Coriander-200g,1.1,2023-04-25 06:00:00,0,1,Summer,Morning
+23429,24707,Bashu. Toilet Tissue (White),13.2,2023-04-25 09:00:00,0,1,Summer,Morning
+23380,14843,Cucumber Deshi (kg),8.965000000000002,2023-04-25 12:00:00,0,1,Summer,Afternoon
+23380,13930,Poa Fish Small-(MNK),1.595,2023-04-25 12:00:00,0,1,Summer,Afternoon
+23380,31328,Prince Lacha Samai-200g(Pkt),14.3,2023-04-25 12:00:00,0,1,Summer,Afternoon
+23380,14986,Meant Leaf (Pudina Leaf)- Pc,1.1,2023-04-25 12:00:00,0,1,Summer,Afternoon
+23405,296,Chaka Advanced Ball Soap-125gm,2.2,2023-04-25 17:00:00,0,1,Summer,Evening
+23409,864,Pran Haleem Mix(200g),1.1,2023-04-25 21:00:00,0,1,Summer,Night
+23421,6856,Onion Deshi(New)-1kg,2.178,2023-04-26 00:00:00,0,1,Summer,Night
+23419,12834,Prince Betel Spice 100gm,0.649,2023-04-26 01:00:00,0,1,Summer,Night
+23429,15275,Austrogram Cheese,0.22,2023-04-26 02:00:00,0,1,Summer,Night
+23431,7510,Bisk Club Potata Biscuit- 100g,1.1,2023-04-26 04:00:00,0,1,Summer,Night
+23380,6814,Horlicks Classic Malt-1Kg Jar,1.1,2023-04-26 07:00:00,0,1,Summer,Morning
+23440,13989,Beef Without Bone Special,1.54,2023-04-26 11:00:00,0,1,Summer,Morning
+23404,776,Alu Bukhra-100g,1.1,2023-04-26 16:00:00,0,1,Summer,Afternoon
+23420,4847,Sun Prawn Crackers Chips - 20gm,1.1,2023-04-26 21:00:00,0,1,Summer,Night
+23430,109,Wheel 2in1 Clean & Fresh Powder-1Kg,1.1,2023-04-27 01:00:00,0,1,Summer,Night
+23442,32191,KurKure Cream & Onion 75gm,1.1,2023-04-27 03:00:00,0,1,Summer,Night
+23380,30982,Motor Vaja-30g,4.4,2023-04-27 08:00:00,0,1,Summer,Morning
+23380,6815,Horlicks - 500gm Jar,1.1,2023-04-27 08:00:00,0,1,Summer,Morning
+23405,13988,Beef Bone Full,1.1550000000000002,2023-04-27 11:00:00,0,1,Summer,Morning
+23411,26628,Sajeeb Bar-B-Q Noodles-180gm,2.2,2023-04-27 13:00:00,0,1,Summer,Afternoon
+23380,14981,Lemon(Colombo)-Pc,1.1,2023-04-27 16:00:00,0,1,Summer,Afternoon
+23380,25475,Vermicelli Samai-200gm,8.8,2023-04-27 16:00:00,0,1,Summer,Afternoon
+23380,13922,Rui Fish (S1)-(MNK),1.386,2023-04-27 16:00:00,0,1,Summer,Afternoon
+23572,2037,Teer Soyabean Oil-5Ltr,1.1,2023-04-27 17:00:00,0,1,Summer,Evening
+23573,43012,White bread Small-300gm,1.1,2023-04-27 19:00:00,0,1,Summer,Evening
+23578,22256,Mountain Dew-600ml  Pet,1.1,2023-04-28 00:00:00,0,1,Summer,Night
+23580,14843,Cucumber Deshi (kg),1.4630000000000003,2023-04-28 02:00:00,0,1,Summer,Night
+23580,12515,Gluco Max D- 400g,1.1,2023-04-28 02:00:00,0,1,Summer,Night
+23584,16229,Polar Ice Cream Vanilla-1Ltr(Tub),1.1,2023-04-28 04:00:00,0,1,Summer,Night
+23576,15106,Wood Apple Small (Bell),1.1,2023-04-28 06:00:00,0,1,Summer,Morning
+23576,26617,Maggi Masala Noodles Family Pack-992gm,1.1,2023-04-28 06:00:00,0,1,Summer,Morning
+23380,13647,Chicken Spring Roll - 250gm,1.1,2023-04-28 08:00:00,0,1,Summer,Morning
+23410,3054,Foster Clarks Mango- 250gm,1.1,2023-04-28 11:00:00,0,1,Summer,Morning
+23423,13988,Beef Bone Full,2.233,2023-04-28 12:00:00,0,1,Summer,Afternoon
+23424,13357,Queens Butter Bun- 100g,1.1,2023-04-28 16:00:00,0,1,Summer,Afternoon
+23380,26570,Quaker Oats-1kg Jar,1.1,2023-04-28 18:00:00,0,1,Summer,Evening
+23380,3185,Marks Milk Shake AS-125,5.5,2023-04-28 18:00:00,0,1,Summer,Evening
+23380,15180,Akher Sugar -1kg,28.6,2023-04-28 18:00:00,0,1,Summer,Evening
+23421,15180,Akher Sugar -1kg,1.1,2023-04-28 23:00:00,0,1,Summer,Night
+23380,12822,Barley For Eating-400gm,1.1,2023-05-01 01:00:00,1,1,Summer,Night
+23442,111,Surf Excel W Aloe Vera-1kg,1.1,2023-05-01 06:00:00,1,1,Summer,Morning
+23442,13531,Kazi Chicken keema Paratha-250g,1.1,2023-05-01 06:00:00,1,1,Summer,Morning
+23383,13988,Beef Bone Full,2.4530000000000003,2023-05-01 09:00:00,1,1,Summer,Morning
+23400,886,Radhuni Chilli Powder -200gm,1.1,2023-05-01 14:00:00,1,1,Summer,Afternoon
+23400,14978,Chicken (B-Skin Less),3.762,2023-05-01 14:00:00,1,1,Summer,Afternoon
+23424,1349,Ferrero Rocher 3Pcs,2.2,2023-05-01 18:00:00,1,1,Summer,Evening
+23426,13988,Beef Bone Full,1.254,2023-05-01 19:00:00,1,1,Summer,Evening
+23429,2165,Vim Bar 300g (Lemon),1.1,2023-05-02 00:00:00,0,0,Summer,Night
+23380,26619,Maggi Noodles Masala Blast-252g 4Pack,1.1,2023-05-02 05:00:00,0,0,Summer,Night
+23380,2246,Pepsodent Charcoal W. Toothpaste-140gm,2.2,2023-05-02 05:00:00,0,0,Summer,Night
+23449,32273,China Baby  Sandal A-238 (4/23),1.1,2023-05-02 06:00:00,0,0,Summer,Morning
+23404,12823,Jafran,1.1,2023-05-02 10:00:00,0,0,Summer,Morning
+23417,23115,One Man Punjabi -027,1.1,2023-05-02 12:00:00,0,0,Summer,Afternoon
+23419,25524,Dettol Handwash Aloe Vera - 200ml,1.1,2023-05-02 17:00:00,0,0,Summer,Evening
+23380,4381,H & S Anti Hairfall Shampoo-180ml,1.1,2023-05-02 18:00:00,0,0,Summer,Evening
+23455,30982,Motor Vaja-30g,2.2,2023-05-02 21:00:00,0,0,Summer,Night
+23380,22251,Mountan Dew-250ml Can,3.3000000000000003,2023-05-02 22:00:00,0,0,Summer,Night
+23380,26653,Mama Hot Noodles-248g,1.1,2023-05-02 22:00:00,0,0,Summer,Night
+23380,43102,Meril Milk & Rose Soap 100gm ,5.5,2023-05-02 22:00:00,0,0,Summer,Night
+23479,32448,Rin Advanced-2kg,1.1,2023-05-03 01:00:00,0,0,Summer,Night
+23380,15266,Apple (Fuji),1.606,2023-05-03 05:00:00,0,0,Summer,Night
+23507,12590,Banana(Sabri),0.011,2023-05-03 07:00:00,0,0,Summer,Morning
+23512,31923,Nestle Koko krunch-15gm,1.1,2023-05-03 08:00:00,0,0,Summer,Morning
+23527,2915,P.Drinko Float Lichi Drink-250ml,1.1,2023-05-03 13:00:00,0,0,Summer,Afternoon
+23465,10222,Golden Rose Lipstick-4.2g,1.1,2023-05-03 17:00:00,0,0,Summer,Evening
+23467,25474,Lassa Special Semai-500g(Pkt),3.3000000000000003,2023-05-03 18:00:00,0,0,Summer,Evening
+23468,13928,Hilsha Fish Big-(MNK)-Pcs,2.2,2023-05-03 23:00:00,0,0,Summer,Night
+23492,27965,Giggles Rose Wet Towls 72pcs L-63,1.1,2023-05-04 00:00:00,0,0,Summer,Night
+23503,27038,Milk Vita Butter-100g,1.1,2023-05-04 03:00:00,0,0,Summer,Night
+23527,13967,Mrigel Fish M,3.751,2023-05-04 04:00:00,0,0,Summer,Night
+23452,31975,Ab Cotton Punjabi-0021,1.1,2023-05-04 05:00:00,0,0,Summer,Night
+23456,13988,Beef Bone Full,1.837,2023-05-04 06:00:00,0,0,Summer,Morning
+23472,12999,Isubgool Pack-100g,1.1,2023-05-04 10:00:00,0,0,Summer,Morning
+23476,13988,Beef Bone Full,1.793,2023-05-04 11:00:00,0,0,Summer,Morning
+23380,782,Panch Foron-100g,1.1,2023-05-04 16:00:00,0,0,Summer,Afternoon
+23503,10,Mr. White Detergent Powder 500g B3 G1,1.1,2023-05-04 19:00:00,0,0,Summer,Evening
+23507,14958,Green Chilli(kg),0.154,2023-05-04 22:00:00,0,0,Summer,Night
+23543,3780,Prince Soya Sauce-250gm,1.1,2023-05-04 23:00:00,0,0,Summer,Night
+23553,29082,Seylon Family Bland Tea- 400g,1.1,2023-05-05 03:00:00,0,0,Summer,Night
+23380,14034,Omega 3 Enriched Egg-12pcs,1.1,2023-05-05 07:00:00,0,0,Summer,Morning
+23465,3003,Marks Cookies & Cream Flavour - 125ml,1.1,2023-05-05 12:00:00,0,0,Summer,Afternoon
+23380,3179,Starship Mango Juice 250ml pack,3.3000000000000003,2023-05-05 13:00:00,0,0,Summer,Afternoon
+23467,31930,Chowa Gamsa-75,1.1,2023-05-05 16:00:00,0,0,Summer,Afternoon
+23468,318,Musur Pulse Kangaroo -1Kg (sp),1.1,2023-05-05 20:00:00,0,0,Summer,Evening
+23380,109,Wheel 2in1 Clean & Fresh Powder-1Kg,5.5,2023-05-05 21:00:00,0,0,Summer,Night
+23491,14841,Pumkin Seeds-100gm,1.1,2023-05-06 01:00:00,0,0,Summer,Night
+23523,13989,Beef Without Bone Special,0.451,2023-05-06 05:00:00,0,0,Summer,Night
+23532,31793,S.K Ind Baby Dress Set- (4/23),1.1,2023-05-06 08:00:00,0,0,Summer,Morning
+18557,3554,Parachute Skin Pure Aloe Vera Gel- 50ml,1.1,2023-05-06 10:00:00,0,0,Summer,Morning
+23553,788,Cardmom-100gm(Alachi),1.1,2023-05-06 15:00:00,0,0,Summer,Afternoon
+23556,26546,Maggi Hot Cup Instant Soup 4Pcs Combo,1.1,2023-05-06 20:00:00,0,0,Summer,Evening
+23560,15132,Green Mango(kg),0.759,2023-05-06 23:00:00,0,0,Summer,Night
+23561,782,Panch Foron-100g,1.1,2023-05-07 03:00:00,0,0,Summer,Night
+23563,31998,Ch Gaberdine Pant-B119 (4/23),1.1,2023-05-07 04:00:00,0,0,Summer,Night
+23562,22275,Aarong Yogurt Sour Curd-500gm,1.1,2023-05-07 08:00:00,0,0,Summer,Morning
+23562,548,Mixed Masalla-100gm,1.1,2023-05-07 08:00:00,0,0,Summer,Morning
+23570,22255,7Up Lite Pet- 600ml,1.1,2023-05-07 11:00:00,0,0,Summer,Morning
+23573,3610,Italiano BBQ Hot & Spicy Sauce-340g,1.1,2023-05-07 16:00:00,0,0,Summer,Afternoon
+23576,14843,Cucumber Deshi (kg),0.55,2023-05-07 20:00:00,0,0,Summer,Evening
+23578,7130,Madina VIP Morium Dates-500gm,1.1,2023-05-08 01:00:00,0,0,Summer,Night
+23580,27732,fun Chocolate Cake,3.3000000000000003,2023-05-08 02:00:00,0,0,Summer,Night
+23578,4958,Teer Sugar-1Kg,1.1,2023-05-08 07:00:00,0,0,Summer,Morning
+23576,32212,Chira Moa-250gm,1.1,2023-05-08 12:00:00,0,0,Summer,Afternoon
+23380,30627,Bashundhara Atta-2kg,1.1,2023-05-08 14:00:00,0,0,Summer,Afternoon
+23380,14984,Lemon Elachi-Pc,36.3,2023-05-08 14:00:00,0,0,Summer,Afternoon
+23410,3964,Diploma Milk Powder-500g,1.1,2023-05-08 16:00:00,0,0,Summer,Afternoon
+23427,14969,Carrot (Deshi) kg,0.5720000000000001,2023-05-08 18:00:00,0,0,Summer,Evening
+23440,3189,P.Frooto Mango Juice-250ml,2.2,2023-05-08 23:00:00,0,0,Summer,Night
+23450,4842,Sun Chips Wasabi-35g,1.1,2023-05-09 02:00:00,0,0,Summer,Night
+23478,32117,Ch Baby Set-113853 (4/23),1.1,2023-05-09 07:00:00,0,0,Summer,Morning
+23483,32106,Ch Baby Frock -9217(4/23),1.1,2023-05-09 10:00:00,0,0,Summer,Morning
+23380,12963,White Kazu Badam-50g,1.1,2023-05-09 13:00:00,0,0,Summer,Afternoon
+23542,313,Mug Pulse (Sona)-1kg,1.1,2023-05-09 15:00:00,0,0,Summer,Afternoon
+23453,13352,Queens Egg Bread- 125g,1.1,2023-05-09 19:00:00,0,0,Summer,Evening
+23469,42852,Ch Baby School Keds-1302 (4/23),1.1,2023-05-09 20:00:00,0,0,Summer,Evening
+23380,283,Lizol Floral Cleaner-500ml,1.1,2023-05-09 22:00:00,0,0,Summer,Night
+23488,28938,Kazi & Kazi Green Tea-60gm,1.1,2023-05-10 00:00:00,0,0,Summer,Night
+23491,453,Saad Testy Bit Salt-100gm,1.1,2023-05-10 04:00:00,0,0,Summer,Night
+23506,14034,Omega 3 Enriched Egg-12pcs,1.1,2023-05-10 05:00:00,0,0,Summer,Night
+23543,14987,Snack Guard (Chichinga)-kg,0.495,2023-05-10 10:00:00,0,0,Summer,Morning
+23549,14956,Parboil (Potol)-kg,0.374,2023-05-10 15:00:00,0,0,Summer,Afternoon
+23453,13536,Kazi French Fries-500g,1.1,2023-05-10 17:00:00,0,0,Summer,Evening
+23465,1645,Cadbury Dairy Milk Silk-13.2g,1.1,2023-05-10 18:00:00,0,0,Summer,Evening
+23468,14081,Telapia Fish Big (THR),1.4740000000000002,2023-05-10 20:00:00,0,0,Summer,Evening
+23380,4259,Sunsilk G.Tea & W.Lilly F Shampoo-375ml,1.1,2023-05-10 23:00:00,0,0,Summer,Night
+23380,4965,Poppers Corn-Coco Chips-25gm,1.1,2023-05-10 23:00:00,0,0,Summer,Night
+23520,900,Radhuni Panchforon-50g,1.1,2023-05-11 01:00:00,0,0,Summer,Night
+23520,15180,Akher Sugar -1kg,1.1,2023-05-11 01:00:00,0,0,Summer,Night
+23531,7190,Baqarah Pasteurized Milk- 1L,1.1,2023-05-11 03:00:00,0,0,Summer,Night
+23532,23115,One Man Punjabi -027,1.1,2023-05-11 08:00:00,0,0,Summer,Morning
+23380,29140,Ponds Bright Beauty Cream-23ml,1.1,2023-05-11 13:00:00,0,0,Summer,Afternoon
+23456,7196,Austogram Mozzarella Cheese-250gm,1.1,2023-05-11 18:00:00,0,0,Summer,Evening
+23458,31986,"Ch Baby T-Shirt -2313,2316 (4/23",1.1,2023-05-11 21:00:00,0,0,Summer,Night
+23478,31889,BB Ladies Parts Bag-0031,1.1,2023-05-12 02:00:00,0,0,Summer,Night
+23494,29094,Mirzapore Tea - 350gm,1.1,2023-05-12 03:00:00,0,0,Summer,Night
+23520,6827,Horlicks -400gm,1.1,2023-05-12 07:00:00,0,0,Summer,Morning
+23380,489,Chola Pulse-1kg,1.1,2023-05-12 08:00:00,0,0,Summer,Morning
+23444,1374,Nestle Kitkat Chocolate- 41.5g,2.2,2023-05-12 09:00:00,0,0,Summer,Morning
+23444,23174,Pro-Dental Floss Pick(36Pcs),1.1,2023-05-12 09:00:00,0,0,Summer,Morning
+23380,43073,Quality Chicken Gizzard Singara,1.1,2023-05-12 14:00:00,0,0,Summer,Afternoon
+23380,14978,Chicken (B-Skin Less),14.773,2023-05-12 14:00:00,0,0,Summer,Afternoon
+23404,13985,Cow Lever-K,0.649,2023-05-12 18:00:00,0,0,Summer,Evening
+23407,22275,Aarong Yogurt Sour Curd-500gm,1.1,2023-05-12 22:00:00,0,0,Summer,Night
+23420,24717,B Toilet Tissue Extra Saving Pack 4Rolls,1.1,2023-05-13 02:00:00,0,0,Summer,Night
+23419,13958,Shrimp Fish Bagda,1.551,2023-05-13 05:00:00,0,0,Summer,Night
+23428,6856,Onion Deshi(New)-1kg,2.2,2023-05-13 10:00:00,0,0,Summer,Morning
+23430,32480,Sunsilk Black Shine Shampoo-330ml,1.1,2023-05-13 14:00:00,0,0,Summer,Afternoon
+23435,31328,Prince Lacha Samai-200g(Pkt),1.1,2023-05-13 17:00:00,0,0,Summer,Evening
+23386,2143,Sensodyne Toothbrush Soft,1.1,2023-05-13 19:00:00,0,0,Summer,Evening
+23400,22275,Aarong Yogurt Sour Curd-500gm,1.1,2023-05-13 21:00:00,0,0,Summer,Night
+23380,14968,Eye Of Arum(Tall) (Kachurmukhi)-kg,1.056,2023-05-14 00:00:00,0,0,Summer,Night
+23404,42898,Zero Coke -250ml,1.1,2023-05-14 03:00:00,0,0,Summer,Night
+23380,26286,White Tone Face Cream-25g,1.1,2023-05-14 08:00:00,0,0,Summer,Morning
+23432,43087,China Tshirt 28071(4/23),1.1,2023-05-14 13:00:00,0,0,Summer,Afternoon
+23441,5834,Fortune KG Mustard Oil- 500ml,1.1,2023-05-14 15:00:00,0,0,Summer,Afternoon
+23442,30621,Act II Butter Delite-70g,2.2,2023-05-14 19:00:00,0,0,Summer,Evening
+23380,1374,Nestle Kitkat Chocolate- 41.5g,1.1,2023-05-14 21:00:00,0,0,Summer,Night
+23400,12699,ENO Lemon Flavour Com-6Pcs,1.1,2023-05-15 01:00:00,0,0,Summer,Night
+23405,13985,Cow Lever-K,1.386,2023-05-15 05:00:00,0,0,Summer,Night
+23421,6857,Potato  Deshi New-1kg,5.489000000000001,2023-05-15 10:00:00,0,0,Summer,Morning
+23424,12643,Ramisa-Murali Pkt-200gm,1.1,2023-05-15 11:00:00,0,0,Summer,Morning
+23380,3631,Barchun Oyster Sauce-350ml,1.1,2023-05-15 12:00:00,0,0,Summer,Afternoon
+23438,13988,Beef Bone Full,4.631,2023-05-15 15:00:00,0,0,Summer,Afternoon
+23435,30983,Prince Special Chanachur-150gm,1.1,2023-05-15 20:00:00,0,0,Summer,Evening
+23380,7514,Belleame Cremo Biscuit- 90g,1.1,2023-05-16 00:00:00,0,0,Summer,Night
+23380,878,Radhuni Spices (Corinder)-100gm,1.1,2023-05-16 00:00:00,0,0,Summer,Night
+23380,12625,Ramisa-Fried Chira Oil Pkt-200gm,1.1,2023-05-16 00:00:00,0,0,Summer,Night
+23471,32025,Muad Panjabi-2205,1.1,2023-05-16 01:00:00,0,0,Summer,Night
+23380,125,Wheel Laundry Soap 125g,4.4,2023-05-16 05:00:00,0,0,Summer,Night
+23380,32500,Fair & Lovely Multivitamin-50gm,5.5,2023-05-16 05:00:00,0,0,Summer,Night
+23380,14821,Green Pumpkin-pc,1.1,2023-05-16 05:00:00,0,0,Summer,Night
+23380,4709,Dabur Meswak Paste-100gm,1.1,2023-05-16 05:00:00,0,0,Summer,Night
+23380,25524,Dettol Handwash Aloe Vera - 200ml,1.1,2023-05-16 05:00:00,0,0,Summer,Night
+23509,4537,Lux Velvet Glow Soap-100g,1.1,2023-05-16 06:00:00,0,0,Summer,Morning
+23526,31598,PB Premium Clifton Punjabi-1850,1.1,2023-05-16 07:00:00,0,0,Summer,Morning
+23547,15106,Wood Apple Small (Bell),1.1,2023-05-16 08:00:00,0,0,Summer,Morning
+23452,23728,One Man Short Full Shirt-059,1.1,2023-05-16 13:00:00,0,0,Summer,Afternoon
+23455,3636,Ragu Pizza Sauce-396g,1.1,2023-05-16 15:00:00,0,0,Summer,Afternoon
+23468,3729,Pran Hot Tomato Sauce-340gm,1.1,2023-05-16 19:00:00,0,0,Summer,Evening
+23380,42620,Safe Hand wash (green) 300ml,1.1,2023-05-17 00:00:00,0,0,Summer,Night
+23523,13349,Custard Bread- 275g,1.1,2023-05-17 05:00:00,0,0,Summer,Night
+18557,32467,Lifebuoy Hand Wash-200ml,1.1,2023-05-17 10:00:00,0,0,Summer,Morning
+23453,26864,IDC Kelloggs Chocos-385g,1.1,2023-05-17 15:00:00,0,0,Summer,Afternoon
+23380,31928,Chowa Gamsa-521,1.1,2023-05-17 20:00:00,0,0,Summer,Evening
+23461,2165,Vim Bar 300g (Lemon),2.2,2023-05-17 23:00:00,0,0,Summer,Night
+23380,3963,Diploma Ins Milk Powder-1kg,1.1,2023-05-18 03:00:00,0,0,Summer,Night
+23380,604,Cassia Leaf-100gm (Tespata),1.1,2023-05-18 03:00:00,0,0,Summer,Night
+23380,4845,Sun Chips Tomato Tango 38g,1.1,2023-05-18 03:00:00,0,0,Summer,Night
+23514,32526,Saad Bit Salt Plastic Jar 100G,1.1,2023-05-18 08:00:00,0,0,Summer,Morning
+23543,3809,Arla Dano Daily Pushti-500gm,1.1,2023-05-18 12:00:00,0,0,Summer,Afternoon
+23543,7016,Good Life Mozarella Cheese-370gm,1.1,2023-05-18 12:00:00,0,0,Summer,Afternoon
+23547,15146,Watermelon Banglalink - Kg,3.1130000000000004,2023-05-18 15:00:00,0,0,Summer,Afternoon
+23549,3034,Rooh Afza Sharbat-300ml,1.1,2023-05-18 18:00:00,0,0,Summer,Evening
+23543,12630,Ramisa-Jhori Vaja Pkt-200gm,1.1,2023-05-18 22:00:00,0,0,Summer,Night
+23557,27730,Fun Vannilla cake,6.6000000000000005,2023-05-18 23:00:00,0,0,Summer,Night
+23561,6859,Ginger Barmiz-(Kg),0.539,2023-05-19 01:00:00,0,0,Summer,Night
+23562,13988,Beef Bone Full,2.871,2023-05-19 02:00:00,0,0,Summer,Night
+23564,774,Cumin-200gm,1.1,2023-05-19 03:00:00,0,0,Summer,Night
+23565,25486,Aquafina Drinking Water- 500ml,1.1,2023-05-19 04:00:00,0,0,Summer,Night
+23575,15131,Atta Fruits,0.682,2023-05-19 09:00:00,0,0,Summer,Morning
+23576,24707,Bashu. Toilet Tissue (White),1.1,2023-05-19 12:00:00,0,0,Summer,Afternoon
+23586,3832,Milk Vita Liquid Milk-1/2Ltr,4.4,2023-05-19 13:00:00,0,0,Summer,Afternoon
+23405,873,Pran Chatpati Masala(50g),1.1,2023-05-19 16:00:00,0,0,Summer,Afternoon
+23422,13986,Cow Stomach-K,4.554,2023-05-19 20:00:00,0,0,Summer,Evening
+23419,3055,Foster Clarks Orange-250g,1.1,2023-05-19 22:00:00,0,0,Summer,Night
+23429,125,Wheel Laundry Soap 125g,3.3000000000000003,2023-05-20 02:00:00,0,0,Summer,Night
+23430,26634,Prince Egg Noodles 300gm,1.1,2023-05-20 06:00:00,0,0,Summer,Morning
+23400,13781,C.N Chicken Sausage 300gm,1.1,2023-05-20 11:00:00,0,0,Summer,Morning
+23407,10547,SCL Sunscreen Lightweight-60g,1.1,2023-05-20 13:00:00,0,0,Summer,Afternoon
+23420,2915,P.Drinko Float Lichi Drink-250ml,1.1,2023-05-20 17:00:00,0,0,Summer,Evening
+23419,30745,Senora Confidence-16Pads,1.1,2023-05-20 21:00:00,0,0,Summer,Night
+23427,7202,EM Pasta Vite-400gm,1.1,2023-05-20 23:00:00,0,0,Summer,Night
+23429,3828,Aarong UHT FCL Milk (Finopack)-500ml,1.1,2023-05-21 01:00:00,0,0,Summer,Night
+23380,25474,Lassa Special Semai-500g(Pkt),3.3000000000000003,2023-05-21 05:00:00,0,0,Summer,Night
+23380,1659,Dairy Milk Chocolate-24g,2.2,2023-05-21 05:00:00,0,0,Summer,Night
+23380,25520,Dettol Cool HW-170ml(Refil),2.2,2023-05-21 05:00:00,0,0,Summer,Night
+23422,13922,Rui Fish (S1)-(MNK),1.4850000000000003,2023-05-21 07:00:00,0,0,Summer,Morning
+23424,1869,Snickers Chocolate-50gm,1.1,2023-05-21 11:00:00,0,0,Summer,Morning
+23427,14998,Capsicum Green,0.418,2023-05-21 15:00:00,0,0,Summer,Afternoon
+23429,13985,Cow Lever-K,1.078,2023-05-21 20:00:00,0,0,Summer,Evening
+23392,28941,KK Orthodox Green Tea-100gm,1.1,2023-05-21 21:00:00,0,0,Summer,Night
+23422,25475,Vermicelli Samai-200gm,2.2,2023-05-22 01:00:00,0,0,Summer,Night
+23380,41,Fun Crack- 50g,2.2,2023-05-22 04:00:00,0,0,Summer,Night
+23380,28456,Jui Coconut Oil Plastic-200ml,5.5,2023-05-22 04:00:00,0,0,Summer,Night
+23380,4534,Lux Jasmine & Vitamin E Soap-150g,2.2,2023-05-22 04:00:00,0,0,Summer,Night
+23480,23120,One Man Punjabi15502-0931,1.1,2023-05-22 05:00:00,0,0,Summer,Night
+23380,1201,Fruits Skittles  Cho -45g,1.1,2023-05-22 06:00:00,0,0,Summer,Morning
+23542,318,Musur Pulse Kangaroo -1Kg (sp),1.1,2023-05-22 07:00:00,0,0,Summer,Morning
+23543,2246,Pepsodent Charcoal W. Toothpaste-140gm,1.1,2023-05-22 12:00:00,0,0,Summer,Afternoon
+23532,31789,S.K Ind Baby 3pcs -(4/23),1.1,2023-05-22 16:00:00,0,0,Summer,Afternoon
+23546,24709,Bashundhara Paper Napkin-100p,1.1,2023-05-22 21:00:00,0,0,Summer,Night
+23553,22259,Mirinda Orange- 600ml,1.1,2023-05-23 01:00:00,0,0,Summer,Night
+23554,27731,Funtastic Ore Cream Pineapple,1.1,2023-05-23 06:00:00,0,0,Summer,Morning
+23556,14958,Green Chilli(kg),0.517,2023-05-23 11:00:00,0,0,Summer,Morning
+23556,26536,Knorr Soup-24gm,2.2,2023-05-23 11:00:00,0,0,Summer,Morning
+23560,14969,Carrot (Deshi) kg,0.319,2023-05-23 14:00:00,0,0,Summer,Afternoon
+23560,14801,Net Pumpkin (Jali Kumra)-Pc,1.1,2023-05-23 14:00:00,0,0,Summer,Afternoon
+23563,43080,China Tshirt 8802(4/23),1.1,2023-05-23 19:00:00,0,0,Summer,Evening
+23568,29,Fit Biscuite -130gm,1.1,2023-05-23 21:00:00,0,0,Summer,Night
+23580,14820,Fresh Beet-Pc,2.2,2023-05-24 00:00:00,0,0,Summer,Night
+23405,25567,Lifebuoy Liquid Care Hand Wash-170ml,1.1,2023-05-24 05:00:00,0,0,Summer,Night
+23409,42909,Rok Liquid Dishwash-250ml(Buy2 Get1 Free),1.1,2023-05-24 06:00:00,0,0,Summer,Morning
+23416,4511,Dettol Skincare Soap-125gm,2.2,2023-05-24 08:00:00,0,0,Summer,Morning
+23380,22275,Aarong Yogurt Sour Curd-500gm,2.2,2023-05-24 10:00:00,0,0,Summer,Morning
+23433,32374,N.G Ind Jeans Pant-1899 (4/23),1.1,2023-05-24 12:00:00,0,0,Summer,Afternoon
+23380,15167,Tal Misri (Sugar Candy)-200g,1.1,2023-05-24 15:00:00,0,0,Summer,Afternoon
+23403,3546,Organikare Miracle Face Wash - 100gm,1.1,2023-05-24 20:00:00,0,0,Summer,Evening
+23407,15180,Akher Sugar -1kg,2.2,2023-05-25 01:00:00,0,0,Summer,Night
+23416,29193,Nivea Men Refeshing Facial Foam-100g,1.1,2023-05-25 02:00:00,0,0,Summer,Night
+23380,6856,Onion Deshi(New)-1kg,6.853000000000001,2023-05-25 03:00:00,0,0,Summer,Night
+23380,32106,Ch Baby Frock -9217(4/23),1.1,2023-05-25 03:00:00,0,0,Summer,Night
+23441,4958,Teer Sugar-1Kg,1.1,2023-05-25 05:00:00,0,0,Summer,Night
+23442,26781,Chopstick Desi/Yumy Masala Noodles-4pack,2.2,2023-05-25 06:00:00,0,0,Summer,Morning
+23380,762,Maggi Saad -E -Magic S Mix-48g,2.2,2023-05-25 09:00:00,0,0,Summer,Morning
+23380,15265,Naspati(kg),0.55,2023-05-25 09:00:00,0,0,Summer,Morning
+23380,26607,Doodles Stick Noodles-300gm,1.1,2023-05-25 09:00:00,0,0,Summer,Morning
+23494,43025,Milk Bread Small-300gm,1.1,2023-05-25 14:00:00,0,0,Summer,Afternoon
+23499,32003,B Plus Sari-0501,1.1,2023-05-25 16:00:00,0,0,Summer,Afternoon
+23510,30621,Act II Butter Delite-70g,1.1,2023-05-25 17:00:00,0,0,Summer,Evening
+23509,31231,First Choice-100gm,1.1,2023-05-25 20:00:00,0,0,Summer,Evening
+23520,25475,Vermicelli Samai-200gm,1.1,2023-05-25 23:00:00,0,0,Summer,Night
+23520,951,Chashi Aromatic Chinigura Rice-1Kg,1.1,2023-05-25 23:00:00,0,0,Summer,Night
+18557,129,Vim Bar Lemon-125gm,2.2,2023-05-26 00:00:00,0,0,Summer,Night
+23547,3831,Milk Vita Liquid Milk-1Ltr,1.1,2023-05-26 05:00:00,0,0,Summer,Night
+23380,1709,Ginnou Wrapper Chocolate Box -44gm,1.1,2023-05-26 06:00:00,0,0,Summer,Morning
+23380,3831,Milk Vita Liquid Milk-1Ltr,1.1,2023-05-26 06:00:00,0,0,Summer,Morning
+23380,4857,Kurkure Chilli Chatka-80g,1.1,2023-05-26 06:00:00,0,0,Summer,Morning
+23380,13997,Chicken Kima,3.5420000000000007,2023-05-26 06:00:00,0,0,Summer,Morning
+23481,31886,Aflah Leadis Bag-0031,1.1,2023-05-26 08:00:00,0,0,Summer,Morning
+23380,16230,Polar Ice-Cream Kheer-1Ltr,1.1,2023-05-26 09:00:00,0,0,Summer,Morning
+23491,14062,Puti Fish (Deshi) (HB),0.5720000000000001,2023-05-26 12:00:00,0,0,Summer,Afternoon
+23494,7195,Aarong Cheezarella Cheese-200gm,1.1,2023-05-26 13:00:00,0,0,Summer,Afternoon
+23512,42898,Zero Coke -250ml,1.1,2023-05-26 18:00:00,0,0,Summer,Evening
+23520,125,Wheel Laundry Soap 125g,1.1,2023-05-26 22:00:00,0,0,Summer,Night
+23538,32275,China Kades 3180 (4/23),1.1,2023-05-26 23:00:00,0,0,Summer,Night
+23465,12583,Pigeon-1PC,2.2,2023-05-27 04:00:00,0,0,Summer,Night
+23468,15180,Akher Sugar -1kg,1.1,2023-05-27 09:00:00,0,0,Summer,Morning
+23380,15263,Malta (Yellow)-kg,1.2210000000000003,2023-05-27 12:00:00,0,0,Summer,Afternoon
+23380,15104,Bomby Chilli-5Pcs,1.1,2023-05-27 12:00:00,0,0,Summer,Afternoon
+23380,3880,Marks Full Cream Milk Powder-1Kg Tin,1.1,2023-05-27 12:00:00,0,0,Summer,Afternoon
+23380,4861,Kurkure  Style Spicy Chicken-80gm,1.1,2023-05-27 12:00:00,0,0,Summer,Afternoon
+23400,30627,Bashundhara Atta-2kg,1.1,2023-05-27 17:00:00,0,0,Summer,Evening
+23380,14958,Green Chilli(kg),1.54,2023-05-27 22:00:00,0,0,Summer,Night
+23409,12823,Jafran,1.1,2023-05-28 03:00:00,0,0,Summer,Night
+23431,31380,Butter Bite-100g,1.1,2023-05-28 08:00:00,0,0,Summer,Morning
+23441,15279,Thai Papaya Ripe Red Lady,1.4630000000000003,2023-05-28 10:00:00,0,0,Summer,Morning
+23380,3787,Rose Water-180ml,2.2,2023-05-28 12:00:00,0,0,Summer,Afternoon
+23414,10946,Nivea Roll On Protect & Care -50ml,1.1,2023-05-28 15:00:00,0,0,Summer,Afternoon
+23441,25438,Aarong Butter (Salted)-200gm,1.1,2023-05-28 16:00:00,0,0,Summer,Afternoon
+23380,42961,Dolphin Nata de Coco Drink (All)-270gm,2.2,2023-05-28 21:00:00,0,0,Summer,Night
+23380,952,Chashi Aroma.Chinigura Rice-2kg,5.5,2023-05-28 21:00:00,0,0,Summer,Night
+23491,14066,Koral Fish(Big),2.4970000000000003,2023-05-28 22:00:00,0,0,Summer,Night
+23526,32160,China Kads 2230(4/23),1.1,2023-05-28 23:00:00,0,0,Summer,Night
+23527,13350,Raisin Sesame Bread- 320g,1.1,2023-05-29 02:00:00,0,0,Summer,Night
+23541,43031,Mini Burger Bread-4pcs 160gm,1.1,2023-05-29 07:00:00,0,0,Summer,Morning
+23549,22233,Coca Cola-1.25Lt(Pet),1.1,2023-05-29 12:00:00,0,0,Summer,Afternoon
+23468,15279,Thai Papaya Ripe Red Lady,0.8910000000000001,2023-05-29 16:00:00,0,0,Summer,Afternoon
+23380,3964,Diploma Milk Powder-500g,8.8,2023-05-29 17:00:00,0,0,Summer,Evening
+23476,15180,Akher Sugar -1kg,3.3000000000000003,2023-05-29 18:00:00,0,0,Summer,Evening
+23483,23114,One Man Punjabi -087,1.1,2023-05-29 20:00:00,0,0,Summer,Evening
+23517,14967,Borboti(kg),0.7150000000000001,2023-05-30 00:00:00,0,0,Summer,Night
+23534,28588,Wave Air Freshner Rojonigondha-300ml,1.1,2023-05-30 02:00:00,0,0,Summer,Night
+23476,2915,P.Drinko Float Lichi Drink-250ml,1.1,2023-05-30 04:00:00,0,0,Summer,Night
+23380,26536,Knorr Soup-24gm,2.2,2023-05-30 06:00:00,0,0,Summer,Morning
+23523,3610,Italiano BBQ Hot & Spicy Sauce-340g,1.1,2023-05-30 09:00:00,0,0,Summer,Morning
+18557,3034,Rooh Afza Sharbat-300ml,1.1,2023-05-30 12:00:00,0,0,Summer,Afternoon
+18557,4259,Sunsilk G.Tea & W.Lilly F Shampoo-375ml,1.1,2023-05-30 12:00:00,0,0,Summer,Afternoon
+23435,32189,Aradhya Punjabi-2601,1.1,2023-05-30 14:00:00,0,0,Summer,Afternoon
+23380,14955,Tomato Sour Deshi-B (kg),0.5720000000000001,2023-05-30 18:00:00,0,0,Summer,Evening
+23490,32177,China Ladies Shoe 1108-8 (4/23),1.1,2023-05-30 19:00:00,0,0,Summer,Evening
+23380,31329,Prince Noli Toast-350g,1.1,2023-05-30 23:00:00,0,0,Summer,Night
+23499,23243,Kabli Punjabi- 0502,1.1,2023-05-31 04:00:00,0,0,Summer,Night
+23520,2028,Pran Aromatic Rice-1kg,1.1,2023-05-31 07:00:00,0,0,Summer,Morning
+23546,25474,Lassa Special Semai-500g(Pkt),1.1,2023-05-31 08:00:00,0,0,Summer,Morning
+2242,32269,Gopal Ind Like Me Bra S-38 (4/23),2.2,2023-05-31 09:00:00,0,0,Summer,Morning
+23556,30641,Pure It GKK-1500L(Filter),1.1,2023-05-31 14:00:00,0,0,Summer,Afternoon
+23561,6857,Potato  Deshi New-1kg,19.767,2023-05-31 19:00:00,0,0,Summer,Evening
+23562,3806,Dano Power Milk Instant-400gm,1.1,2023-05-31 21:00:00,0,0,Summer,Night
+23562,765,Black Pepper(Chili)-50g,1.1,2023-05-31 21:00:00,0,0,Summer,Night
+23562,318,Musur Pulse Kangaroo -1Kg (sp),1.1,2023-05-31 21:00:00,0,0,Summer,Night
+23562,701,Radhuni Spice Coriander-200g,1.1,2023-05-31 21:00:00,0,0,Summer,Night
+23562,704,Radhuni Spices Cumin-200gm,1.1,2023-05-31 21:00:00,0,0,Summer,Night
+23568,7525,Belleame Choco Little Biscuit-45gm,2.2,2023-06-01 00:00:00,0,0,Summer,Night
+23584,489,Chola Pulse-1kg,1.1,2023-06-01 03:00:00,0,0,Summer,Night
+23400,14844,Banana Green Small-kg,1.023,2023-06-01 07:00:00,0,0,Summer,Morning
+23408,4969,Detos CW Chips-30gm,1.1,2023-06-01 09:00:00,0,0,Summer,Morning
+23410,30788,Teer Atta 2kg,1.1,2023-06-01 11:00:00,0,0,Summer,Morning
+23380,129,Vim Bar Lemon-125gm,1.1,2023-06-01 13:00:00,0,0,Summer,Afternoon
+23380,6848,Garlic China Big-(kg),0.561,2023-06-01 13:00:00,0,0,Summer,Afternoon
+23434,13989,Beef Without Bone Special,0.5830000000000001,2023-06-01 15:00:00,0,0,Summer,Afternoon
+23431,42665,Funtastic Nimok Halal Biscuit-86gm,1.1,2023-06-01 18:00:00,0,0,Summer,Evening
+23441,15180,Akher Sugar -1kg,2.2,2023-06-01 21:00:00,0,0,Summer,Night
+23442,13524,Kazi Chicken Sausages (Spicy)-340gm,1.1,2023-06-01 23:00:00,0,0,Summer,Night
+23445,14088,Shrimp Fish Golda(Big)-(STR),1.1330000000000002,2023-06-02 03:00:00,0,0,Summer,Night
+23443,13988,Beef Bone Full,4.587000000000001,2023-06-02 04:00:00,0,0,Summer,Night
+23380,14046,Gulsha Fish(Small)-(HB),1.166,2023-06-02 05:00:00,0,0,Summer,Night
+23400,4958,Teer Sugar-1Kg,1.1,2023-06-02 09:00:00,0,0,Summer,Morning
+23400,22234,Sprite-1.25 Lt(Pet),1.1,2023-06-02 09:00:00,0,0,Summer,Morning
+23409,13586,Prince Cocoa Powder 100gm,1.1,2023-06-02 11:00:00,0,0,Summer,Morning
+23415,13989,Beef Without Bone Special,1.309,2023-06-02 14:00:00,0,0,Summer,Afternoon
+23429,14984,Lemon Elachi-Pc,1.1,2023-06-02 15:00:00,0,0,Summer,Afternoon
+23447,890,Radhuni Garam Masala-40gm,1.1,2023-06-02 20:00:00,0,0,Summer,Evening
+23427,13988,Beef Bone Full,1.793,2023-06-03 01:00:00,0,0,Summer,Night
+23430,13988,Beef Bone Full,1.1110000000000002,2023-06-03 05:00:00,0,0,Summer,Night
+23429,13988,Beef Bone Full,3.3440000000000003,2023-06-03 07:00:00,0,0,Summer,Morning
+23439,13988,Beef Bone Full,2.244,2023-06-03 08:00:00,0,0,Summer,Morning
+23380,3177,Glucon-D Nimbu Pani-Flavour-400g Jar,1.1,2023-06-03 10:00:00,0,0,Summer,Morning
+23442,1348,Kinder Bueno Chocolate- 43g,1.1,2023-06-03 11:00:00,0,0,Summer,Morning
+23411,133,Rin Advanced-500gm,1.1,2023-06-03 15:00:00,0,0,Summer,Afternoon
+23380,133,Rin Advanced-500gm,1.1,2023-06-03 19:00:00,0,0,Summer,Evening
+23424,1217,Chupa Chups lolipop,1.1,2023-06-04 00:00:00,0,0,Summer,Night
+23429,14843,Cucumber Deshi (kg),1.65,2023-06-04 02:00:00,0,0,Summer,Night
+23431,31231,First Choice-100gm,1.1,2023-06-04 07:00:00,0,0,Summer,Morning
+23380,4889,Closeup Green-100gm,2.2,2023-06-04 09:00:00,0,0,Summer,Morning
+23380,42915,Rok Handwash Fruity-200ml(Buy2 Get1 Free),2.2,2023-06-04 09:00:00,0,0,Summer,Morning
+23468,13921,Rui Fish-M-(MNK),2.0570000000000004,2023-06-04 14:00:00,0,0,Summer,Afternoon
+23491,29405,Premio Diamond Mug-1.5L All,1.1,2023-06-04 17:00:00,0,0,Summer,Evening
+23506,3831,Milk Vita Liquid Milk-1Ltr,1.1,2023-06-04 20:00:00,0,0,Summer,Evening
+23519,13986,Cow Stomach-K,1.562,2023-06-04 23:00:00,0,0,Summer,Night
+23538,32218,Anita Ind Rupa Frontline Vest-(4/23),1.1,2023-06-05 02:00:00,0,0,Summer,Night
+18557,2220,Ambition Tooth brush,1.1,2023-06-05 03:00:00,0,0,Summer,Night
+23460,3,Improved Jet- 200gm Poly Pack,1.1,2023-06-05 06:00:00,0,0,Summer,Morning
+23472,7085,Nocilla Cocoa Spread two flavour-190g,1.1,2023-06-05 10:00:00,0,0,Summer,Morning
+23380,13581,Radhuni Falooda Mix Vanilla-250gm,1.1,2023-06-05 14:00:00,0,0,Summer,Afternoon
+23483,31848,RF Fotua-094,1.1,2023-06-05 15:00:00,0,0,Summer,Afternoon
+23493,32106,Ch Baby Frock -9217(4/23),1.1,2023-06-05 18:00:00,0,0,Summer,Evening
+23500,32448,Rin Advanced-2kg,1.1,2023-06-05 21:00:00,0,0,Summer,Night
+23519,30802,Kath Badam-50gm,1.1,2023-06-06 00:00:00,0,0,Summer,Night
+23525,1645,Cadbury Dairy Milk Silk-13.2g,1.1,2023-06-06 05:00:00,0,0,Summer,Night
+23543,14802,Jhinga(kg),0.352,2023-06-06 07:00:00,0,0,Summer,Morning
+23546,26617,Maggi Masala Noodles Family Pack-992gm,1.1,2023-06-06 12:00:00,0,0,Summer,Afternoon
+23380,29127,Fair & Lovely BB Cream-18g,1.1,2023-06-06 14:00:00,0,0,Summer,Afternoon
+23457,13998,Mutton(1),3.3220000000000005,2023-06-06 17:00:00,0,0,Summer,Evening
+23380,22260,Pepsi (Diet) 600ml,2.2,2023-06-06 20:00:00,0,0,Summer,Evening
+23380,22259,Mirinda Orange- 600ml,2.2,2023-06-06 20:00:00,0,0,Summer,Evening
+23380,7075,Herman Peanut Butter-340gm All,1.1,2023-06-06 20:00:00,0,0,Summer,Evening
+23493,32156,China Ladies Paup Shoe 055-10(4/23),1.1,2023-06-07 01:00:00,0,0,Summer,Night
+23529,32218,Anita Ind Rupa Frontline Vest-(4/23),1.1,2023-06-07 06:00:00,0,0,Summer,Morning
+18557,14815,Tomato L.C(kg),1.001,2023-06-07 08:00:00,0,0,Summer,Morning
+23457,13988,Beef Bone Full,5.5440000000000005,2023-06-07 12:00:00,0,0,Summer,Afternoon
+23380,3729,Pran Hot Tomato Sauce-340gm,1.1,2023-06-07 14:00:00,0,0,Summer,Afternoon
+23504,32228,China Ladies Shoe F-30(4/23),1.1,2023-06-07 19:00:00,0,0,Summer,Evening
+23517,4890,Close-Up Menthol Fresh-160g,1.1,2023-06-08 00:00:00,0,0,Summer,Night
+23524,42829,China T Shirt  3612(4/23),1.1,2023-06-08 01:00:00,0,0,Summer,Night
+23531,13985,Cow Lever-K,0.462,2023-06-08 06:00:00,0,0,Summer,Morning
+18557,43017,Doughtnut Sugar Bread-200gm,1.1,2023-06-08 07:00:00,0,0,Summer,Morning
+18557,22258,Pepsi 600ml,1.1,2023-06-08 07:00:00,0,0,Summer,Morning
+18557,10415,Chaad  Dish Washing Liq Lemon -500ml,1.1,2023-06-08 07:00:00,0,0,Summer,Morning
+23551,884,R.Spices(Turmeric)200gm,1.1,2023-06-08 11:00:00,0,0,Summer,Morning
+23555,10213,GR. Fluid Foundation 34ml,1.1,2023-06-08 13:00:00,0,0,Summer,Afternoon
+23556,15180,Akher Sugar -1kg,1.1,2023-06-08 15:00:00,0,0,Summer,Afternoon
+23561,313,Mug Pulse (Sona)-1kg,1.1,2023-06-08 16:00:00,0,0,Summer,Afternoon
+23562,22233,Coca Cola-1.25Lt(Pet),1.1,2023-06-08 18:00:00,0,0,Summer,Evening
+23562,340,Confidence Salt-1Kg,1.1,2023-06-08 18:00:00,0,0,Summer,Evening
+23562,604,Cassia Leaf-100gm (Tespata),1.1,2023-06-08 18:00:00,0,0,Summer,Evening
+23566,28453,Bajaj Almond Drops Hair Oil-100ml (BD),1.1,2023-06-08 23:00:00,0,0,Summer,Night
+23576,13988,Beef Bone Full,1.067,2023-06-09 02:00:00,0,0,Summer,Night
+23581,32371,N.G Garments Ind G Pant-1699 (4/23),1.1,2023-06-09 03:00:00,0,0,Summer,Night
+23578,13988,Beef Bone Full,2.255,2023-06-09 05:00:00,0,0,Summer,Night
+23380,3006,Marks Milk Shake AS-200ml,6.6000000000000005,2023-06-09 06:00:00,0,0,Summer,Morning
+23383,15153,Apple Fuji Big,2.9480000000000004,2023-06-09 07:00:00,0,0,Summer,Morning
+23403,13846,Beef Samusa,1.1,2023-06-09 10:00:00,0,0,Summer,Morning
+23422,13801,Chicken (B-Skin),4.026000000000001,2023-06-09 15:00:00,0,0,Summer,Afternoon
+23380,12834,Prince Betel Spice 100gm,1.1,2023-06-09 16:00:00,0,0,Summer,Afternoon
+23380,14803,Brinjal (Oval) Big-kg,1.573,2023-06-09 16:00:00,0,0,Summer,Afternoon
+23415,15180,Akher Sugar -1kg,2.2,2023-06-09 18:00:00,0,0,Summer,Evening
+23420,24709,Bashundhara Paper Napkin-100p,1.1,2023-06-09 22:00:00,0,0,Summer,Night
+23429,3831,Milk Vita Liquid Milk-1Ltr,1.1,2023-06-09 23:00:00,0,0,Summer,Night
+23380,13793,C.N Chicken Nuggets-250gm,1.1,2023-06-10 00:00:00,0,0,Summer,Night
+23380,4767,Sensodyne Repair&Protect Toothpaste-100g,1.1,2023-06-10 00:00:00,0,0,Summer,Night
+23380,15262,Cow Brain-K,2.2,2023-06-10 00:00:00,0,0,Summer,Night
+23380,488,Bacha Boot Pulse 1Kg,1.1,2023-06-10 00:00:00,0,0,Summer,Night
+23407,13958,Shrimp Fish Bagda,0.5940000000000001,2023-06-10 03:00:00,0,0,Summer,Night
+23435,389,Sajeeb Soft Drink Powder Mango -250gm,1.1,2023-06-10 08:00:00,0,0,Summer,Morning
+23447,704,Radhuni Spices Cumin-200gm,1.1,2023-06-10 12:00:00,0,0,Summer,Afternoon
+23453,7524,Belleame Chocolate Fondue-180gm,1.1,2023-06-10 14:00:00,0,0,Summer,Afternoon
+23468,24900,Perfumed Facial Tissue - 200Sheet,2.2,2023-06-10 18:00:00,0,0,Summer,Evening
+23481,32156,China Ladies Paup Shoe 055-10(4/23),1.1,2023-06-10 20:00:00,0,0,Summer,Evening
+23380,14969,Carrot (Deshi) kg,0.308,2023-06-11 01:00:00,0,0,Summer,Night
+23477,32157,China Keds -2233 (4/23),1.1,2023-06-11 03:00:00,0,0,Summer,Night
+23380,7202,EM Pasta Vite-400gm,1.1,2023-06-11 06:00:00,0,0,Summer,Morning
+23494,2915,P.Drinko Float Lichi Drink-250ml,2.2,2023-06-11 09:00:00,0,0,Summer,Morning
+23494,7332,Saad Monosodium G Foil Pack- 454g,1.1,2023-06-11 09:00:00,0,0,Summer,Morning
+23500,15269,Grapes (Red),1.045,2023-06-11 12:00:00,0,0,Summer,Afternoon
+23512,27730,Fun Vannilla cake,4.4,2023-06-11 15:00:00,0,0,Summer,Afternoon
+23519,718,Radhuni H. Biriyani Masala-45g,1.1,2023-06-11 19:00:00,0,0,Summer,Evening
+23519,3773,Sajeeb Hot Tomato Sauce-1kg,1.1,2023-06-11 19:00:00,0,0,Summer,Evening
+23546,27035,Aarong Ghee 200g,1.1,2023-06-12 00:00:00,0,0,Summer,Night
+23380,318,Musur Pulse Kangaroo -1Kg (sp),1.1,2023-06-12 02:00:00,0,0,Summer,Night
+23380,4958,Teer Sugar-1Kg,12.1,2023-06-12 02:00:00,0,0,Summer,Night
+23488,30611,Sagu-500g,1.1,2023-06-12 04:00:00,0,0,Summer,Night
+23503,22268,Pran Yogurt Sour Curd-500gm,1.1,2023-06-12 07:00:00,0,0,Summer,Morning
+23509,15300,Chicken Deshi (Pakistani) Cock,1.1,2023-06-12 10:00:00,0,0,Summer,Morning
+23517,14990,Usta(kg),0.561,2023-06-12 11:00:00,0,0,Summer,Morning
+23527,13958,Shrimp Fish Bagda,0.8470000000000001,2023-06-12 16:00:00,0,0,Summer,Afternoon
+23537,6837,Aarong Yogurt Sour Curd-1000gm,1.1,2023-06-12 20:00:00,0,0,Summer,Evening
+23543,548,Mixed Masalla-100gm,1.1,2023-06-12 22:00:00,0,0,Summer,Night
+23544,3005,Marks Belgian Chocolate Flavour - 125ml,1.1,2023-06-12 23:00:00,0,0,Summer,Night
+18557,2043,Rupchanda Soyabean-5Ltr,1.1,2023-06-13 00:00:00,0,0,Summer,Night
+23380,4140,Sunsilk Thick &Long Shampoo-170ml,1.1,2023-06-13 02:00:00,0,0,Summer,Night
+23468,489,Chola Pulse-1kg,1.1,2023-06-13 06:00:00,0,0,Summer,Morning
+23517,30728,Veet Hair Removal Cream(Sensitive)-50gm,1.1,2023-06-13 07:00:00,0,0,Summer,Morning
+23520,133,Rin Advanced-500gm,1.1,2023-06-13 08:00:00,0,0,Summer,Morning
+23525,3831,Milk Vita Liquid Milk-1Ltr,2.2,2023-06-13 13:00:00,0,0,Summer,Afternoon
+23534,27396,Ossum Perfumed Body Mist-115ml (Romance),1.1,2023-06-13 17:00:00,0,0,Summer,Evening
+23461,30740,Senora S.Napkin Panty 15Pads,1.1,2023-06-13 18:00:00,0,0,Summer,Evening
+23380,7196,Austogram Mozzarella Cheese-250gm,1.1,2023-06-13 22:00:00,0,0,Summer,Night
+23468,15132,Green Mango(kg),0.792,2023-06-14 00:00:00,0,0,Summer,Night
+23479,22234,Sprite-1.25 Lt(Pet),1.1,2023-06-14 03:00:00,0,0,Summer,Night
+23380,3809,Arla Dano Daily Pushti-500gm,1.1,2023-06-14 04:00:00,0,0,Summer,Night
+23477,25622,Samir Tangail Sari-0061,1.1,2023-06-14 09:00:00,0,0,Summer,Morning
+23380,13,Lemon Bright Dish Wash 250ml B2 G1,2.2,2023-06-14 11:00:00,0,0,Summer,Morning
+23512,30740,Senora S.Napkin Panty 15Pads,1.1,2023-06-14 15:00:00,0,0,Summer,Afternoon
+23539,13794,C.N Plain Paratha Jumbo P.(20Pcs)-1600gm,1.1,2023-06-14 17:00:00,0,0,Summer,Evening
+23461,28906,Mirzapore PD - 500gm,1.1,2023-06-14 18:00:00,0,0,Summer,Evening
+23468,24713,Facial Soft Pack Tissue -400Sheet,1.1,2023-06-14 22:00:00,0,0,Summer,Night
+23491,14045,Pabda Fish (Big),0.7260000000000001,2023-06-15 01:00:00,0,0,Summer,Night
+23491,1100,Discovery Rigata 400gm - B1G1,1.1,2023-06-15 01:00:00,0,0,Summer,Night
+23498,43040,Marshmallow-100gm,1.1,2023-06-15 03:00:00,0,0,Summer,Night
+23506,13988,Beef Bone Full,5.555000000000001,2023-06-15 04:00:00,0,0,Summer,Night
+23530,12823,Jafran,1.1,2023-06-15 09:00:00,0,0,Summer,Morning
+23542,4958,Teer Sugar-1Kg,1.1,2023-06-15 13:00:00,0,0,Summer,Afternoon
+18557,4265,Treseme C. Smooth Shampoo -340ml,1.1,2023-06-15 15:00:00,0,0,Summer,Afternoon
+23553,28508,Spring Air Fershner Flora-300ml,1.1,2023-06-15 17:00:00,0,0,Summer,Evening
+23559,31999,Ch Gaberdine Pant-8053 (4/23),1.1,2023-06-15 20:00:00,0,0,Summer,Evening
+23563,23746,Box Half Shirt 14154-0101,1.1,2023-06-15 23:00:00,0,0,Summer,Night
+23564,43014,Swiss Roll Chocolate Cake-375gm,1.1,2023-06-16 04:00:00,0,0,Summer,Night
+23562,774,Cumin-200gm,1.1,2023-06-16 09:00:00,0,0,Summer,Morning
+23571,13988,Beef Bone Full,1.144,2023-06-16 10:00:00,0,0,Summer,Morning
+23577,23400,Kabli Punjabi Set-0561,1.1,2023-06-16 11:00:00,0,0,Summer,Morning
+23581,32378,N.G Ind Jeans Pant-1499 (4/23),1.1,2023-06-16 16:00:00,0,0,Summer,Afternoon
+23580,26617,Maggi Masala Noodles Family Pack-992gm,1.1,2023-06-16 21:00:00,0,0,Summer,Night
+23580,26619,Maggi Noodles Masala Blast-252g 4Pack,1.1,2023-06-16 21:00:00,0,0,Summer,Night
+23407,15262,Cow Brain-K,1.1,2023-06-17 01:00:00,0,0,Summer,Night
+23415,2030,Pran Aromatic Rice-2kg,1.1,2023-06-17 04:00:00,0,0,Summer,Night
+23427,11028,Lifebuoy Handwash Lemon Fresh- 1L,1.1,2023-06-17 05:00:00,0,0,Summer,Night
+23441,318,Musur Pulse Kangaroo -1Kg (sp),1.1,2023-06-17 08:00:00,0,0,Summer,Morning
+23380,1189,Prince Mango Pickle(400gm),1.1,2023-06-17 11:00:00,0,0,Summer,Morning
+23380,12629,Ramisa-Jhal Nimki Pkt-200gm,1.1,2023-06-17 11:00:00,0,0,Summer,Morning
+23382,13988,Beef Bone Full,2.959,2023-06-17 16:00:00,0,0,Summer,Afternoon
+23402,32124,Ch Baby Sandal-A22 (4/23),1.1,2023-06-17 20:00:00,0,0,Summer,Evening
+23422,13925,Golda Fish Big,1.4740000000000002,2023-06-17 22:00:00,0,0,Summer,Night
+23419,15106,Wood Apple Small (Bell),1.1,2023-06-18 02:00:00,0,0,Summer,Night
+23429,13909,Silver Curp,4.114000000000001,2023-06-18 06:00:00,0,0,Summer,Morning
+23429,14801,Net Pumpkin (Jali Kumra)-Pc,1.1,2023-06-18 06:00:00,0,0,Summer,Morning
+23442,551,Cumin Powder-100gm,1.1,2023-06-18 09:00:00,0,0,Summer,Morning
+23380,25811,Miton Ezafa Sari- 0001,1.1,2023-06-18 13:00:00,0,0,Summer,Afternoon
+23380,13654,Quality Premiun Paratha 10Pcs-650g,2.2,2023-06-18 13:00:00,0,0,Summer,Afternoon
+23380,7510,Bisk Club Potata Biscuit- 100g,1.1,2023-06-18 13:00:00,0,0,Summer,Afternoon
+23400,1180,Ruchi Tomato Ketchup-350g,1.1,2023-06-18 14:00:00,0,0,Summer,Afternoon
+23380,30626,Bashundhara Maida-2kg,2.2,2023-06-18 17:00:00,0,0,Summer,Evening
+23409,30972,R.Chanachur Bar-b-Q-300g,1.1,2023-06-18 18:00:00,0,0,Summer,Evening
+23424,2915,P.Drinko Float Lichi Drink-250ml,2.2,2023-06-18 20:00:00,0,0,Summer,Evening
+23411,24718,Fay Toilet tissue White-180Sheets,1.1,2023-06-18 23:00:00,0,0,Summer,Night
+23462,32223,Anita Ind ONN Vest- NF 221(4/23),1.1,2023-06-19 01:00:00,0,0,Summer,Night
+23380,2801,Vita Juice -250ml,2.2,2023-06-19 04:00:00,0,0,Summer,Night
+23380,13872,GH French Fries-500gm,1.1,2023-06-19 04:00:00,0,0,Summer,Night
+23479,43099,Pepsi Pet Bottle -250ml,3.3000000000000003,2023-06-19 09:00:00,0,0,Summer,Morning
+23481,32233,China Ladies Sandal 872-2(4/23),1.1,2023-06-19 13:00:00,0,0,Summer,Afternoon
+23519,13988,Beef Bone Full,2.706,2023-06-19 18:00:00,0,0,Summer,Evening
+18557,25519,Dettol Skincare HW-170ml(Refil),1.1,2023-06-19 20:00:00,0,0,Summer,Evening
+23546,15180,Akher Sugar -1kg,1.1,2023-06-20 00:00:00,0,1,Summer,Night
+23380,3191,Frooto Mango Juice-500ml,2.2,2023-06-20 03:00:00,0,1,Summer,Night
+23466,32123,Ch Baby T-Shirt-21030 (4/23),1.1,2023-06-20 07:00:00,0,1,Summer,Morning
+23467,22234,Sprite-1.25 Lt(Pet),1.1,2023-06-20 08:00:00,0,1,Summer,Morning
+23468,14981,Lemon(Colombo)-Pc,6.6000000000000005,2023-06-20 12:00:00,0,1,Summer,Afternoon
+23483,31537,GD Tex Ind Ladies 3pcs-7775 (4/23),2.2,2023-06-20 13:00:00,0,1,Summer,Afternoon
+23380,545,Golden Raisin (Kismis)-200gm,1.1,2023-06-20 17:00:00,0,1,Summer,Evening
+23537,13997,Chicken Kima,1.2210000000000003,2023-06-20 18:00:00,0,1,Summer,Evening
+23539,14042,Qyality Egg Red (1 Dozen),1.1,2023-06-20 20:00:00,0,1,Summer,Evening
+23539,31227,Olympic Dry Cake-290gm,1.1,2023-06-20 20:00:00,0,1,Summer,Evening
+23546,1164,Naga Chilli Pickle-300g,1.1,2023-06-21 01:00:00,0,1,Summer,Night
+23549,14843,Cucumber Deshi (kg),0.6160000000000001,2023-06-21 04:00:00,0,1,Summer,Night
+23380,25437,Aarong Butter Salted-100gm,1.1,2023-06-21 08:00:00,0,1,Summer,Morning
+23462,32092,Ashraf Mujahid Lungi-875,1.1,2023-06-21 13:00:00,0,1,Summer,Afternoon
+23468,14062,Puti Fish (Deshi) (HB),0.5830000000000001,2023-06-21 16:00:00,0,1,Summer,Afternoon
+23478,32014,Ch Baby Set-82126 (4/23),1.1,2023-06-21 19:00:00,0,1,Summer,Evening
+23509,13985,Cow Lever-K,1.067,2023-06-21 20:00:00,0,1,Summer,Evening
+23520,2165,Vim Bar 300g (Lemon),1.1,2023-06-21 22:00:00,0,1,Summer,Night
+23522,42829,China T Shirt  3612(4/23),1.1,2023-06-22 00:00:00,0,1,Summer,Night
+23543,15104,Bomby Chilli-5Pcs,1.1,2023-06-22 05:00:00,0,1,Summer,Night
+23380,864,Pran Haleem Mix(200g),2.2,2023-06-22 07:00:00,0,1,Summer,Morning
+23468,30610,Sagu-250g,1.1,2023-06-22 11:00:00,0,1,Summer,Morning
+23479,3727,Pran Tomato Ketchup-340gm,1.1,2023-06-22 13:00:00,0,1,Summer,Afternoon
+23380,7182,Aarong Cheese - 100gm,1.1,2023-06-22 18:00:00,0,1,Summer,Evening
+23380,296,Chaka Advanced Ball Soap-125gm,4.4,2023-06-22 18:00:00,0,1,Summer,Evening
+23494,26890,Nescafe Creamy Latte- 6Pcs-18g,1.1,2023-06-22 20:00:00,0,1,Summer,Evening
+23503,42909,Rok Liquid Dishwash-250ml(Buy2 Get1 Free),1.1,2023-06-23 00:00:00,0,1,Summer,Night
+23506,4958,Teer Sugar-1Kg,2.2,2023-06-23 01:00:00,0,1,Summer,Night
+23523,13357,Queens Butter Bun- 100g,2.2,2023-06-23 06:00:00,0,1,Summer,Morning
+23537,562,Golden Raisin (Kismis)-500gm,1.1,2023-06-23 07:00:00,0,1,Summer,Morning
+23537,15265,Naspati(kg),1.408,2023-06-23 07:00:00,0,1,Summer,Morning
+23542,15180,Akher Sugar -1kg,1.1,2023-06-23 08:00:00,0,1,Summer,Morning
+23546,10339,Glo On Pink Glow Cream-25gm,1.1,2023-06-23 09:00:00,0,1,Summer,Morning
+23380,4841,Sun Chips Tomato Tango-75gm,2.2,2023-06-23 12:00:00,0,1,Summer,Afternoon
+23546,962,Fortune BS ELG Basmati Rice 1kg,1.1,2023-06-23 15:00:00,0,1,Summer,Afternoon
+99991,13988,Beef Bone Full,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99991,13988,Beef Bone Full,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99991,13988,Beef Bone Full,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99991,13988,Beef Bone Full,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99991,13988,Beef Bone Full,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99991,13988,Beef Bone Full,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99991,13988,Beef Bone Full,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99991,13988,Beef Bone Full,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99991,13988,Beef Bone Full,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99991,13988,Beef Bone Full,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99991,15180,Akher Sugar -1kg,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99991,15180,Akher Sugar -1kg,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99991,15180,Akher Sugar -1kg,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99991,15180,Akher Sugar -1kg,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99991,15180,Akher Sugar -1kg,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99991,15180,Akher Sugar -1kg,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99991,15180,Akher Sugar -1kg,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99991,15180,Akher Sugar -1kg,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99991,15180,Akher Sugar -1kg,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99991,15180,Akher Sugar -1kg,1.1,2023-03-01 10:00:00,0,0,Summer,Morning
+99992,13988,Beef Bone Full,1.1,2024-02-29 10:00:00,0,0,Winter,Morning
+99992,13988,Beef Bone Full,1.1,2024-02-29 10:00:00,0,0,Winter,Morning
+99992,13988,Beef Bone Full,1.1,2024-02-29 10:00:00,0,0,Winter,Morning
+99992,13988,Beef Bone Full,1.1,2024-02-29 10:00:00,0,0,Winter,Morning
+99992,13988,Beef Bone Full,1.1,2024-02-29 10:00:00,0,0,Winter,Morning
+99992,15180,Akher Sugar -1kg,1.1,2024-02-29 10:00:00,0,0,Winter,Morning
+99992,15180,Akher Sugar -1kg,1.1,2024-02-29 10:00:00,0,0,Winter,Morning
+99992,15180,Akher Sugar -1kg,1.1,2024-02-29 10:00:00,0,0,Winter,Morning
+99992,15180,Akher Sugar -1kg,1.1,2024-02-29 10:00:00,0,0,Winter,Morning
+99992,15180,Akher Sugar -1kg,1.1,2024-02-29 10:00:00,0,0,Winter,Morning
