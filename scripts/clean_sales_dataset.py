@@ -43,7 +43,7 @@ PLACEHOLDER_ITEMNAME_PATTERNS = [
     r"^undefined$",
 ]
 
-
+# Normalize
 def normalize_space(value: str) -> str:
     if value is None:
         return ""
@@ -75,6 +75,7 @@ def normalize_order_date(value: str) -> str:
     except ValueError:
         return s
 
+# Similar Item name merging
 
 def item_name_match_key(name: str) -> str:
     """
@@ -110,7 +111,7 @@ def name_similarity(a: str, b: str) -> Tuple[float, float]:
     tok = jaccard(set(item_name_tokens(a)), set(item_name_tokens(b)))
     return seq, tok
 
-
+# Unusual item names handling
 def is_unusual_or_fake_item_name(name: str) -> Tuple[bool, str]:
     s = normalize_item_name(name)
     if s == "":
@@ -175,7 +176,7 @@ def iqr_upper_bound(values: List[float], multiplier: float = 3.0) -> float:
     iqr = q3 - q1
     return q3 + multiplier * iqr
 
-
+# cleaning rows
 def to_clean_row(raw: Dict[str, str]) -> Dict[str, str]:
     row = {k: raw.get(k, "") for k in EXPECTED_COLUMNS}
     row["customerId"] = normalize_space(row["customerId"])

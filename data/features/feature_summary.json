@@ -1,0 +1,18 @@
+{
+  "input": "data/form_paste_clean_v2.csv",
+  "rows_processed": 5000,
+  "transactions": 926,
+  "customers": 315,
+  "items": 2296,
+  "output_dir": "data/features",
+  "files": [
+    "onehot_transaction_item_sparse.csv",
+    "onehot_transaction_item_dense.csv (optional via --dense-onehot)",
+    "item_user_matrix_sparse.csv",
+    "item_item_cooccurrence.csv",
+    "item_popularity.csv",
+    "item_category_map.csv",
+    "order_time_features.csv",
+    "basket_features.csv"
+  ]
+}
