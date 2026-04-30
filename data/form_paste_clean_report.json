@@ -1,0 +1,394 @@
+{
+  "input_path": "data/form_paste.csv",
+  "output_path": "data/form_paste_clean.csv",
+  "baskets_path": "data/form_paste_clean_baskets.csv",
+  "itemName_merge_map_path": "data/form_paste_clean_itemName_merge_map.json",
+  "total_input_rows": 370411,
+  "rows_after_base_validation": 369337,
+  "rows_removed_base_validation": 1074,
+  "rows_removed_outliers": 57219,
+  "min_basket_items": 2,
+  "orders_total_after_outliers": 53535,
+  "orders_removed_small_baskets": 10448,
+  "rows_removed_rare_items": 1106,
+  "min_item_freq": 2,
+  "total_rows_removed": 69887,
+  "total_rows_cleaned": 300524,
+  "removal_reasons_base_validation": {
+    "itemName_mostly_numeric": 2,
+    "quantity_non_positive": 758,
+    "itemName_placeholder": 160,
+    "itemName_weird_punctuation": 114,
+    "negative_discount": 38,
+    "itemName_too_short": 2
+  },
+  "itemName_merge_summary": {
+    "unique_item_names_before": 12436,
+    "unique_item_names_after": 10506,
+    "total_merges": 1930,
+    "seq_threshold": 0.92,
+    "token_threshold": 0.6,
+    "merge_examples": [
+      {
+        "from": "Onion Deshi(New)-1kg",
+        "to": "Onion Deshi(New)-kg",
+        "from_count": 779,
+        "seq_ratio": 0.973,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Coca Cola-1.25Lt(Pet)",
+        "to": "Coca Cola-2.25Lt(Pet)",
+        "from_count": 392,
+        "seq_ratio": 0.95,
+        "token_jaccard": 1.0
+      },
+      {
+        "from": "Milk Vita Liquid Milk-1/2Ltr",
+        "to": "Milk Vita Liquid Milk-1Ltr",
+        "from_count": 370,
+        "seq_ratio": 0.963,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Wheel 2in1 Clean & Fresh Powder-500g",
+        "to": "Wheel 2in1 Clean & Fresh Powder-1Kg",
+        "from_count": 333,
+        "seq_ratio": 0.9254,
+        "token_jaccard": 0.7143
+      },
+      {
+        "from": "Rui Fish (L)-(MNK)",
+        "to": "Rui Fish-M-(MNK)",
+        "from_count": 276,
+        "seq_ratio": 0.9286,
+        "token_jaccard": 1.0
+      },
+      {
+        "from": "Aarong Butter (Salted)-200gm",
+        "to": "Aarong Butter Salted-100gm",
+        "from_count": 226,
+        "seq_ratio": 0.9615,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Kolson Macarony-400gm All Flv.",
+        "to": "Kolson Macarony-200gm All Flv.",
+        "from_count": 209,
+        "seq_ratio": 0.9655,
+        "token_jaccard": 0.6667
+      },
+      {
+        "from": "KurKure Cream & Onion 75gm",
+        "to": "KurKure Cream & Onion 37gm",
+        "from_count": 203,
+        "seq_ratio": 0.9583,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Pran Aromatic Rice-1kg",
+        "to": "Pran Aromatic Rice-2kg",
+        "from_count": 198,
+        "seq_ratio": 0.9545,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Pusti Soyabean Oil-2Ltr",
+        "to": "Pusti Soyabean Oil-5Ltr",
+        "from_count": 193,
+        "seq_ratio": 0.9565,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "D Korean Ramen 3X Spicy Noodles-496gm",
+        "to": "D Korean Ramen 3X Spicy Noodles-248gm",
+        "from_count": 185,
+        "seq_ratio": 0.9459,
+        "token_jaccard": 0.7143
+      },
+      {
+        "from": "Wheel 2in1 Clean & Fresh Powder-2Kg",
+        "to": "Wheel 2in1 Clean & Fresh Powder-1Kg",
+        "from_count": 182,
+        "seq_ratio": 0.9697,
+        "token_jaccard": 0.7143
+      },
+      {
+        "from": "Belleame Digestive Biscuit- 225g",
+        "to": "Belleame Digestive Biscuit- 135g",
+        "from_count": 177,
+        "seq_ratio": 0.9355,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Radhuni Spices Cumin-200gm",
+        "to": "Radhuni Spices Cumin-100gm",
+        "from_count": 170,
+        "seq_ratio": 0.9615,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Nescafe Classic Jar-50g",
+        "to": "Nescafe Classic Jar-25gm",
+        "from_count": 169,
+        "seq_ratio": 0.9362,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Bashundhara F Soyabean Oil-2L",
+        "to": "Bashundhara F Soyabean Oil-5L",
+        "from_count": 164,
+        "seq_ratio": 0.9655,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Chia Seed (Dana) New-200g",
+        "to": "Chia Seed (Dana) New-100g",
+        "from_count": 164,
+        "seq_ratio": 0.9565,
+        "token_jaccard": 0.6667
+      },
+      {
+        "from": "Mirzapore Best Leaf Tea-500g",
+        "to": "Mirzapore Best Leaf Tea-400g",
+        "from_count": 150,
+        "seq_ratio": 0.9643,
+        "token_jaccard": 0.6667
+      },
+      {
+        "from": "Marks Belgian Chocolate Flavour - 125ml",
+        "to": "Marks Belgian Chocolate Flavour - 200ml",
+        "from_count": 133,
+        "seq_ratio": 0.9459,
+        "token_jaccard": 0.6667
+      },
+      {
+        "from": "Rupchada Chinigura Rice-2kg",
+        "to": "Rupchada Chinigura Rice 1kg",
+        "from_count": 133,
+        "seq_ratio": 0.963,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "KurKure Masala Manch 75gm",
+        "to": "KurKure Masala Manch 37gm",
+        "from_count": 125,
+        "seq_ratio": 0.96,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Pepsodent Gremichek+ Toothpaste-200gm",
+        "to": "Pepsodent Gremichek+ Toothpaste-100gm",
+        "from_count": 122,
+        "seq_ratio": 0.9722,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Harpoon Toilet Cleaner- 500ml",
+        "to": "Harpoon Toilet Cleaner- 750ml",
+        "from_count": 121,
+        "seq_ratio": 0.9643,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Marks Cookies & Cream Flavour - 125ml",
+        "to": "Marks Cookies & Cream Flavour - 200ml",
+        "from_count": 121,
+        "seq_ratio": 0.9394,
+        "token_jaccard": 0.6667
+      },
+      {
+        "from": "Radhuni Spices Cumin-50gm",
+        "to": "Radhuni Spices Cumin-100gm",
+        "from_count": 120,
+        "seq_ratio": 0.9412,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Teer Soyabean Oil-5Ltr",
+        "to": "Teer Soyabean Oil-1Ltr",
+        "from_count": 119,
+        "seq_ratio": 0.9545,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Milk Vita Butter-100g",
+        "to": "Milk Vita Butter-200g",
+        "from_count": 118,
+        "seq_ratio": 0.9524,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "China Spoon 6pc Set(05/23)",
+        "to": "China Spoon 6pcs Set(05/23)",
+        "from_count": 117,
+        "seq_ratio": 0.9804,
+        "token_jaccard": 0.7143
+      },
+      {
+        "from": "Ruchi Chanachur Hot-300gm",
+        "to": "Ruchi Chanachur Hot-150gm",
+        "from_count": 115,
+        "seq_ratio": 0.92,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "White Kazu Badam(Special)-200gm",
+        "to": "White Kazu Badam(Special)-100gm",
+        "from_count": 106,
+        "seq_ratio": 0.9667,
+        "token_jaccard": 0.6667
+      },
+      {
+        "from": "KurKure Chili Chatka 75gm",
+        "to": "KurKure Chili Chatka 37gm",
+        "from_count": 100,
+        "seq_ratio": 0.96,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Fresh Soyabean Oil-2Ltr",
+        "to": "Fresh Soyabean Oil-1Lt.",
+        "from_count": 98,
+        "seq_ratio": 0.9333,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "KurKure Spicy Chicken F.75gm",
+        "to": "KurKure Spicy Chicken 37gm",
+        "from_count": 96,
+        "seq_ratio": 0.9259,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "KurKure Naughty Tomato F.75gm",
+        "to": "KurKure Naughty Tomato 37gm",
+        "from_count": 93,
+        "seq_ratio": 0.9286,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Olympic Biscotti Elachi Cookies-80gm",
+        "to": "Olympic Salcoti Elachi Cookies-80gm",
+        "from_count": 93,
+        "seq_ratio": 0.9296,
+        "token_jaccard": 0.6667
+      },
+      {
+        "from": "Dragon Fruits",
+        "to": "Dragon Fruits (B)",
+        "from_count": 90,
+        "seq_ratio": 0.9286,
+        "token_jaccard": 1.0
+      },
+      {
+        "from": "China Foam Majuni(4/23)",
+        "to": "China Foam Majuni (4/23)",
+        "from_count": 89,
+        "seq_ratio": 1.0,
+        "token_jaccard": 1.0
+      },
+      {
+        "from": "Parachute Coconut Hair Oil-200ml",
+        "to": "Parachute Coconut Hair Oil 100ml",
+        "from_count": 88,
+        "seq_ratio": 0.9688,
+        "token_jaccard": 0.6667
+      },
+      {
+        "from": "Sensodyne Deep Clean Toothbrush",
+        "to": "Sensodyne Deep Clean Toothbrush {B2G1}",
+        "from_count": 85,
+        "seq_ratio": 0.9254,
+        "token_jaccard": 0.8
+      },
+      {
+        "from": "RD Chocolate Milk IPI-200ml",
+        "to": "RD Chocolate Milk -200ml",
+        "from_count": 84,
+        "seq_ratio": 0.92,
+        "token_jaccard": 0.8
+      },
+      {
+        "from": "Sensitive Ex Pepsodent Toothpaste-140g",
+        "to": "Sensitive Ex Pepsodent Toothpaste-80g",
+        "from_count": 80,
+        "seq_ratio": 0.96,
+        "token_jaccard": 0.6667
+      },
+      {
+        "from": "Muslim Masala Badam-200g",
+        "to": "Muslim Masala Badam-100g",
+        "from_count": 79,
+        "seq_ratio": 0.9583,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Pusti Mustard Oil-500ml",
+        "to": "Pusti Mustard Oil-250ml",
+        "from_count": 79,
+        "seq_ratio": 0.9565,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Mr. White Detergent Powder- 1kg",
+        "to": "Mr. White Detergent Powder- 2kg",
+        "from_count": 78,
+        "seq_ratio": 0.9655,
+        "token_jaccard": 0.6667
+      },
+      {
+        "from": "Barley For Eating-400gm",
+        "to": "Barley For Eating-200gm",
+        "from_count": 76,
+        "seq_ratio": 0.9565,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Pusti Soyabean Oil-1Ltr",
+        "to": "Pusti Soyabean Oil-5Ltr",
+        "from_count": 75,
+        "seq_ratio": 0.9565,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Omega 3 Enriched Egg-12pcs",
+        "to": "Omega 3 Enriched Egg-12pcs-T03",
+        "from_count": 74,
+        "seq_ratio": 0.9286,
+        "token_jaccard": 0.8
+      },
+      {
+        "from": "Ahmed Soya Sauce-250ml",
+        "to": "Ahmed Soya Sauce-500ml",
+        "from_count": 73,
+        "seq_ratio": 0.9545,
+        "token_jaccard": 0.6
+      },
+      {
+        "from": "Belleame Choco Little Biscuit -240gm",
+        "to": "Belleame Choco Little Biscuit-45gm",
+        "from_count": 73,
+        "seq_ratio": 0.9565,
+        "token_jaccard": 0.6667
+      },
+      {
+        "from": "H&S Black Bourbon Biscuts-40g",
+        "to": "H&S Black Bourbon Biscuts-100g",
+        "from_count": 72,
+        "seq_ratio": 0.9492,
+        "token_jaccard": 0.6
+      }
+    ]
+  },
+  "outlier_thresholds": {
+    "quantity_upper_iqr_3x": 4.28,
+    "netDiscount_upper_iqr_3x": 60.0,
+    "lineDiscount_upper_iqr_3x": 30.0
+  },
+  "stats_before_filter": {
+    "quantity_mean": 2.298413237774715,
+    "netDiscount_mean": 36.82510758467199,
+    "lineDiscount_mean": 0.6476348158998422
+  }
+}
