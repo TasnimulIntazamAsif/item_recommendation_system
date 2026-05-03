@@ -112,6 +112,7 @@ def name_similarity(a: str, b: str) -> Tuple[float, float]:
     return seq, tok
 
 # Unusual item names handling
+
 def is_unusual_or_fake_item_name(name: str) -> Tuple[bool, str]:
     s = normalize_item_name(name)
     if s == "":
