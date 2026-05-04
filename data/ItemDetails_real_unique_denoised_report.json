@@ -1,0 +1,19 @@
+{
+  "input_path": "ItemDetails (1).csv",
+  "output_path": "data/ItemDetails_real_unique_denoised.csv",
+  "total_input_rows": 184689,
+  "rows_after_cleaning": 88208,
+  "rows_removed_outliers": 3805,
+  "unique_item_names_before": 109783,
+  "unique_item_names_after_merge": 88208,
+  "unique_only_output": true,
+  "length_bounds_iqr": {
+    "min": 5.5,
+    "max": 57.5
+  },
+  "token_bounds_iqr": {
+    "min": 2.0,
+    "max": 10.0
+  },
+  "product_code_numeric_start": 100000
+}
